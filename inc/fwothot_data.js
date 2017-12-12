@@ -87,220 +87,162 @@
                     { "n":"Avoid Responsibility",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":7,    "b":"Modest Business Building"                    }
                 ]
             ],
-         '6' : [ "Bender",                     "Bee",                4, 0, 1, [
-
-             ] ],
-         '7' : [ "Bender",                     "Burglar",            2, 0, 0, [
-
-             ] ],
-         '8' : [ "Bender",                     "Ghost",              4, 0, 0, [
-
-             ] ],
-         '9' : [ "Bender",                     "Golden",             4, 0, 0, [
-
-             ] ],
-        '10' : [ "Bender",                     "Hunter",             3, 0, 2, [
-
-             ] ],
-        '11' : [ "Bender",                     "Pharaoh",            0, 0, 1, [
-
-             ] ],
-        '12' : [ "Bender",                     "Ramblin' Rodriguez", 3, 0, 0, [
-
-             ] ],
-        '76' : [ "Bender",                     "Santa Claus",        4, 0, 0, [
-
-             ] ],
-        '13' : [ "Bender's Mom",               null,                 2, 0, 1, [
-
-             ] ],
-        '14' : [ "Bev",                        null,                 3, 0, 0, [
-
-             ] ],
-        '15' : [ "Bill Nye",                   null,                 1, 0, 1, [
-
-             ] ],
-        '16' : [ "Billionairebot",             null,                 2, 0, 0, [
-
-             ] ],
-        '17' : [ "Blatherbot",                 null,                 2, 0, 0, [
-
-             ] ],
-        '18' : [ "The Borax Kid",              null,                 0, 0, 1, [
-
-             ] ],
-        '19' : [ "Boxy",                       null,                 3, 0, 1, [
-
-             ] ],
-        '20' : [ "Butcher Bot",                null,                 2, 0, 1, [
-
-             ] ],
-        '21' : [ "Calculon",                   null,                 0, 0, 0, [
-
-             ] ],
-        '22' : [ "Calculon",                   "Ghost",              2, 0, 0, [
-
-             ] ],
-        '23' : [ "Calculon",                   "Shakespeare",        4, 0, 0, [
-
-             ] ],
-        '24' : [ "Father Changstein El-Gamal", null,                 4, 0, 1, [
-
-             ] ],
-        '25' : [ "Chris Hardwick",             null,                 0, 0, 2, [
-
-             ] ],
-        '26' : [ "Crushinator",                null,                 4, 0, 1, [
-
-             ] ],
-        '27' : [ "Destructor",                 null,                 0, 0, 1, [
-
-             ] ],
-        '28' : [ "Dr. Cahill",                 null,                 1, 0, 1, [
-
-             ] ],
-        '29' : [ "Mutant Dwayne",              null,                 4, 0, 1, [
-
-             ] ],
-        '30' : [ "Fender",                     null,                 2, 0, 0, [
-
-             ] ],
-        '31' : [ "Flexo",                      null,                 2, 0, 1, [
-
-             ] ],
-        '32' : [ "Free Waterfall Jr.",         null,                 3, 0, 0, [
-
-             ] ],
-        '33' : [ "Fry",                        null,                 3, 1, 0, [
-
-             ] ],
-        '34' : [ "Fry",                        "Bachelor",           4, 0, 0, [
-
-             ] ],
-        '35' : [ "Fry",                        "Devilish",           0, 0, 0, [
-
-             ] ],
-        '77' : [ "Fry",                        "Power Suit",         3, 0, 2, [
-
-             ] ],
-        '36' : [ "Fry",                        "Robot",              2, 0, 0, [
-
-             ] ],
-        '37' : [ "Fry",                        "Slurm Duke",         4, 0, 0, [
-
-             ] ],
-        '38' : [ "George Takei",               null,                 0, 0, 1, [
-
-             ] ],
-        '39' : [ "Hattie McDoogal",            null,                 0, 0, 0, [
-
-             ] ],
-        '40' : [ "Hedonismbot",                null,                 2, 0, 0, [
-
-             ] ],
-        '41' : [ "Hermes",                     null,                 4, 0, 0, [
-
-             ] ],
-        '42' : [ "Hermes",                     "Mecha",              2, 0, 1, [
-
-             ] ],
-        '43' : [ "Horrible Gelatinous Blob",   null,                 3, 0, 1, [
-
-             ] ],
-        '44' : [ "Hookerbot",                  null,                 2, 0, 0, [
-
-             ] ],
-        '45' : [ "The Professor",              null,                 1, 1, 0, [
-
-             ] ],
-        '46' : [ "The Professor",              "Colonial",           0, 0, 0, [
-
-             ] ],
-        '47' : [ "Hyper-Chicken",              null,                 4, 0, 1, [
-
-             ] ],
-        '48' : [ "Kif",                        null,                 3, 0, 2, [
-
-             ] ],
-        '49' : [ "Kif",                        "Cowboy",             3, 0, 2, [
-
-             ] ],
-        '50' : [ "LaBarbara",                  null,                 4, 0, 1, [
-
-             ] ],
-        '51' : [ "Leela",                      null,                 0, 0, 2, [
-
-             ] ],
-        '52' : [ "Leela",                      "Colonial",           3, 0, 2, [
-
-             ] ],
-        '53' : [ "Leela",                      "Lee Lemon",          3, 0, 2, [
-
-             ] ],
-        '54' : [ "Leela",                      "Robot",              2, 0, 2, [
-
-             ] ],
-        '55' : [ "Leg Mutant",                 null,                 3, 0, 0, [
-
-             ] ],
-        '56' : [ "Lrrr",                       null,                 0, 0, 2, [
-
-             ] ],
-        '57' : [ "Malfunctioning Eddie",       null,                 3, 0, 0, [
-
-             ] ],
-        '58' : [ "Monique",                    null,                 4, 0, 2, [
-
-             ] ],
-        '61' : [ "Ndnd",                       null,                 4, 0, 2, [
-
-             ] ],
-        '59' : [ "Neil deGrasse Tyson",        null,                 1, 0, 0, [
-
-             ] ],
-        '60' : [ "Nixon & Agnew",              null,                 0, 0, 2, [
-
-             ] ],
-        '62' : [ "Pazuzu",                     null,                 3, 0, 1, [
-
-             ] ],
-        '63' : [ "Mr. Peppy",                  null,                 3, 0, 3, [
-
-             ] ],
-        '64' : [ "Lionel Preacherbot",         null,                 2, 0, 0, [
-
-             ] ],
-        '65' : [ "Roberto",                    null,                 5, 0, 1, [
-
-             ] ],
-        '66' : [ "Robot Devil",                null,                 5, 0, 2, [
-
-             ] ],
-        '67' : [ "Robot Gypsy",                null,                 4, 0, 2, [
-
-             ] ],
-        '68' : [ "Scruffy",                    null,                 4, 0, 1, [
-
-             ] ],
-        '69' : [ "Slurms McKenzie",            null,                 0, 0, 0, [
-
-             ] ],
-        '70' : [ "Smitty",                     null,                 3, 0, 1, [
-
-             ] ],
-        '71' : [ "Stephen Hawking",            null,                 1, 0, 2, [
-
-             ] ],
-        '75' : [ "Tinny Tim",                  null,                 3, 0, 0, [
-
-             ] ],
-        '72' : [ "URL",                        null,                 2, 0, 1, [
-
-             ] ],
-        '73' : [ "URL",                        "Off-duty",           3, 0, 1, [
-
-             ] ],
-        '74' : [ "Mutant Vyolet",              null,                 3, 0, 0, [
-
-             ] ]
+         '6' : [ "Bender",                     "Bee",                4, 0, 1, 
+                [
+                    { "n":"Bee Dance",                                  "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Botching a Delivery",                        "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2,    "b":"Planet Express Building"                     },
+                    { "n":"Pick Up Some Honey",                         "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1,    "b":"7^11"                                        },
+                    { "n":"Sell Honey",                                 "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1     },
+                    { "n":"Swell the Belly with Nectar",                "d":"P0T05:00:00",  "c":110,  "x":73,   "l":2,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Hang Out at the Hive",                       "d":"P0T06:00:00",  "c":125,  "x":85,   "l":3,    "b":"Robot Arms Apts."                            },
+                    { "n":"Take a Queen",                               "d":"P0T08:00:00",  "c":155,  "x":105,  "l":4,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Sting Someone in Self Defense",              "d":"P0T10:00:00",  "c":180,  "x":119,  "l":6,    "b":"Avenue Hotel"                                },
+                    { "n":"Get a Buzz Cut",                             "d":"P0T12:00:00",  "c":200,  "x":130,  "l":5,    "b":"City Tower"                                  },
+                    { "n":"Look for a Queen Bee",                       "d":"P0T16:00:00",  "c":230,  "x":150,  "l":7,    "b":"Electric Ladyland"                           },
+                    { "n":"Run a Sting Operation",                      "d":"P0T18:00:00",  "c":250,  "x":164,  "l":8,    "b":"NNYPD Precinct"                              },
+                    { "n":"Admire the Work of Pablo Bee-caso",          "d":"P1T00:00:00",  "c":300,  "x":195,  "l":9,    "b":"Museum of Really Modern Art"                 }
+                ]
+            ],
+         '7' : [ "Bender",                     "Burglar",            2, 0, 0, 
+            ],
+         '8' : [ "Bender",                     "Ghost",              4, 0, 0, 
+            ],
+         '9' : [ "Bender",                     "Golden",             4, 0, 0, 
+            ],
+        '10' : [ "Bender",                     "Hunter",             3, 0, 2, 
+            ],
+        '11' : [ "Bender",                     "Pharaoh",            0, 0, 1, 
+            ],
+        '12' : [ "Bender",                     "Ramblin' Rodriguez", 3, 0, 0, 
+            ],
+        '76' : [ "Bender",                     "Santa Claus",        4, 0, 0, 
+            ],
+        '13' : [ "Bender's Mom",               null,                 2, 0, 1, 
+            ],
+        '14' : [ "Bev",                        null,                 3, 0, 0, 
+            ],
+        '15' : [ "Bill Nye",                   null,                 1, 0, 1, 
+            ],
+        '16' : [ "Billionairebot",             null,                 2, 0, 0, 
+            ],
+        '17' : [ "Blatherbot",                 null,                 2, 0, 0, 
+            ],
+        '18' : [ "The Borax Kid",              null,                 0, 0, 1, 
+            ],
+        '19' : [ "Boxy",                       null,                 3, 0, 1, 
+            ],
+        '20' : [ "Butcher Bot",                null,                 2, 0, 1, 
+            ],
+        '21' : [ "Calculon",                   null,                 0, 0, 0, 
+            ],
+        '22' : [ "Calculon",                   "Ghost",              2, 0, 0, 
+            ],
+        '23' : [ "Calculon",                   "Shakespeare",        4, 0, 0, 
+            ],
+        '24' : [ "Father Changstein El-Gamal", null,                 4, 0, 1, 
+            ],
+        '25' : [ "Chris Hardwick",             null,                 0, 0, 2, 
+            ],
+        '26' : [ "Crushinator",                null,                 4, 0, 1, 
+            ],
+        '27' : [ "Destructor",                 null,                 0, 0, 1, 
+            ],
+        '28' : [ "Dr. Cahill",                 null,                 1, 0, 1, 
+            ],
+        '29' : [ "Mutant Dwayne",              null,                 4, 0, 1, 
+            ],
+        '30' : [ "Fender",                     null,                 2, 0, 0, 
+            ],
+        '31' : [ "Flexo",                      null,                 2, 0, 1, 
+            ],
+        '32' : [ "Free Waterfall Jr.",         null,                 3, 0, 0, 
+            ],
+        '33' : [ "Fry",                        null,                 3, 1, 0, 
+            ],
+        '34' : [ "Fry",                        "Bachelor",           4, 0, 0, 
+            ],
+        '35' : [ "Fry",                        "Devilish",           0, 0, 0, 
+            ],
+        '77' : [ "Fry",                        "Power Suit",         3, 0, 2, 
+            ],
+        '36' : [ "Fry",                        "Robot",              2, 0, 0, 
+            ],
+        '37' : [ "Fry",                        "Slurm Duke",         4, 0, 0, 
+            ],
+        '38' : [ "George Takei",               null,                 0, 0, 1, 
+            ],
+        '39' : [ "Hattie McDoogal",            null,                 0, 0, 0, 
+            ],
+        '40' : [ "Hedonismbot",                null,                 2, 0, 0, 
+            ],
+        '41' : [ "Hermes",                     null,                 4, 0, 0, 
+            ],
+        '42' : [ "Hermes",                     "Mecha",              2, 0, 1, 
+            ],
+        '43' : [ "Horrible Gelatinous Blob",   null,                 3, 0, 1, 
+            ],
+        '44' : [ "Hookerbot",                  null,                 2, 0, 0, 
+            ],
+        '45' : [ "The Professor",              null,                 1, 1, 0, 
+            ],
+        '46' : [ "The Professor",              "Colonial",           0, 0, 0, 
+            ],
+        '47' : [ "Hyper-Chicken",              null,                 4, 0, 1, 
+            ],
+        '48' : [ "Kif",                        null,                 3, 0, 2, 
+            ],
+        '49' : [ "Kif",                        "Cowboy",             3, 0, 2, 
+            ],
+        '50' : [ "LaBarbara",                  null,                 4, 0, 1, 
+            ],
+        '51' : [ "Leela",                      null,                 0, 0, 2, 
+            ],
+        '52' : [ "Leela",                      "Colonial",           3, 0, 2, 
+            ],
+        '53' : [ "Leela",                      "Lee Lemon",          3, 0, 2, 
+            ],
+        '54' : [ "Leela",                      "Robot",              2, 0, 2, 
+            ],
+        '55' : [ "Leg Mutant",                 null,                 3, 0, 0, 
+            ],
+        '56' : [ "Lrrr",                       null,                 0, 0, 2, 
+            ],
+        '57' : [ "Malfunctioning Eddie",       null,                 3, 0, 0, 
+            ],
+        '58' : [ "Monique",                    null,                 4, 0, 2, 
+            ],
+        '61' : [ "Ndnd",                       null,                 4, 0, 2, 
+            ],
+        '59' : [ "Neil deGrasse Tyson",        null,                 1, 0, 0, 
+            ],
+        '60' : [ "Nixon & Agnew",              null,                 0, 0, 2, 
+            ],
+        '62' : [ "Pazuzu",                     null,                 3, 0, 1, 
+            ],
+        '63' : [ "Mr. Peppy",                  null,                 3, 0, 3, 
+            ],
+        '64' : [ "Lionel Preacherbot",         null,                 2, 0, 0, 
+            ],
+        '65' : [ "Roberto",                    null,                 5, 0, 1, 
+            ],
+        '66' : [ "Robot Devil",                null,                 5, 0, 2, 
+            ],
+        '67' : [ "Robot Gypsy",                null,                 4, 0, 2, 
+            ],
+        '68' : [ "Scruffy",                    null,                 4, 0, 1, 
+            ],
+        '69' : [ "Slurms McKenzie",            null,                 0, 0, 0, 
+            ],
+        '70' : [ "Smitty",                     null,                 3, 0, 1, 
+            ],
+        '71' : [ "Stephen Hawking",            null,                 1, 0, 2, 
+            ],
+        '75' : [ "Tinny Tim",                  null,                 3, 0, 0, 
+            ],
+        '72' : [ "URL",                        null,                 2, 0, 1, 
+            ],
+        '73' : [ "URL",                        "Off-duty",           3, 0, 1, 
+            ],
+        '74' : [ "Mutant Vyolet",              null,                 3, 0, 0, 
+            ]
     };

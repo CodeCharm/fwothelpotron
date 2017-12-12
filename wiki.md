@@ -1,170 +1,124 @@
 ==Actions==
 {{Table Header Action}}
 {{Action
-| image=Bender Instigate a Bar Fight.png
-| name=Instigate a Bar Fight
+| event=
+| image=Bee Bender Bee Dance.png
+| name=Bee Dance
 | time=1h 0m 0s
 | currency=35
 | xp=23
 | requirements_level=
+| animated=yes
+}}
+{{Action
+| event=
+| image=Bee Bender Botching a Delivery.png
+| name=Botching a Delivery
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=2
+| requirements_building=Planet Express Building
+}}
+{{Action
+| event=
+| image=Bee Bender Pick Up Some Honey.png
+| name=Pick Up Some Honey
+| time=3h 0m 0s
+| currency=80
+| xp=54
+| requirements_level=
+| requirements_building=7^11
+}}
+{{Action
+| event=
+| image=Bee Bender Sell Honey.png
+| name=Sell Honey
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=
+| animated=yes
+}}
+{{Action
+| event=
+| image=Bee Bender Swell the Belly with Nectar.png
+| name=Swell the Belly with Nectar
+| time=5h 0m 0s
+| currency=110
+| xp=73
+| requirements_level=2
 | requirements_building=O'Zorgnax's Pub
 }}
 {{Action
-| image=Bender Recharge His Battery.png
-| name=Recharge His Battery
-| time=1h 0m 0s
-| currency=35
-| xp=23
+| event=
+| image=Bee Bender Hang Out at the Hive.png
+| name=Hang Out at the Hive
+| time=6h 0m 0s
+| currency=125
+| xp=85
 | requirements_level=3
 | requirements_building=Robot Arms Apts.
 }}
 {{Action
-| image=Bender Shoplift for Fun.png
-| name=Shoplift for Fun
-| time=1h 0m 0s
-| currency=35
-| xp=23
+| event=
+| image=Bee Bender Take a Queen.png
+| name=Take a Queen
+| time= 8h 0m 0s
+| currency=155
+| xp=105
 | requirements_level=4
-| requirements_building=7^11
-}}
-{{Action
-| image=Bender Zoom In.png
-| name=Zoom In
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| animated=yes
-}}
-{{Action
-| image=Bender Bend Girders.png
-| name=Bend Girders
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=5
-| animated=yes
-}}
-{{Action
-| image=Bender Get It on with Robot Cars.png
-| name=Get It on with Robot Cars
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
-}}
-{{Action
-| image = Crushinator Play the Game of Seduction.png
-| name = Play the Game of Seduction
-| time = 2h 0m 0s
-| currency = 65
-| xp = 40
-| requirements_character = Crushinator
-| animated = yes
-}}
-{{Action
-| image=Bender Watch All My Circuits.png
-| name=Watch "All My Circuits"
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=5
-| requirements_building=Planet Express Building
-}}
-{{Action
-| image=Bender Go for a Spin.png
-| name=Go for a Spin
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| animated=yes
-}}
-{{Action
-| image=Bender Receive a Laptop Dance.png
-| name=Receive a Laptop Dance
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=5
-| requirements_building=Electric Ladyland
-}}
-{{Action
-| image=Bender Eat Hot Pockets.png
-| name=Eat Hot Pockets
-| time=3h 0m 0s
-| currency=8 weed
-| xp=54
-| requirements_character=Bachelor Fry
-| animated=yes
-}}
-{{Action
-| image=Bender Fall on His Back.png
-| name=Fall on His Back
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=6
-| animated=yes
-}}
-{{Action
-| image=Bender Plot a Heist.png
-| name=Plot a Heist
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=6
-| requirements_building=Avenue Hotel
-}}
-{{Action
-| image=Bender Vandalize Property.png
-| name=Vandalize Property
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=6
-| requirements_building=City Tower
-}}
-{{Action
-| image=Bender Take Some Snaps.png
-| name=Take Some Snaps
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| animated=yes
-}}
-{{Action
-| image=Bender Raid Liquor Cabinets.png
-| name=Raid Liquor Cabinets
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=7
-| requirements_building=Avenue Hotel
-}}
-{{Action
-| image=Bender Run a Scam Dating Service.png
-| name=Run a Scam Dating Service
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_building=Modest Business Building
-}}
-{{Action
-| image=Bender Pawn Stolen Heirlooms.png
-| name=Pawn Stolen Heirlooms
-| time=8h 0m 0s
-| currency=155
-| xp=105
 | requirements_building=Rook Takes Pawnshop
 }}
 {{Action
-| image=Bender Avoid Responsibility.png
-| name=Avoid Responsibility
-| time=8h 0m 0s
-| currency=155
-| xp=105
+| event=
+| image=Bee Bender Sting Someone in Self Defense.png
+| name=Sting Someone in Self Defense
+| time=10h 0m 0s
+| currency=180
+| xp=119
+| requirements_level=6
+| requirements_building=Avenue Hotel
+}}
+{{Action
+| event=
+| image=Bee Bender Get a Buzz Cut.png
+| name=Get a Buzz Cut
+| time=12h 0m 0s
+| currency=200
+| xp=130
+| requirements_level=5
+| requirements_building=City Tower
+}}
+{{Action
+| event=
+| image=Bee Bender Look for a Queen Bee.png
+| name=Look for a Queen Bee
+| time=16h 0m 0s
+| currency=230
+| xp=150
 | requirements_level=7
-| requirements_building=Modest Business Building
+| requirements_building=Electric Ladyland
+}}
+{{Action
+| event=
+| image=Bee Bender Run a Sting Operation.png
+| name=Run a Sting Operation
+| time=18h 0m 0s
+| currency=250
+| xp=164
+| requirements_level=8
+| requirements_building=NNYPD Precinct
+}}
+{{Action
+| event=
+| image=Bee Bender Admire the Work of Pablo Bee-caso.png
+| name=Admire the Work of Pablo Bee-caso
+| time=1d 0h 0m 0s
+| currency=300
+| xp=195
+| requirements_level=9
+| requirements_building= Museum of Really Modern Art
 }}
 |}
 {{Section Top|Actions}}
-{{Outfit Gallery}}
