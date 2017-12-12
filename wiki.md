@@ -1,200 +1,152 @@
 ==Actions==
 {{Table Header Action}}
 {{Action
-| event=
-| image=O'Zorgnax's Pub.png
-| name=Entertain at the Bar
-| quote=
+| image=Flexo Bust Chops.png
+| name=Bust Chops
+| quote=Breaking everyone’s bolts...
 | time=1h 0m 0s
 | currency=35
 | xp=23
-| requirements_level=5
-| requirements_character=
-| requirements_building=O'Zorgnax's Pub
-| animated=
+| requirements_level=2
+| requirements_building=Planet Express Building
 }}
 {{Action
-| event=
-| image=Fender Light It Up.png
-| name=Light It Up
-| quote=
+| image=Flexo Drink a Martini.png
+| name=Drink a Martini
+| quote=Priming the pump...
 | time=2h 0m 0s
 | currency=65
 | xp=40
-| requirements_level=3
-| requirements_character=
-| requirements_building=
 | animated=yes
 }}
 {{Action
-| event=
-| image=Rook Takes Pawnshop.png
-| name=Replace a Speaker
-| quote=
+| image=Flexo Get a Free Night.png
+| name=Get a Free Night
+| quote=Sleeping in...
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=6
+| requirements_building=City Tower
+}}
+{{Action
+| image=Robot Arms Apts..png
+| name=Stake Out a New Place
+| quote=Fitting right in...
 | time=3h 0m 0s
 | currency=80
 | xp=54
-| requirements_level=8
-| requirements_character=
-| requirements_building=Rook Takes Pawnshop
-| animated=
+| requirements_level=2
+| requirements_building=Robot Arms Apts.
 }}
 {{Action
-| event=
-| image=Fender Rock On.png
-| name=Rock On
-| quote=
+| image=Flexo Get a Good Deal.png
+| name=Get a Good Deal
+| quote=Making them pay...
 | time=4h 0m 0s
 | currency=95
 | xp=60
-| requirements_level=1
-| requirements_character=
-| requirements_building=
-| animated=yes
+| requirements_level=4
+| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
 }}
 {{Action
-| event=
-| image=City Tower.png
-| name=Play a Song
-| quote=
+| image=Flexo Shop for Spare Goatees.png
+| name=Shop for Spare Goatees
+| quote=Looking in the mirror, mirror...
 | time=4h 0m 0s
 | currency=95
 | xp=60
-| requirements_level=1
-| requirements_character=
-| requirements_building=City Tower
-| animated=
+| requirements_building=7^11
+}}
+
+{{Action
+| image=O'Zorgnax's Pub.png
+| name=Josh With the Locals
+| quote=Raising the bar...
+| time=5h 0m 0s
+| currency=110
+| xp=73
+| requirements_level=5
+| requirements_building=O'Zorgnax's Pub
 }}
 {{Action
-| event=
-| image=7^11.png
-| name=Repeat His Question
-| quote=
+| image=Cavern on the Green.png
+| name=Dine and Dash
+| quote=Eating and running...
 | time=6h 0m 0s
 | currency=125
 | xp=85
-| requirements_level=4
-| requirements_character=
-| requirements_building=7^11
-| animated=
+| requirements_building=Cavern on the Green
 }}
 {{Action
-| event=
-| image=Electric Ladyland.png
-| name=Provide Free Music
-| quote=
-| time=7h 0m 0s
-| currency=140
-| xp=93
-| requirements_level=9
-| requirements_character=
-| requirements_building=Electric Ladyland
-| animated=
-}}
-{{Action
-| event=
-| image=Fender Slap the Bass.png
-| name=Slap the Bass
-| quote=
+| image=Flexo Flex His Muscles.png
+| name=Flex His Muscles
+| quote=Earning his name...
 | time=8h 0m 0s
 | currency=155
 | xp=105
-| requirements_level=2
-| requirements_character=
-| requirements_building=
 | animated=yes
 }}
 {{Action
-| event=
-| image=Modest Business Building.png
-| name=Disturb the Neighbors
-| quote=
-| time=9h 0m 0s
-| currency=170
-| xp=112
-| requirements_level=20
-| requirements_character=
-| requirements_building=Modest Business Building
-| animated=
+| image=Flexo Pay for a Special Dance.png
+| name=Pay for a Special Dance
+| quote=Grinding his gears...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=3
+| requirements_building=Electric Ladyland
 }}
 {{Action
-| event=
-| image=Planet Express Building.png
-| name=Increase the Volume
-| quote=
+| image=Flexo Fight.png
+| name=Fight
+| quote=Bobbing and weaving...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=
+| requirements_character=Bender
+}}
+{{Action
+| image=Flexo Maintain His Innocence.png
+| name=Maintain His Innocence
+| quote=Copping a plea...
 | time=10h 0m 0s
 | currency=180
 | xp=119
-| requirements_level=6
-| requirements_character=
-| requirements_building=Planet Express Building
-| animated=
+| requirements_level=7
+| requirements_building=NNYPD Precinct
 }}
 {{Action
-| event=
-| image=Robot Arms Apts.png
-| name=Wake Up the Tenants
-| quote=
+| image=Flexo Swindle Businessmen.png
+| name=Swindle Businessmen
+| quote=Conning the conmen...... <!--yes, the game uses 6 whole periods-->
 | time=12h 0m 0s
 | currency=200
 | xp=130
-| requirements_level=7
-| requirements_character=
-| requirements_building=Robot Arms Apts.
-| animated=
+| requirements_level=8
+| requirements_building=Modest Business Building
 }}
 {{Action
-| event=
-| image=Avenue Hotel.png
-| name=Mingle with VIPs
-| quote=
+| image=Flexo Steal Cable.png
+| name=Steal Cable
+| quote=Changing channels...
 | time=16h 0m 0s
 | currency=230
 | xp=150
-| requirements_level=18
-| requirements_character=
-| requirements_building=Avenue Hotel
-| animated=
+| requirements_level=9
+| requirements_building=Satellite Building
 }}
 {{Action
-| event=
-| image=NNYPD Precinct.png
-| name=Startle the Officers
-| quote=
-| time=18h 0m 0s
-| currency=250
-| xp=164
-| requirements_level=14
-| requirements_character=
-| requirements_building=NNYPD Precinct
-| animated=
-}}
-{{Action
-| event=
-| image=Cavern on the Green.png
-| name=Chew Loudly
-| quote=
-| time=20h 0m 0s
-| currency=265
-| xp=176
-| requirements_level=12
-| requirements_character=
-| requirements_building=Cavern on the Green
-| animated=
-}}
-{{Action
-| event=
-| image=Malfunctioning Eddie's Rocket Car Emporium.png
-| name=Ask About the Subwoofers
-| quote=
+| image=Flexo Raid the Vault.png
+| name=Raid the Vault
+| quote=Scooping up the loot...
 | time=1d 0h 0m 0s
 | currency=300
 | xp=195
 | requirements_level=10
-| requirements_character=
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
-| animated=
+| requirements_building=Diamonds are Forever
 }}
 |}
 {{Section Top|Actions}}
-{{Nav Character}}
+{{Outfit Gallery}}

@@ -70,8 +70,8 @@ $text = $text -replace '([\]\[])\s*', "`$1`r`n"
 $text = $text -replace '{ "n":', '    $0'
 
 # look for missing levels
-$text = $text -replace '("x":\d+)(\s+)}', '$1,   "l":1$2}'
-$text = $text -replace '("x":\d+,)(\s+)("h":|"b":)', '$1"l":1,$2$3'
+$text = $text -replace '("x":\d+)(\s+)}', '$1,   "l":1$2 }'
+$text = $text -replace '("x":\d+,)(\s+)("h":|"b":)', '$1   "l":1,$2 $3'
 
 #$text = $text + ']'
 $text | Out-File actions.json

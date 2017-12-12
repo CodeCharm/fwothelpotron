@@ -486,6 +486,23 @@
                 ]
             ],
         '31' : [ "Flexo",                      null,                 2, 0, 1, 
+                [
+                    { "n":"Bust Chops",                                 "d":"P0T01:00:00",  "c":35,   "x":23,   "l":2,    "b":"Planet Express Building"                     },
+                    { "n":"Drink a Martini",                            "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Get a Free Night",                           "d":"P0T02:00:00",  "c":65,   "x":40,   "l":6,    "b":"City Tower"                                  },
+                    { "n":"Stake Out a New Place",                      "d":"P0T03:00:00",  "c":80,   "x":54,   "l":2,    "b":"Robot Arms Apts."                            },
+                    { "n":"Get a Good Deal",                            "d":"P0T04:00:00",  "c":95,   "x":60,   "l":4,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Shop for Spare Goatees",                     "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"7^11"                                        },
+                    { "n":"Josh With the Locals",                       "d":"P0T05:00:00",  "c":110,  "x":73,   "l":5,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Dine and Dash",                              "d":"P0T06:00:00",  "c":125,  "x":85,   "l":1,    "b":"Cavern on the Green"                         },
+                    { "n":"Flex His Muscles",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1     },
+                    { "n":"Pay for a Special Dance",                    "d":"P0T08:00:00",  "c":155,  "x":105,  "l":3,    "b":"Electric Ladyland"                           },
+                    { "n":"Fight",                                      "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "h":"Bender"                                      },
+                    { "n":"Maintain His Innocence",                     "d":"P0T10:00:00",  "c":180,  "x":119,  "l":7,    "b":"NNYPD Precinct"                              },
+                    { "n":"Swindle Businessmen",                        "d":"P0T12:00:00",  "c":200,  "x":130,  "l":8,    "b":"Modest Business Building"                    },
+                    { "n":"Steal Cable",                                "d":"P0T16:00:00",  "c":230,  "x":150,  "l":9,    "b":"Satellite Building"                          },
+                    { "n":"Raid the Vault",                             "d":"P1T00:00:00",  "c":300,  "x":195,  "l":10,   "b":"Diamonds are Forever"                        }
+                ]
             ],
         '32' : [ "Free Waterfall Jr.",         null,                 3, 0, 0, 
             ],
