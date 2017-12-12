@@ -174,6 +174,7 @@ function drawCharTable() {
                 if (chr_act && chr_act.length > 0) {
                     chr_txt += '<div class="tbl_a">';
                     var maxYield = 0;
+                    var chr_lvl = work_data[value][3];
                     $.each(chr_act, function (index, value) {
                         var dur_d = value.d.match(/P(\d)T/)[1];
                         var dur_h = value.d.match(/T(\d\d):/)[1];
@@ -200,6 +201,7 @@ function drawCharTable() {
                         value.dur_2h = tot_s >= 7200 && tot_s < 14400;
                         value.dur_4h = tot_s >= 14400 && tot_s <= 28800;
                         value.dur_8h = tot_s >= 28800;
+                        value.overLevel = value.l > chr_lvl;
                     });
                     $.each(chr_act, function (index, value) {
                         var maxYieldClass = (value.yield >= (maxYield * 0.9)) ? ' maxYield' : '';
@@ -208,8 +210,9 @@ function drawCharTable() {
                         maxYieldClass += value.dur_2h ? ' dur_2h' : '';
                         maxYieldClass += value.dur_4h ? ' dur_4h' : '';
                         maxYieldClass += value.dur_8h ? ' dur_8h' : '';
+                        maxYieldClass += value.overLevel ? ' overLevel' : '';
                         chr_txt += '<div class="tbl_r1' + maxYieldClass + '"><div class="tbl_c">' + value.n + '</div><div class="tbl_c">' + value.duration + '</div><div class="tbl_c">&curren; ' + value.c + '</div><div class="tbl_c">' + value.yield.toFixed(2) + '</div><div class="tbl_c">Lvl: ' + value.l + '</div></div>';
-                        if (value.b || value.h) {
+                        if (!value.overLevel && (value.b || value.h)) {
                             chr_txt += '<div class="tbl_r2' + maxYieldClass + '"><div class="tbl_c">' + (value.b ? ('Required building: ' + value.b) : ('Required character: ' + value.h)) + '</div></div>';
                         }
                     });

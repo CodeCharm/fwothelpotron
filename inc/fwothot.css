@@ -139,6 +139,7 @@
     .tbl_m .dur_2h { border-left: solid thick maroon; border-right: solid thick maroon; }
     .tbl_m .dur_4h { border-left: solid thick darkgreen; border-right: solid thick darkgreen; }
     .tbl_m .dur_8h { border-left: solid thick saddlebrown; border-right: solid thick saddlebrown; }
+    .tbl_m .overLevel { text-decoration-line: line-through; color: InactiveCaptionText; }
 
     .tbl_m .tbl_a .tbl_c { padding: 7px 5px; line-height: 20px; }
     .tbl_m .tbl_a .tbl_c:first-child { padding-left: 20px; }
