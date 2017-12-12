@@ -416,6 +416,23 @@
                 ]
             ],
         '27' : [ "Destructor",                 null,                 0, 0, 1, 
+                [
+                    { "n":"Chase a Butterfly",                          "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Break Glasses",                              "d":"P0T02:00:00",  "c":65,   "x":40,   "l":3,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Destroy a Wall",                             "d":"P0T03:00:00",  "c":80,   "x":54,   "l":4,    "b":"Planet Express Building"                     },
+                    { "n":"Answer the Telephones",                      "d":"P0T04:00:00",  "c":95,   "x":60,   "l":13,   "b":"Satellite Building"                          },
+                    { "n":"Flip Over a Car",                            "d":"P0T04:00:00",  "c":95,   "x":60,   "l":10,   "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Wake Up the Tenants",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":7,    "b":"Robot Arms Apts."                            },
+                    { "n":"Wrestle to the Death",                       "d":"P0T00:00:00",  "c":0,    "x":0,    "l":1,    "h":"Bender"                                      },
+                    { "n":"Break the Buffet Tables",                    "d":"P0T06:00:00",  "c":125,  "x":85,   "l":11,   "b":"Electric Ladyland"                           },
+                    { "n":"Breakdance",                                 "d":"P0T06:00:00",  "c":125,  "x":85,   "l":7     },
+                    { "n":"Ransack the Merchandise",                    "d":"P0T06:00:00",  "c":125,  "x":85,   "l":8,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Free the Convicts",                          "d":"P0T08:00:00",  "c":155,  "x":105,  "l":14,   "b":"NNYPD Precinct"                              },
+                    { "n":"Scare the Guests",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":9,    "b":"New New York Plaza"                          },
+                    { "n":"Trash the Aisles",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":5,    "b":"7^11"                                        },
+                    { "n":"Yell His Name",                              "d":"P0T08:00:00",  "c":155,  "x":105,  "l":12,   "b":"Modest Business Building"                    },
+                    { "n":"Act Like a Bull in a China Shop",            "d":"P0T12:00:00",  "c":200,  "x":130,  "l":16,   "b":"Diamonds are Forever"                        }
+                ]
             ],
         '28' : [ "Dr. Cahill",                 null,                 1, 0, 1, 
             ],

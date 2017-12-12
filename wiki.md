@@ -1,9 +1,9 @@
 ==Actions==
 {{Table Header Action}}
 {{Action
-| image=Crushinator Ride Low.png
-| name=Ride Low
-| quote=Scraping her chassis...
+| image=Destructor Chase a Butterfly.png
+| name=Chase a Butterfly
+| quote=Taking a destruction break...
 | time=1h 0m 0s
 | currency=35
 | xp=23
@@ -11,145 +11,158 @@
 | animated=yes
 }}
 {{Action
-| image=Crushinator Look for Love.png
-| name=Look for Love
-| quote=Pouring her roboheart out...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=1
-| requirements_building=O'Zorgnax's Pub
-}}
-{{Action
-| image=Crushinator Eat Her Feelings.png
-| name=Eat Her Feelings
-| quote=Buying out the store...
+| event=
+| image=Destructor Break Glasses.png
+| name=Break Glasses
+| quote=Shattering the drinkware...
 | time=2h 0m 0s
 | currency=65
 | xp=40
-| requirements_level=5
-| requirements_building=7^11
+| requirements_level=3
+| requirements_building=O'Zorgnax's Pub
 }}
 {{Action
-| image = Crushinator Play the Game of Seduction.png
-| name = Play the Game of Seduction
-| quote = Killing them not-so-softly...
-| time = 2h 0m 0s
-| currency = 65
-| xp = 40
-| requirements_level=?
-| requirements_character = Bender
-| animated = yes
-}}
-{{Action
-| image=Crushinator Look for Large Bumpers.png
-| name=Look for Large Bumpers
-| quote=Padding her figure...
+| event=
+| image=Destructor Destroy a Wall.png
+| name=Destroy a Wall
+| quote=Breaking on through to the other side...
 | time=3h 0m 0s
 | currency=80
 | xp=54
 | requirements_level=4
-| requirements_building=Rook Takes Pawnshop
+| requirements_building=Planet Express Building
 }}
 {{Action
-| image=Crushinator Crush Rocks.png
-| name=Crush Rocks
-| quote=Living up to her name...
+| event=
+| image=Destructor Answer the Telephones.png
+| name=Answer the Telephones
+| quote=Coming through loud and clear...
 | time=4h 0m 0s
 | currency=95
 | xp=60
-| requirements_level=3
+| requirements_level=13
+| requirements_building=Satellite Building
+}}
+{{Action
+| event=
+| image=Destructor Flip Over a Car.png
+| name=Flip Over a Car
+| quote=Turning over the engines...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=10
+| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
+}}
+{{Action
+| event=
+| image=Destructor Wake Up the Tenants.png
+| name=Wake Up the Tenants
+| quote=Burning the midnight robot oil...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=7
+| requirements_building=Robot Arms Apts.
+}}
+{{Action
+| event=
+| image=Destructor Wrestle to the Death.png
+| name=Wrestle to the Death
+| quote=Feeling the death grip...
+| time=??h 0m 0s
+| currency=
+| xp=
+| requirements_level=?
+| requirements_character=Bender
+}}
+{{Action
+| event=
+| image=Destructor Break the Buffet Tables.png
+| name=Break the Buffet Tables
+| quote=Chafing the dishes...
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=11
+| requirements_building=Electric Ladyland
+}}
+{{Action
+| event=
+| image=Destructor Breakdance.png
+| name=Breakdance
+| quote=Busting some moves...
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=7
 | animated=yes
 }}
 {{Action
-| image=Crushinator Crush Her Enemies.png
-| name=Crush Her Enemies
-| quote=Making them say her name...
-| time=5h 0m 0s
-| currency=110
-| xp=73
-| requirements_level=3
-| requirements_building=
-}}
-{{Action
-| image=Crushinator Flirt with Other Robots.png
-| name=Flirt with Other Robots
-| quote=Moving in for the crush...
+| event=
+| image=Destructor Ransack the Merchansdise.png
+| name=Ransack the Merchandise
+| quote=Busting up the place...
 | time=6h 0m 0s
 | currency=125
 | xp=85
 | requirements_level=8
-| requirements_building=
+| requirements_building=Rook Takes Pawnshop
 }}
 {{Action
-| image=Crushinator Take Up Space.png
-| name=Take Up Space
-| quote=Filling a void...
-| time=6h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=1
-| requirements_building=Planet Express Building
-}}
-{{Action
-| image=Crushinator Shake Her Wide Load.png
-| name=Shake Her Wide Load
-| quote=Causing some tremors...
+| event=
+| image=Destructor Free the Convicts.png
+| name=Free the Convicts
+| quote=Powering down their cells...
 | time=8h 0m 0s
 | currency=155
 | xp=105
-| requirements_level=2
-| requirements_building=
+| requirements_level=14
+| requirements_building=NNYPD Precinct
 }}
 {{Action
-| image=Crushinator Visit the Penthouse.png
-| name=Visit the Penthouse
-| quote=Taking the freight elevator...
-| time=10h 0m 0s
-| currency=180
-| xp=119
-| requirements_level=4
-| requirements_building=Skyscraper Center
+| event=
+| image=Destructor Scare the Guests.png
+| name=Scare the Guests
+| quote=Killing, crushing, and destroying...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=9
+| requirements_building=New New York Plaza
 }}
 {{Action
-| image=Crushinator Get Appraised.png
-| name=Get Appraised
-| quote=Measuring her worth...
-| time=10h 0m 0s
-| currency=180
-| xp=119
-| requirements_level=6
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
+| event=
+| image=Destructor Trash the Aisles.png
+| name=Trash the Aisles
+| quote=
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=5
+| requirements_building=7^11
 }}
 {{Action
-| image=Crushinator Compress a Diamond.png
-| name=Compress a Diamond
-| quote=Going for the coal...
+| event=
+| image=Destructor Yell His Name.png
+| name=Yell His Name
+| quote=HE IS DESTRUCTOR!!!
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=12
+| requirements_building=Modest Business Building
+}}
+{{Action
+| event=
+| image=Destructor Act Like a Bull in a China Shop.png
+| name=Act Like a Bull in a China Shop
+| quote=Squeezing out the sparkles...
 | time=12h 0m 0s
 | currency=200
 | xp=130
-| requirements_level=5
+| requirements_level=16
 | requirements_building=Diamonds are Forever
-}}
-{{Action
-| image=Crushinator Crack Some Lobster Shells.png
-| name=Crack Some Lobster Shells
-| quote=Busting up the bisque...
-| time=16h 0m 0s
-| currency=230
-| xp=150
-| requirements_level=7
-| requirements_building=Cavern on the Green
-}}
-{{Action
-| image=Crushinator Report Her Broken Heart.png
-| name=Report Her Broken Heart
-| quote=Downloading the pain...
-| time=1d 0h 0m 0s
-| currency=300
-| xp=195
-| requirements_level=9
-| requirements_building=NNYPD Precinct
 }}
 |}
 {{Section Top|Actions}}
