@@ -18,8 +18,8 @@ $text = $text -ireplace '^\| currency *= *(\d+)\s*$', '"c":$1,'
 
 $text = $text -ireplace '^\| xp *= *(\d+)\s*$', '"x":$1,'
 
-$text = $text -ireplace '^\| requirements_level *= *(\d+)?\s*$', '"l":"$1",'
-$text = $text -ireplace '^"l":"",$', '"l":"1",'
+$text = $text -ireplace '^\| requirements_level *= *(\d+)?\s*$', '"l":$1,'
+$text = $text -ireplace '^"l":,$', '"l":1,'
 
 $text = $text -ireplace '^\| requirements_character *= *(.+)?\s*$', '"h":"$1",'
 
