@@ -1,126 +1,209 @@
 ==Actions==
 {{Table Header Action}}
 {{Action
-| event=
-| image=Free Waterfall Jr. Live Freely.png
-| name=Live Freely
-| quote=Peacing on Earth...
+| image=Slurm Loco.png
+| name=Produce 4 Slurm Loco
+| quote=
+| time=0h 15m 0s
+| currency=9
+| xp=5
+| requirements_level=1
+| requirements_character=
+| requirements_building=Slurm Factory
+| animated=
+}}
+{{Action
+| image=Diet Slurm.png
+| name=Produce 3 Diet Slurm
+| quote=
+| time=0h 30m 0s
+| currency=18
+| xp=11
+| requirements_level=1
+| requirements_character=
+| requirements_building=Slurm Factory
+| animated=
+}}
+{{Action
+| image=Slurm.png
+| name=Produce 3 Slurm
+| quote=
+| time=0h 30m 0s
+| currency=18
+| xp=11
+| requirements_level=1
+| requirements_character=
+| requirements_building=Slurm Factory
+| animated=
+}}
+{{Action
+| image=Slurm Loco.png
+| name=Produce 16 Slurm Loco
+| quote=
+| time=1h 0m 0s
+| currency=35
+| xp=23
+| requirements_level=10
+| requirements_character=
+| requirements_building=Slurm Factory
+| animated=
+}}
+{{Action
+| image=Slurm Duke Fry Spray Slurm.png
+| name=Spray Slurm
+| quote=
 | time=1h 0m 0s
 | currency=35
 | xp=23
 | requirements_level=1
+| requirements_character=
+| requirements_building=
 | animated=yes
 }}
 {{Action
-| event=
-| image=Free Waterfall Jr. Ask for Free Food.png
-| name=Ask for Free Food
-| quote=Letting the universe provide...
+| image=Diet Slurm.png
+| name=Produce 12 Diet Slurm
+| quote=
 | time=2h 0m 0s
 | currency=65
 | xp=40
-| requirements_level=4
-| requirements_building=7^11
+| requirements_level=10
+| requirements_character=
+| requirements_building=Slurm Factory
+| animated=
 }}
 {{Action
-| event=
-| image=Free Waterfall Jr. Stretch Out.png
-| name=Stretch Out
-| quote=Going downward dog...
+| image=Slurm.png
+| name=Produce 12 Slurm
+| quote=
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=10
+| requirements_character=
+| requirements_building=Slurm Factory
+| animated=
+}}
+{{Action
+| image=Slurm Loco.png
+| name=Produce 32 Slurm Loco
+| quote=
+| time=2h 0m 0s
+| currency=
+| xp=
+| requirements_level=20
+| requirements_character=
+| requirements_building=Slurm Factory
+| animated=
+}}
+{{Action
+| image=Slurm Duke Fry Share Some Slurm.png
+| name=Share Some Slurm
+| quote=
+| time=2h 0m 0s
+| currency=135
+| xp=85
+| requirements_level=1
+| requirements_character=Amy
+| requirements_building=
+| animated=yes
+}}
+{{Action
+| image=Planet Express Building.png
+| name=Boss the Crew Around
+| quote=
 | time=3h 0m 0s
 | currency=80
 | xp=54
-| requirements_level=3
-| animated=yes
+| requirements_level=1
+| requirements_character=
+| requirements_building=Planet Express Building
+| animated=
 }}
 {{Action
-| event=
-| image=Free Waterfall Jr. Smoke and Toke.png
-| name=Smoke and Toke
-| quote=Inhaling and exhaling...
+| image=Diet Slurm.png
+| name=Produce 24 Diet Slurm
+| quote=
+| time=4h 0m 0s
+| currency=
+| xp=
+| requirements_level=20
+| requirements_character=
+| requirements_building=Slurm Factory
+| animated=
+}}
+{{Action
+| image=Slurm.png
+| name=Produce 24 Slurm
+| quote=
+| time=4h 0m 0s
+| currency=
+| xp=
+| requirements_level=20
+| requirements_character=
+| requirements_building=Slurm Factory
+| animated=
+}}
+{{Action
+| image=O'Zorgnax's Pub.png
+| name=Drink Like Royalty
+| quote=
 | time=4h 0m 0s
 | currency=95
 | xp=60
-| requirements_level=7
-| animated=yes
+| requirements_level=3
+| requirements_character=
+| requirements_building=O'Zorgnax's Pub
+| animated=
 }}
 {{Action
-| event=
-| image=Free Waterfall Jr. Fight Police Brutality.png
-| name=Fight Police Brutality
-| quote=Getting beaten down...
+| image=Rook Takes Pawnshop.png
+| name=Acquire Regal Trinkets
+| quote=
+| time=5h 0m 0s
+| currency=110
+| xp=73
+| requirements_level=5
+| requirements_character=
+| requirements_building=Rook Takes Pawnshop
+| animated=
+}}
+{{Action
+| image=Malfunctioning Eddie's Rocket Car Emporium.png
+| name=Procure Royal Spaceship
+| quote=
 | time=6h 0m 0s
 | currency=125
 | xp=85
-| requirements_level=10
-| requirements_building=NNYPD Precinct
-}}
-{{Action
-| event=
-| image=Free Waterfall Jr. Protest for Animal Rights.png
-| name=Protest for Animal Rights
-| quote=Living and letting live...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=2
-| requirements_building=Cavern on the Green
-}}
-{{Action
-| event=
-| image=Free Waterfall Jr. Spray On Some Patchouli.png
-| name=Spray On Some Patchouli
-| quote=Smelling like a hippie...
-| time=10h 0m 0s
-| currency=180
-| xp=119
-| requirements_level=5
-| requirements_building=Planet Express Building
-}}
-{{Action
-| event=
-| image=Free Waterfall Jr. Advocate Free Love.png
-| name=Advocate Free Love
-| quote=Overheating the money makers...
-| time=12h 0m 0s
-| currency=200
-| xp=130
 | requirements_level=8
-| requirements_building=Electric Ladyland
+| requirements_character=
+| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
+| animated=
 }}
 {{Action
-| event=
-| image=Free Waterfall Jr. Rail Against Big Business.png
-| name=Rail Against Big Business
-| quote=Pounding on the profiteers...
-| time=16h 0m 0s
-| currency=230
-| xp=150
-| requirements_level=6
-| requirements_building=Modest Business Building
-}}
-{{Action
-| event=
-| image=Free Waterfall Jr. Picket for Workers' Rights.png
-| name=Picket for Workers' Rights
-| quote=Mega-phoning it in...
-| time=18h 0m 0s
-| currency=250
-| xp=164
-| requirements_level=9
-| requirements_building=New New York Plaza
-}}
-{{Action
-| event=
-| image=Free Waterfall Jr. Refuse to Answer to the Man.png
-| name=Refuse to Answer to the Man
-| quote=Ignoring his questions as well...
-| time=1d 0h 0m 0s
-| currency=300
-| xp=195
+| image=Avenue Hotel.png
+| name=Tap Into His Reserves
+| quote=
+| time=?h 0m 0s
+| currency=
+| xp=
 | requirements_level=11
-| requirements_building=Central Bureaucracy
+| requirements_character=
+| requirements_building=Avenue Hotel
+| animated=
+}}
+{{Action
+| image=Cavern on the Green.png
+| name=Enjoy Wormulon Cuisine
+| quote=
+| time=?h 0m 0s
+| currency=
+| xp=
+| requirements_level=15
+| requirements_character=
+| requirements_building=Cavern on the Green
+| animated=
 }}
 |}
 {{Section Top|Actions}}
-{{Outfit Gallery}}
+{{Nav Character}}

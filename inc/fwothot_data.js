@@ -1,3 +1,7 @@
+/* Character action data originally from Futurama: Worlds of Tomorrow Wiki on https://futuramaworldsoftomorrow.gamepedia.com/
+    Licensed under CC: BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/
+*/
+
 /* Character list (77) ------------------------------ */
 
     game_data['chr_ord'] = ['1','2','3','4','5','6','7','8','9','10','11','12','76','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','77','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','61','59','60','62','63','64','65','66','67','68','69','70','71','75','72','73','74'];
@@ -520,16 +524,115 @@
                 ]
             ],
         '33' : [ "Fry",                        null,                 3, 1, 0, 
+[
+                    { "n":"Eat Spontaneous Breakfast",                  "d":"P0T00:01:00",  "c":4,    "x":2,    "l":1     },
+                    { "n":"Pack-ey Sack",                               "d":"P0T00:03:00",  "c":5,    "x":3,    "l":1     },
+                    { "n":"Get Electrified",                            "d":"P0T00:15:00",  "c":9,    "x":5,    "l":1     },
+                    { "n":"Do The Hustle",                              "d":"P0T00:30:00",  "c":18,   "x":11,   "l":1     },
+                    { "n":"Buy Bachelor Chow",                          "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1,    "b":"7^11"                                        },
+                    { "n":"Get Wired on Free Coffee",                   "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Drink His Paycheck",                         "d":"P0T02:00:00",  "c":65,   "x":50,   "l":1,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Stumble into Job Fair",                      "d":"P0T02:00:00",  "c":65,   "x":40,   "l":5,    "b":"City Tower"                                  },
+                    { "n":"Wash The Ship",                              "d":"P0T02:00:00",  "c":65,   "x":40,   "l":4,    "b":"Planet Express Building"                     },
+                    { "n":"Play Fry's Holophonor",                      "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "h":"George Takei"                                },
+                    { "n":"Respect the Pecking Order",                  "d":"P0T02:00:00",  "c":135,  "x":85,   "l":1,    "h":"Hyper-Chicken"                               },
+                    { "n":"Go for a Walk",                              "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1,    "h":"Mr. Peppy"                                   },
+                    { "n":"Buy Retro Junk",                             "d":"P0T04:00:00",  "c":95,   "x":60,   "l":7,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Get Robot Lap Dance",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":6,    "b":"Electric Ladyland"                           },
+                    { "n":"Play the Holophonor Poorly",                 "d":"P0T04:00:00",  "c":95,   "x":60,   "l":6     },
+                    { "n":"Take a Chariot Ride",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "h":"Pharaoh Bender"                              },
+                    { "n":"Lounge in His Underwear",                    "d":"P0T08:00:00",  "c":155,  "x":105,  "l":4,    "b":"Planet Express Building"                     },
+                    { "n":"Sleep in the Closet",                        "d":"P0T08:00:00",  "c":155,  "x":105,  "l":7,    "b":"Robot Arms Apts."                            },
+                    { "n":"Walk and Hold Hands",                        "d":"P0T08:00:00",  "c":155,  "x":105,  "l":9,    "h":"Leela"                                       }
+                ]
             ],
         '34' : [ "Fry",                        "Bachelor",           4, 0, 0, 
+                [
+                    { "n":"Act Suspicious",                             "d":"P0T00:01:00",  "c":4,    "x":2,    "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Play the Air Guitar",                        "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Distract His Coworkers",                     "d":"P0T02:00:00",  "c":64,   "x":40,   "l":5,    "b":"Planet Express Building"                     },
+                    { "n":"Eat Hot Pockets",                            "d":"P0T03:00:00",  "c":80,   "x":54,   "l":8,    "h":"Bender"                                      },
+                    { "n":"Act Suspicious",                             "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Take a Hobo Nap",                            "d":"P0T06:00:00",  "c":125,  "x":85,   "l":4     },
+                    { "n":"Neglect Personal Hygiene",                   "d":"P0T08:00:00",  "c":155,  "x":105,  "l":10,   "b":"Robot Arms Apts."                            },
+                    { "n":"Prepare for the End of Days",                "d":"P0T08:00:00",  "c":155,  "x":105,  "l":2,    "b":"Food-O-Mat"                                  },
+                    { "n":"Shop for New Pants",                         "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Dress Inappropriately",                      "d":"P0T16:00:00",  "c":230,  "x":150,  "l":6,    "b":"Electric Ladyland"                           },
+                    { "n":"Ask for Free Bread",                         "d":"P0T18:00:00",  "c":250,  "x":164,  "l":3,    "b":"Cavern on the Green"                         },
+                    { "n":"Stink Up the Place",                         "d":"P1T00:00:00",  "c":300,  "x":195,  "l":9,    "b":"NNY Dumbbell Club Gym"                       }
+                ]
             ],
         '35' : [ "Fry",                        "Devilish",           0, 0, 0, 
+                [
+                    { "n":"Do Hand Puppets",                            "d":"P0T00:00:06",  "c":2,    "x":1,    "l":1,    "b":"Avenue Hotel"                                },
+                    { "n":"Choke Himself",                              "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Get Handsy",                                 "d":"P0T02:00:00",  "c":65,   "x":40,   "l":4,    "b":"Electric Ladyland"                           },
+                    { "n":"Juggle Flames",                              "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2     },
+                    { "n":"Register His Hands as Deadly Weapons",       "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2,    "b":"Central Bureaucracy"                         },
+                    { "n":"Fit in with the Crowd",                      "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3,    "b":"Robot Arms Apts."                            },
+                    { "n":"Play the Holophoner",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":3     },
+                    { "n":"Repair the Ship",                            "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Work on Engines",                            "d":"P0T05:00:00",  "c":110,  "x":73,   "l":6,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Contaminate the Peanuts",                    "d":"P0T06:00:00",  "c":125,  "x":85,   "l":10,   "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Steal Some Items",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":5,    "b":"7^11"                                        },
+                    { "n":"Give His Hands a Break",                     "d":"P0T08:00:00",  "c":155,  "x":105,  "l":15,   "b":"Avenue Hotel"                                },
+                    { "n":"Work His Hands",                             "d":"P0T10:00:00",  "c":180,  "x":119,  "l":1,    "b":"New New York Plaza"                          },
+                    { "n":"Wear Fancy Gloves",                          "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "b":"Cavern on the Green"                         },
+                    { "n":"Paint Out a Suspect",                        "d":"P0T18:00:00",  "c":250,  "x":164,  "l":8,    "b":"NNYPD Precinct"                              },
+                    { "n":"Perform for the Guests",                     "d":"P0T20:00:00",  "c":265,  "x":176,  "l":20,   "b":"New New York Plaza"                          },
+                    { "n":"Offer Massages",                             "d":"P1T00:00:00",  "c":300,  "x":195,  "l":9,    "b":"City Tower"                                  }
+                ]
             ],
         '77' : [ "Fry",                        "Power Suit",         3, 0, 2, 
+                [
+                    { "n":"Shoot His Laser",                            "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Adjust His Armor",                           "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Do The Robot",                               "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1     },
+                    { "n":"Enjoy Power Hour",                           "d":"P0T06:00:00",  "c":125,  "x":85,   "l":1     },
+                    { "n":"Go Into Defense Mode",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1     },
+                    { "n":"Take A Power Nap",                           "d":"P0T10:00:00",  "c":180,  "x":119,  "l":1     }
+                ]
             ],
         '36' : [ "Fry",                        "Robot",              2, 0, 0, 
+                [
+                    { "n":"Take an Oil Leak",                           "d":"P0T00:15:00",  "c":9,    "x":5,    "l":1,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Avoid Giant Magnet",                         "d":"P0T01:00:00",  "c":35,   "x":23,   "l":4,    "b":"Planet Express Building"                     },
+                    { "n":"Charge Cells with Ho-Hos",                   "d":"P0T01:00:00",  "c":35,   "x":23,   "l":2,    "b":"7^11"                                        },
+                    { "n":"Do the Robot",                               "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Get Waxed",                                  "d":"P0T02:00:00",  "c":65,   "x":40,   "l":3,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Power Cycle Self",                           "d":"P0T02:00:00",  "c":65,   "x":40,   "l":4,    "b":"Robot Arms Apts."                            },
+                    { "n":"Rust in Swimming Pool",                      "d":"P0T02:00:00",  "c":65,   "x":40,   "l":6,    "b":"Avenue Hotel"                                },
+                    { "n":"Submit Application to Become a Car",         "d":"P0T02:00:00",  "c":65,   "x":40,   "l":7,    "b":"Modest Business Building"                    },
+                    { "n":"Survive Lapdance",                           "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "b":"Electric Ladyland"                           },
+                    { "n":"Acquire Upgrade",                            "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Make Out with Radiator",                     "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Cavern on the Green"                         },
+                    { "n":"Polish Up",                                  "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Receive Radio",                              "d":"P0T04:00:00",  "c":95,   "x":60,   "l":8,    "b":"Satellite Building"                          },
+                    { "n":"Replace Human Worker",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":9,    "b":"Skyscraper Center"                           },
+                    { "n":"Apply to the League of Robots",              "d":"P0T08:00:00",  "c":155,  "x":105,  "l":7,    "b":"City Tower"                                  },
+                    { "n":"Get Thrown into Evidence Locker",            "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "b":"NNYPD Precinct"                              }
+                ]
             ],
         '37' : [ "Fry",                        "Slurm Duke",         4, 0, 0, 
+                [
+                    { "n":"Produce 4 Slurm Loco",                       "d":"P0T00:15:00",  "c":9,    "x":5,    "l":1,    "b":"Slurm Factory"                               },
+                    { "n":"Produce 3 Diet Slurm",                       "d":"P0T00:30:00",  "c":18,   "x":11,   "l":1,    "b":"Slurm Factory"                               },
+                    { "n":"Produce 3 Slurm",                            "d":"P0T00:30:00",  "c":18,   "x":11,   "l":1,    "b":"Slurm Factory"                               },
+                    { "n":"Produce 16 Slurm Loco",                      "d":"P0T01:00:00",  "c":35,   "x":23,   "l":10,   "b":"Slurm Factory"                               },
+                    { "n":"Spray Slurm",                                "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Produce 12 Diet Slurm",                      "d":"P0T02:00:00",  "c":65,   "x":40,   "l":10,   "b":"Slurm Factory"                               },
+                    { "n":"Produce 12 Slurm",                           "d":"P0T02:00:00",  "c":65,   "x":40,   "l":10,   "b":"Slurm Factory"                               },
+                    { "n":"Produce 32 Slurm Loco",                      "d":"P0T02:00:00",  "c":0,    "x":0,    "l":20,   "b":"Slurm Factory"                               },
+                    { "n":"Share Some Slurm",                           "d":"P0T02:00:00",  "c":135,  "x":85,   "l":1,    "h":"Amy"                                         },
+                    { "n":"Boss the Crew Around",                       "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Produce 24 Diet Slurm",                      "d":"P0T04:00:00",  "c":0,    "x":0,    "l":20,   "b":"Slurm Factory"                               },
+                    { "n":"Produce 24 Slurm",                           "d":"P0T04:00:00",  "c":0,    "x":0,    "l":20,   "b":"Slurm Factory"                               },
+                    { "n":"Drink Like Royalty",                         "d":"P0T04:00:00",  "c":95,   "x":60,   "l":3,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Acquire Regal Trinkets",                     "d":"P0T05:00:00",  "c":110,  "x":73,   "l":5,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Procure Royal Spaceship",                    "d":"P0T06:00:00",  "c":125,  "x":85,   "l":8,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Tap Into His Reserves",                      "d":"P0T00:00:00",  "c":0,    "x":0,    "l":11,   "b":"Avenue Hotel"                                },
+                    { "n":"Enjoy Wormulon Cuisine",                     "d":"P0T00:00:00",  "c":0,    "x":0,    "l":15,   "b":"Cavern on the Green"                         }
+                ]
             ],
         '38' : [ "George Takei",               null,                 0, 0, 1, 
             ],
