@@ -161,6 +161,16 @@
                 ]
             ],
         '10' : [ "Bender",                     "Hunter",             3, 0, 2, 
+                [
+                    { "n":"Target Practice",                            "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Snub His Nose",                              "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Shine His Boots",                            "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Clean His Gun",                              "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Robot Arms Apts."                            },
+                    { "n":"Hunt for a Deal",                            "d":"P0T05:00:00",  "c":110,  "x":73,   "l":1,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Enjoy the Finest Game",                      "d":"P0T06:00:00",  "c":125,  "x":85,   "l":1,    "b":"Cavern on the Green"                         },
+                    { "n":"Steal Some Bullets",                         "d":"P0T07:00:00",  "c":140,  "x":93,   "l":1,    "b":"NNYPD Precinct"                              },
+                    { "n":"Practice Gun Safety",                        "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "b":"New New York Plaza"                          }
+                ]
             ],
         '11' : [ "Bender",                     "Pharaoh",            0, 0, 1, 
             ],
