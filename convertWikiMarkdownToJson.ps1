@@ -23,8 +23,10 @@ $text = $text -ireplace '^\| requirements_level *= *(\d+)?\s*$', '"l":$1,'
 $text = $text -ireplace '^"l":,$', '"l":1,'
 
 $text = $text -ireplace '^\| requirements_character *= *(.+)?\s*$', '"h":"$1",'
+$text = $text -replace '^"h":"",', ''
 
 $text = $text -ireplace '^\| requirements_building *= *(.+)?\s*$', '"b":"$1",'
+$text = $text -replace '^"b":"",', ''
 
 $text = $text -replace '^{{.*}}\s*$', ''
 $text = $text -replace '^\s*<!--.*-->\s*$', ''
