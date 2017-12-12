@@ -1,200 +1,183 @@
 ==Actions==
 {{Table Header Action}}
 {{Action
-| event=
-| image=Hookerbot Pull Out the Oil.png
-| name=Pull Out the Oil
-| quote=Keepin' lubricated
+| character=The Professor
+| image=Professor Invent Useless Things.png
+| name=Invent Useless Things
+| quote=Putting the puttering to good use...
+| time=30m 0s
+| currency=18
+| xp=11
+| requirements_level=3
+| requirements_building=Planet Express Building
+}}
+{{Action
+| character=The Professor
+| image=Professor Deliver Good News.png
+| name=Deliver Good News
+| quote=Coining a catchphrase...
 | time=1h 0m 0s
 | currency=35
 | xp=23
-| requirements_level=5
-| requirements_character=
-| requirements_building=
+| requirements_level=4
 | animated=yes
 }}
 {{Action
-| event=
-| image=Hookerbot Show Off Her Moves.png
-| name=Show Off Her Moves
-| quote=Displaying the merchandise...
+| character=The Professor
+| image=Professor Practice Giving Good News.png
+| name=Practice Giving Good News
+| quote=Sounds like good news to him...
+| time=1h 0m 0s
+| currency=35
+| xp=35
+| requirements_level=4
+| animated=yes
+}}
+{{Action
+| character=The Professor
+| image=Professor Use the Finglonger.png
+| name=Use the Finglonger
+| quote=Giving it the Farnsworth touch...
+| time=1h 0m 0s
+| currency=35
+| xp=23
+| requirements_level=
+| animated=yes
+}}
+{{Action
+| character=The Professor
+| image=Professor Admire Various Lengths of Wire.png
+| name=Admire Various Lengths of Wire
+| quote=Tinkering 'til Doomsday...
 | time=2h 0m 0s
 | currency=65
 | xp=40
 | requirements_level=3
-| requirements_character=
-| requirements_building=
-| animated=yes
+| requirements_building=Planet Express Building
 }}
 {{Action
-| event=
-| image=7^11.png
-| name=Shop for Protection
-| quote=Playing it safe...
-| time=3h 0m 0s
-| currency=80
-| xp=54
-| requirements_level=2
-| requirements_character=
-| requirements_building=7^11
-| animated=
+| character=The Professor
+| image=Professor Complain About Prices.png
+| name=Complain About Prices
+| quote=Acting his age...
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=
+| requirements_building=Planet Express Building
 }}
 {{Action
-| event=
-| image=Hookerbot Go for a Ride.png
-| name=Go for a Ride
-| quote=Going through the motions...
+| character=The Professor
+| image=Professor Clear Fog Off Glasses.png
+| name=Clear Fog Off Glasses
+| quote=Asking if it's hot in here or...
 | time=4h 0m 0s
-| currency=200
-| xp=125
-| requirements_level=3
-| requirements_character=
-| requirements_building=Bender
+| currency=95
+| xp=60
+| requirements_level=5
+| requirements_building=Electric Ladyland
+}}
+{{Action
+| character=The Professor
+| image=Professor Tinker with Doomsday Devices.png
+| name=Tinker with Doomsday Devices
+| quote=Bringin' in 'da noise, bringin' in 'da boom...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=4
+| requirements_building=Planet Express Building
+}}
+{{Action
+| character=The Professor
+| image=Bill Nye Ride Circles Around Farnsworth.png
+| name=Ride Circles Around Farnsworth
+| quote=Riding...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=
+| requirements_character=Bill Nye
 | animated=yes
 }}
 {{Action
-| event=
-| image=O'Zorgnax's Pub.png
-| name=Attract Some Clients
-| quote=Letting the gentleman pay...
-| time=5h 0m 0s
-| currency=110
-| xp=73
-| requirements_level=4
-| requirements_character=
-| requirements_building=O'Zorgnax's Pub
-| animated=
+| character=The Professor
+| image=Ndnd Raise Some Grievances.png
+| name=Raise Some Grievances
+| quote=Voicing dissent with a cast iron megaphone...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=
+| requirements_character=Ndnd
+| requirements_building=
 }}
 {{Action
-| event=
-| image=Hacking Jack's Fine Smokables.png
-| name=Offer the Deluxe Package
-| quote=Smokin' hot...
-| time=6h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=10
-| requirements_character=
-| requirements_building=Hacking Jack's Fine Smokables
-| animated=
-}}
-{{Action
-| event=
-| image=Malfunctioning Eddie's Rocket Car Emporium.png
-| name=Treat Herself
-| quote=Turning tricks at high RPM...
-| time=7h 0m 0s
-| currency=140
-| xp=93
-| requirements_level=11
-| requirements_character=
+| character=The Professor
+| image=Professor Buy Scrap Parts.png
+| name=Buy Scrap Parts
+| quote=Piecing together something suspicious...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=
 | requirements_building=Malfunctioning Eddie's Rocket Car Emporium
-| animated=
 }}
 {{Action
-| event=
-| image=Planet Express Building.png
-| name=Do Door-to-Door Sales
-| quote=Benefiting friends...
+| character=The Professor
+| image=Professor Forget Where He Lives.png
+| name=Forget Where He Lives
+| quote=Wondering and wandering...
 | time=8h 0m 0s
 | currency=155
 | xp=105
 | requirements_level=6
-| requirements_character=
-| requirements_building=Planet Express Building
-| animated=
-}}
-{{Action
-| event=
-| image=Cavern on the Green.png
-| name=Entertain a Customer
-| quote=Dining out...
-| time=9h 0m 0s
-| currency=170
-| xp=112
-| requirements_level=12
-| requirements_character=
-| requirements_building=Cavern on the Green
-| animated=
-}}
-{{Action
-| event=
-| image=Robot Arms Apts.png
-| name=Clean House
-| quote=Servicing the community...
-| time=10h 0m 0s
-| currency=180
-| xp=119
-| requirements_level=8
-| requirements_character=
 | requirements_building=Robot Arms Apts.
-| animated=
 }}
 {{Action
-| event=
-| image=Electric Ladyland.png
-| name=Dance for Extra Cash
-| quote=Making money on the side...
-| time=12h 0m 0s
-| currency=200
-| xp=130
-| requirements_level=9
-| requirements_character=
-| requirements_building=Electric Ladyland
-| animated=
+| character=The Professor
+| image=Professor Look for New Employees.png
+| name=Look for New Employees
+| quote=Offering "life" tenure...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=6
+| requirements_building=Avenue Hotel
 }}
 {{Action
-| event=
-| image=NNYPD Precinct.png
-| name=Plead Not Guilty
-| quote=Maintaining her innocence...
-| time=12h 0m 0s
-| currency=200
-| xp=130
-| requirements_level=13
-| requirements_character=
-| requirements_building=NNYPD Precinct
-| animated=
+| character=The Professor
+| image=Professor Make Frequent Bathroom Trips.png
+| name=Make Frequent Bathroom Trips
+| quote=Believing that when you gotta go...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=6
+| requirements_building=Avenue Hotel
 }}
 {{Action
-| event=
-| image=City Tower.png
-| name=Book a Room
-| quote=Just staying for a couple hours...
-| time=16h 0m 0s
-| currency=
-| xp=
-| requirements_level=14
-| requirements_character=
-| requirements_building=City Tower
-| animated=
+| character=The Professor
+| image=Professor Sell Old Crewmember Career Chips.png
+| name=Sell Old Crewmember Career Chips
+| quote=Taking this job and implanting it...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=
+| requirements_building=Rook Takes Pawnshop
 }}
 {{Action
-| event=
-| image=Modest Business Building.png
-| name=Get Wild
-| quote=Showing them all a good time...
-| time=20h 0m 0s
-| currency=265
-| xp=176
-| requirements_level=15
-| requirements_character=
+| character=The Professor
+| image=Professor Shop for Bargain Life Insurance Policies.png
+| name=Shop for Bargain Life Insurance Policies
+| quote=Needing short-term benefits...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=5
 | requirements_building=Modest Business Building
-| animated=
-}}
-{{Action
-| event=
-| image=Family Brothers Pizza.png
-| name=Refuel
-| quote=Getting re-energized...
-| time=1d 0h 0m 0s
-| currency=300
-| xp=195
-| requirements_level=20
-| requirements_character=
-| requirements_building=Family Brothers Pizza
-| animated=
 }}
 |}
 {{Section Top|Actions}}
-{{Nav Character}}
+{{Outfit Gallery}}

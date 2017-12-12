@@ -758,6 +758,24 @@
                 ]
             ],
         '45' : [ "The Professor",              null,                 1, 1, 0, 
+                [
+                    { "n":"Invent Useless Things",                      "d":"P0T00:30:00",  "c":18,   "x":11,   "l":3,    "b":"Planet Express Building"                     },
+                    { "n":"Deliver Good News",                          "d":"P0T01:00:00",  "c":35,   "x":23,   "l":4     },
+                    { "n":"Practice Giving Good News",                  "d":"P0T01:00:00",  "c":35,   "x":35,   "l":4     },
+                    { "n":"Use the Finglonger",                         "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Admire Various Lengths of Wire",             "d":"P0T02:00:00",  "c":65,   "x":40,   "l":3,    "b":"Planet Express Building"                     },
+                    { "n":"Complain About Prices",                      "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Clear Fog Off Glasses",                      "d":"P0T04:00:00",  "c":95,   "x":60,   "l":5,    "b":"Electric Ladyland"                           },
+                    { "n":"Tinker with Doomsday Devices",               "d":"P0T04:00:00",  "c":95,   "x":60,   "l":4,    "b":"Planet Express Building"                     },
+                    { "n":"Ride Circles Around Farnsworth",             "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "h":"Bill Nye"                                    },
+                    { "n":"Raise Some Grievances",                      "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "h":"Ndnd"                                        },
+                    { "n":"Buy Scrap Parts",                            "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Forget Where He Lives",                      "d":"P0T08:00:00",  "c":155,  "x":105,  "l":6,    "b":"Robot Arms Apts."                            },
+                    { "n":"Look for New Employees",                     "d":"P0T08:00:00",  "c":155,  "x":105,  "l":6,    "b":"Avenue Hotel"                                },
+                    { "n":"Make Frequent Bathroom Trips",               "d":"P0T08:00:00",  "c":155,  "x":105,  "l":6,    "b":"Avenue Hotel"                                },
+                    { "n":"Sell Old Crewmember Career Chips",           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Shop for Bargain Life Insurance Policies",   "d":"P0T08:00:00",  "c":155,  "x":105,  "l":5,    "b":"Modest Business Building"                    }
+                ]
             ],
         '46' : [ "The Professor",              "Colonial",           0, 0, 0, 
             ],
