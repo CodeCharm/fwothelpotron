@@ -1,133 +1,90 @@
 ==Actions==
 {{Table Header Action}}
 {{Action
-| character=The Professor
-| image=Professor Invent Useless Things.png
-| name=Invent Useless Things
-| quote=Putting the puttering to good use...
-| time=30m 0s
-| currency=18
-| xp=11
-| requirements_level=3
-| requirements_building=Planet Express Building
-}}
-{{Action
-| character=The Professor
-| image=Professor Deliver Good News.png
-| name=Deliver Good News
-| quote=Coining a catchphrase...
-| time=1h 0m 0s
-| currency=35
-| xp=23
-| requirements_level=4
-| animated=yes
-}}
-{{Action
-| character=The Professor
-| image=Professor Practice Giving Good News.png
-| name=Practice Giving Good News
-| quote=Sounds like good news to him...
-| time=1h 0m 0s
-| currency=35
-| xp=35
-| requirements_level=4
-| animated=yes
-}}
-{{Action
-| character=The Professor
-| image=Professor Use the Finglonger.png
-| name=Use the Finglonger
-| quote=Giving it the Farnsworth touch...
-| time=1h 0m 0s
-| currency=35
-| xp=23
-| requirements_level=
-| animated=yes
-}}
-{{Action
-| character=The Professor
-| image=Professor Admire Various Lengths of Wire.png
-| name=Admire Various Lengths of Wire
-| quote=Tinkering 'til Doomsday...
+| image=Hyper-Chicken Deliberate Over Drinks.png
+| name=Deliberate Over Drinks
+| quote=Ordering drunken chicken...
 | time=2h 0m 0s
 | currency=65
 | xp=40
-| requirements_level=3
-| requirements_building=Planet Express Building
+| requirements_level=4
+| requirements_building=O'Zorgnax's Pub
 }}
 {{Action
-| character=The Professor
-| image=Professor Complain About Prices.png
-| name=Complain About Prices
-| quote=Acting his age...
+| image=Hyper-Chicken Make Closing Argument.png
+| name=Make Closing Argument
+| quote=Wrapping up his defense...
 | time=2h 0m 0s
 | currency=65
 | xp=40
 | requirements_level=
-| requirements_building=Planet Express Building
+| animated=yes
 }}
 {{Action
-| character=The Professor
-| image=Professor Clear Fog Off Glasses.png
-| name=Clear Fog Off Glasses
-| quote=Asking if it's hot in here or...
+| image=Hyper-Chicken Respect the Pecking Order.png
+| name=Respect the Pecking Order
+| quote=Clawing his way to the top...
+| time=2h 0m 0s
+| currency=135
+| xp=85
+| requirements_level=
+| requirements_character=Fry
+| animated=yes
+}}
+{{Action
+| image=Hyper-Chicken Offer Representation.png
+| name=Offer Representation
+| quote=Providing for the common defense...
 | time=4h 0m 0s
 | currency=95
 | xp=60
 | requirements_level=5
-| requirements_building=Electric Ladyland
-}}
-{{Action
-| character=The Professor
-| image=Professor Tinker with Doomsday Devices.png
-| name=Tinker with Doomsday Devices
-| quote=Bringin' in 'da noise, bringin' in 'da boom...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=4
 | requirements_building=Planet Express Building
 }}
 {{Action
-| character=The Professor
-| image=Bill Nye Ride Circles Around Farnsworth.png
-| name=Ride Circles Around Farnsworth
-| quote=Riding...
+| image=Hyper-Chicken Preen Himself.png
+| name=Preen Himself
+| quote=Keeping himself presentable...
 | time=4h 0m 0s
 | currency=95
 | xp=60
 | requirements_level=
-| requirements_character=Bill Nye
 | animated=yes
 }}
 {{Action
-| character=The Professor
-| image=Ndnd Raise Some Grievances.png
-| name=Raise Some Grievances
-| quote=Voicing dissent with a cast iron megaphone...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=
-| requirements_character=Ndnd
-| requirements_building=
-}}
-{{Action
-| character=The Professor
-| image=Professor Buy Scrap Parts.png
-| name=Buy Scrap Parts
-| quote=Piecing together something suspicious...
+| image=Hyper-Chicken Fly the Coop.png
+| name=Fly the Coop
+| quote=Getting the cluck out of there...
 | time=8h 0m 0s
 | currency=155
 | xp=105
-| requirements_level=
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
+| requirements_level=8
+| requirements_building=NNYPD Precinct
 }}
 {{Action
-| character=The Professor
-| image=Professor Forget Where He Lives.png
-| name=Forget Where He Lives
-| quote=Wondering and wandering...
+| image=Hyper-Chicken Have a Short Recess.png
+| name=Have a Short Recess
+| quote=Stretching his wings...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=3
+| requirements_building=7^11
+}}
+{{Action
+| image=Hyper-Chicken Misrepresent His Client.png
+| name=Misrepresent His Client
+| quote=Getting his beak out of the joint...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=12
+| requirements_building=Skyscraper Center
+}}
+{{Action
+| image=Hyper-Chicken Raise an Objection.png
+| name=Raise an Objection
+| quote=Bakawing...
 | time=8h 0m 0s
 | currency=155
 | xp=105
@@ -135,48 +92,44 @@
 | requirements_building=Robot Arms Apts.
 }}
 {{Action
-| character=The Professor
-| image=Professor Look for New Employees.png
-| name=Look for New Employees
-| quote=Offering "life" tenure...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=6
+| image=Hyper-Chicken Negotiate a Plea Deal.png
+| name=Negotiate a Plea Deal
+| quote=Making it finger lickin' good...
+| time=12h 0m 0s
+| currency=200
+| xp=130
+| requirements_level=9
 | requirements_building=Avenue Hotel
 }}
 {{Action
-| character=The Professor
-| image=Professor Make Frequent Bathroom Trips.png
-| name=Make Frequent Bathroom Trips
-| quote=Believing that when you gotta go...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=6
-| requirements_building=Avenue Hotel
+| image=Hyper-Chicken Work Pro Bono.png
+| name=Work Pro Bono
+| quote=Playing free bird...
+| time=12h 0m 0s
+| currency=200
+| xp=130
+| requirements_level=7
+| requirements_building=Electric Ladyland
 }}
 {{Action
-| character=The Professor
-| image=Professor Sell Old Crewmember Career Chips.png
-| name=Sell Old Crewmember Career Chips
-| quote=Taking this job and implanting it...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=
-| requirements_building=Rook Takes Pawnshop
-}}
-{{Action
-| character=The Professor
-| image=Professor Shop for Bargain Life Insurance Policies.png
-| name=Shop for Bargain Life Insurance Policies
-| quote=Needing short-term benefits...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=5
+| image=Hyper-Chicken Appeal Every Decision.png
+| name=Appeal Every Decision
+| quote=Thinking outside the bucket...
+| time=16h 0m 0s
+| currency=230
+| xp=150
+| requirements_level=10
 | requirements_building=Modest Business Building
+}}
+{{Action
+| image=Hyper-Chicken Settle Out of Court.png
+| name=Settle Out of Court
+| quote=Accepting a three-piece meal deal...
+| time=1d 0h 0m 0s
+| currency=300
+| xp=195
+| requirements_level=11
+| requirements_building=New New York Plaza
 }}
 |}
 {{Section Top|Actions}}

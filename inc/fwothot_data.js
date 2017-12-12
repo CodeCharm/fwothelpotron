@@ -780,6 +780,21 @@
         '46' : [ "The Professor",              "Colonial",           0, 0, 0, 
             ],
         '47' : [ "Hyper-Chicken",              null,                 4, 0, 1, 
+                [
+                    { "n":"Deliberate Over Drinks",                     "d":"P0T02:00:00",  "c":65,   "x":40,   "l":4,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Make Closing Argument",                      "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Respect the Pecking Order",                  "d":"P0T02:00:00",  "c":135,  "x":85,   "l":1,    "h":"Fry"                                         },
+                    { "n":"Offer Representation",                       "d":"P0T04:00:00",  "c":95,   "x":60,   "l":5,    "b":"Planet Express Building"                     },
+                    { "n":"Preen Himself",                              "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1     },
+                    { "n":"Fly the Coop",                               "d":"P0T08:00:00",  "c":155,  "x":105,  "l":8,    "b":"NNYPD Precinct"                              },
+                    { "n":"Have a Short Recess",                        "d":"P0T08:00:00",  "c":155,  "x":105,  "l":3,    "b":"7^11"                                        },
+                    { "n":"Misrepresent His Client",                    "d":"P0T08:00:00",  "c":155,  "x":105,  "l":12,   "b":"Skyscraper Center"                           },
+                    { "n":"Raise an Objection",                         "d":"P0T08:00:00",  "c":155,  "x":105,  "l":6,    "b":"Robot Arms Apts."                            },
+                    { "n":"Negotiate a Plea Deal",                      "d":"P0T12:00:00",  "c":200,  "x":130,  "l":9,    "b":"Avenue Hotel"                                },
+                    { "n":"Work Pro Bono",                              "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "b":"Electric Ladyland"                           },
+                    { "n":"Appeal Every Decision",                      "d":"P0T16:00:00",  "c":230,  "x":150,  "l":10,   "b":"Modest Business Building"                    },
+                    { "n":"Settle Out of Court",                        "d":"P1T00:00:00",  "c":300,  "x":195,  "l":11,   "b":"New New York Plaza"                          }
+                ]
             ],
         '48' : [ "Kif",                        null,                 3, 0, 2, 
             ],
