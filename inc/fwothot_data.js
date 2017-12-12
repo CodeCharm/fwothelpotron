@@ -635,6 +635,23 @@
                 ]
             ],
         '38' : [ "George Takei",               null,                 0, 0, 1, 
+                [
+                    { "n":"Pay for a Round",                            "d":"P0T01:00:00",  "c":35,   "x":23,   "l":4,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Enjoy Complimentary Mints",                  "d":"P0T02:00:00",  "c":65,   "x":40,   "l":7,    "b":"City Tower"                                  },
+                    { "n":"Use the ATM Machine",                        "d":"P0T02:00:00",  "c":65,   "x":40,   "l":10,   "b":"Electric Ladyland"                           },
+                    { "n":"Play Fry's Holophonor",                      "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "h":"Fry"                                         },
+                    { "n":"Get Approached by Fans",                     "d":"P0T03:00:00",  "c":80,   "x":54,   "l":2,    "b":"7^11"                                        },
+                    { "n":"Search for Old Star Trek Tapes",             "d":"P0T04:00:00",  "c":95,   "x":60,   "l":5,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Take Free Brochures",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":9,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Use Twitcher",                               "d":"P0T04:00:00",  "c":95,   "x":60,   "l":3,    "b":"The Hip Joint"                               },
+                    { "n":"Cheat On his Diet",                          "d":"P0T06:00:00",  "c":125,  "x":85,   "l":13,   "b":"Family Brothers Pizza"                       },
+                    { "n":"Pick at the Appetizers",                     "d":"P0T06:00:00",  "c":125,  "x":85,   "l":11,   "b":"Cavern on the Green"                         },
+                    { "n":"Watch Clips of Himself",                     "d":"P0T06:00:00",  "c":125,  "x":85,   "l":6,    "b":"Planet Express Building"                     },
+                    { "n":"Fence Bare Chested",                         "d":"P0T08:00:00",  "c":155,  "x":105,  "l":4     },
+                    { "n":"Maintain His Figure",                        "d":"P0T08:00:00",  "c":155,  "x":105,  "l":14,   "b":"NNY Dumbell Club Gym"                        },
+                    { "n":"Report Paparazzi",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":12,   "b":"NNYPD Precinct"                              },
+                    { "n":"Look for a New Venue",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":9,    "b":"Robot Arms Apts."                            }
+                ]
             ],
         '39' : [ "Hattie McDoogal",            null,                 0, 0, 0, 
             ],
