@@ -739,6 +739,23 @@
                 ]
             ],
         '44' : [ "Hookerbot",                  null,                 2, 0, 0, 
+                [
+                    { "n":"Pull Out the Oil",                           "d":"P0T01:00:00",  "c":35,   "x":23,   "l":5     },
+                    { "n":"Show Off Her Moves",                         "d":"P0T02:00:00",  "c":65,   "x":40,   "l":3     },
+                    { "n":"Shop for Protection",                        "d":"P0T03:00:00",  "c":80,   "x":54,   "l":2,    "b":"7^11"                                        },
+                    { "n":"Go for a Ride",                              "d":"P0T04:00:00",  "c":200,  "x":125,  "l":3,    "b":"Bender"                                      },
+                    { "n":"Attract Some Clients",                       "d":"P0T05:00:00",  "c":110,  "x":73,   "l":4,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Offer the Deluxe Package",                   "d":"P0T06:00:00",  "c":125,  "x":85,   "l":10,   "b":"Hacking Jack's Fine Smokables"               },
+                    { "n":"Treat Herself",                              "d":"P0T07:00:00",  "c":140,  "x":93,   "l":11,   "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Do Door-to-Door Sales",                      "d":"P0T08:00:00",  "c":155,  "x":105,  "l":6,    "b":"Planet Express Building"                     },
+                    { "n":"Entertain a Customer",                       "d":"P0T09:00:00",  "c":170,  "x":112,  "l":12,   "b":"Cavern on the Green"                         },
+                    { "n":"Clean House",                                "d":"P0T10:00:00",  "c":180,  "x":119,  "l":8,    "b":"Robot Arms Apts."                            },
+                    { "n":"Dance for Extra Cash",                       "d":"P0T12:00:00",  "c":200,  "x":130,  "l":9,    "b":"Electric Ladyland"                           },
+                    { "n":"Plead Not Guilty",                           "d":"P0T12:00:00",  "c":200,  "x":130,  "l":13,   "b":"NNYPD Precinct"                              },
+                    { "n":"Book a Room",                                "d":"P0T16:00:00",  "c":0,    "x":0,    "l":14,   "b":"City Tower"                                  },
+                    { "n":"Get Wild",                                   "d":"P0T20:00:00",  "c":265,  "x":176,  "l":15,   "b":"Modest Business Building"                    },
+                    { "n":"Refuel",                                     "d":"P1T00:00:00",  "c":300,  "x":195,  "l":20,   "b":"Family Brothers Pizza"                       }
+                ]
             ],
         '45' : [ "The Professor",              null,                 1, 1, 0, 
             ],
