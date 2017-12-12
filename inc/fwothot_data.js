@@ -143,6 +143,22 @@
                 ]
             ],
          '9' : [ "Bender",                     "Golden",             4, 0, 0, 
+                [
+                    { "n":"Make Gold Coins",                            "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1,    "h":"",                                           "b":""                                            },
+                    { "n":"Make it Rain",                               "d":"P0T02:00:00",  "c":65,   "x":40,   "l":5,    "h":"",                                           "b":"Electric Ladyland"                           },
+                    { "n":"Purchase Gold Polish",                       "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "b":"7^11"                                        },
+                    { "n":"Make a Golden Toast",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "h":"",                                           "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Polish Assets",                              "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "h":"",                                           "b":""                                            },
+                    { "n":"Use Himself as Collateral",                  "d":"P0T04:00:00",  "c":95,   "x":60,   "l":7,    "h":"",                                           "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Hoard Gold Bricks",                          "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "h":"",                                           "b":""                                            },
+                    { "n":"Order the Finest Room Service",              "d":"P0T08:00:00",  "c":155,  "x":105,  "l":10,   "h":"",                                           "b":"Avenue Hotel"                                },
+                    { "n":"Outshine His Coworkers",                     "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "h":"",                                           "b":"Planet Express Building"                     },
+                    { "n":"Request the Pricier Menu",                   "d":"P0T08:00:00",  "c":155,  "x":105,  "l":8,    "h":"",                                           "b":"Cavern on the Green"                         },
+                    { "n":"Blind Guests",                               "d":"P0T12:00:00",  "c":200,  "x":130,  "l":9,    "h":"",                                           "b":"City Tower"                                  },
+                    { "n":"Flash His Wealth",                           "d":"P0T12:00:00",  "c":200,  "x":130,  "l":11,   "h":"",                                           "b":"Modest Business Building"                    },
+                    { "n":"Give Business Ideas",                        "d":"P0T16:00:00",  "c":230,  "x":150,  "l":12,   "h":"",                                           "b":"Satellite Building"                          },
+                    { "n":"Entertain Tourists",                         "d":"P1T00:00:00",  "c":300,  "x":195,  "l":13,   "h":"",                                           "b":"New New York Plaza"                          }
+                ]
             ],
         '10' : [ "Bender",                     "Hunter",             3, 0, 2, 
             ],
