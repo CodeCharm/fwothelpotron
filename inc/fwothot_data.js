@@ -270,6 +270,23 @@
                 ]
             ],
         '17' : [ "Blatherbot",                 null,                 2, 0, 0, 
+                [
+                    { "n":"Speak With Amy",                             "d":"P0T01:00:00",  "c":80,   "x":54,   "l":3,    "h":"Amy",                                        "b":""                                            },
+                    { "n":"Polish Mustache",                            "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2,    "h":"",                                           "b":""                                            },
+                    { "n":"Pontificate Over Pointless Subjects ",       "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3,    "h":"",                                           "b":"Robot Arms Apts."                            },
+                    { "n":"Torture the Crew",                           "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "h":"",                                           "b":"Planet Express Building"                     },
+                    { "n":"Drink Tea",                                  "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "h":"",                                           "b":""                                            },
+                    { "n":"Waste the Dealer's Time",                    "d":"P0T05:00:00",  "c":110,  "x":73,   "l":6,    "h":"",                                           "b":"Malfunctioning Eddie's Rocket Car Emporium " },
+                    { "n":"Blather Over Drinks",                        "d":"P0T06:00:00",  "c":125,  "x":85,   "l":10,   "h":"",                                           "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Discuss the Snack Options",                  "d":"P0T08:00:00",  "c":155,  "x":105,  "l":5,    "h":"",                                           "b":"7^11"                                        },
+                    { "n":"Chat up a Stripperbot",                      "d":"P0T10:00:00",  "c":180,  "x":119,  "l":4,    "h":"",                                           "b":"Electric Ladyland"                           },
+                    { "n":"Take Forever to Order",                      "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "h":"",                                           "b":"Cavern on the Green"                         },
+                    { "n":"Discuss Business Matters",                   "d":"P0T16:00:00",  "c":230,  "x":150,  "l":15,   "h":"",                                           "b":"Modest Business Building"                    },
+                    { "n":"Make His Case",                              "d":"P0T18:00:00",  "c":250,  "x":164,  "l":8,    "h":"",                                           "b":"NNYPD Precinct"                              },
+                    { "n":"Give a Boring Speech",                       "d":"P0T20:00:00",  "c":265,  "x":176,  "l":20,   "h":"",                                           "b":"New New York Plaza"                          },
+                    { "n":"Enjoy a Fine Smoke",                         "d":"P0T22:00:00",  "c":285,  "x":187,  "l":25,   "h":"",                                           "b":"Hacking Jack's Fine Smokables"               },
+                    { "n":"Bother the Hotel Staff",                     "d":"P1T00:00:00",  "c":300,  "x":195,  "l":9,    "h":"",                                           "b":"Avenue Hotel"                                }
+                ]
             ],
         '18' : [ "The Borax Kid",              null,                 0, 0, 1, 
             ],
