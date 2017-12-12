@@ -687,8 +687,37 @@
                 ]
             ],
         '41' : [ "Hermes",                     null,                 4, 0, 0, 
+                [
+                    { "n":"Limbo Down the Street",                      "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Get to Work",                                "d":"P0T02:00:00",  "c":65,   "x":40,   "l":3     },
+                    { "n":"Keep a Back Up",                             "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2     },
+                    { "n":"Commandeer Munchies",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":8,    "b":"7^11"                                        },
+                    { "n":"Give Sexual Harassment Training",            "d":"P0T04:00:00",  "c":95,   "x":60,   "l":5,    "b":"Avenue Hotel"                                },
+                    { "n":"Notarize Leases",                            "d":"P0T04:00:00",  "c":95,   "x":60,   "l":11,   "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Requisition a Lap Dance",                    "d":"P0T04:00:00",  "c":95,   "x":60,   "l":4,    "b":"Electric Ladyland"                           },
+                    { "n":"Buy Used Office Supplies",                   "d":"P0T08:00:00",  "c":155,  "x":105,  "l":6,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Count Beans",                                "d":"P0T08:00:00",  "c":155,  "x":105,  "l":7,    "b":"Planet Express Building"                     },
+                    { "n":"Itemize Deductions",                         "d":"P0T08:00:00",  "c":155,  "x":105,  "l":9,    "b":"Modest Business Building"                    },
+                    { "n":"Limbo through Pneumatic Tubes",              "d":"P0T08:00:00",  "c":155,  "x":105,  "l":12,   "b":"Central Bureaucracy"                         }
+                ]
             ],
         '42' : [ "Hermes",                     "Mecha",              2, 0, 1, 
+                [
+                    { "n":"Show Off His Cylon Eye",                     "d":"P0T01:00:00",  "c":35,   "x":23,   "l":2,    "b":"Planet Express Building"                     },
+                    { "n":"Robolimbo",                                  "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Audit the Company",                          "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3     },
+                    { "n":"Ask About New Tires",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":9,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Fill His Engines",                           "d":"P0T04:00:00",  "c":95,   "x":60,   "l":4,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Scan the Menu",                              "d":"P0T04:00:00",  "c":95,   "x":60,   "l":12,   "b":"Cavern on the Green"                         },
+                    { "n":"Try Some Curried Goat",                      "d":"P0T04:00:00",  "c":95,   "x":60,   "l":6     },
+                    { "n":"Connect to the Network",                     "d":"P0T06:00:00",  "c":125,  "x":85,   "l":13,   "b":"Satellite Building"                          },
+                    { "n":"Demonstrate His Extend-o Arm",               "d":"P0T06:00:00",  "c":125,  "x":85,   "l":10,   "b":"Avenue Hotel"                                },
+                    { "n":"Find a Room",                                "d":"P0T06:00:00",  "c":125,  "x":85,   "l":5,    "b":"Robot Arms Apts."                            },
+                    { "n":"Shop for Oil",                               "d":"P0T06:00:00",  "c":125,  "x":85,   "l":8,    "b":"7^11"                                        },
+                    { "n":"Enjoy the Machinery",                        "d":"P0T08:00:00",  "c":155,  "x":105,  "l":11,   "b":"Electric Ladyland"                           },
+                    { "n":"Look for Organ Replacement",                 "d":"P0T08:00:00",  "c":155,  "x":105,  "l":7,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Register His Deadly Weapons",                "d":"P0T08:00:00",  "c":155,  "x":105,  "l":15,   "b":"NNYPD Precinct"                              }
+                ]
             ],
         '43' : [ "Horrible Gelatinous Blob",   null,                 3, 0, 1, 
             ],

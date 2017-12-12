@@ -1,134 +1,144 @@
 ==Actions==
 {{Table Header Action}}
 {{Action
-| image=Hedonismbot Bathe in Malt Liquor.png
-| name=Bathe in Malt Liquor
-| quote=Soaking up the bubbly...
+| image=Mecha-Hermes Show Off His Cylon Eye.png
+| name=Show Off His Cylon Eye
+| quote=Scanning the room...
 | time=1h 0m 0s
 | currency=35
 | xp=23
 | requirements_level=2
-| requirements_building=O'Zorgnax's Pub
+| requirements_building=Planet Express Building
 }}
 {{Action
-| image=Hedonismbot Discuss Taboo Topics.png
-| name=Discuss Taboo Topics
-| quote=Getting up close and too personal...
+| image=Mecha-Hermes Robolimbo.png
+| name=Robolimbo
+| quote=Lowering the bar...
 | time=2h 0m 0s
 | currency=65
 | xp=40
-| requirements_level=4
-| requirements_building=Robot Arms Apts.
-}}
-{{Action
-| image=Hedonismbot Satisfy His Appetite.png
-| name=Satisfy His Appetite
-| quote=Tantalizing the taste buds...
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| animated=yes
-}}
-{{Action
-| image=Hedonismbot Appreciate Fine Leather.png
-| name=Appreciate Fine Leather
-| quote=Cracking the whips...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=5
-| requirements_building=Rook Takes Pawnshop
-}}
-{{Action
-| image=Hedonismbot Oil Himself.png
-| name=Oil Himself
-| quote=Greasing the wheels...
-| time=4h 0m 0s
-| currency=95
-| xp=60
 | requirements_level=
 | animated=yes
 }}
 {{Action
-| image=Hedonismbot Call for Adventurous Volunteers.png
-| name=Call for Adventurous Volunteers
-| quote=Porking some guinea pigs...
-| time=8h 0m 0s
-| currency=155
-| xp=105
+| image=Mecha-Hermes Audit the Company.png
+| name=Audit the Company
+| quote=Tallying bananas...
+| time=3h 0m 0s
+| currency=80
+| xp=54
 | requirements_level=3
-| requirements_building=Planet Express Building
+| animated=yes
 }}
 {{Action
-| image=Hedonismbot Slather Tomato Sauce on Himself.png
-| name=Slather Tomato Sauce on Himself
-| quote=Getting saucy...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=12
-| requirements_building=Panucci's Pizza
-}}
-{{Action
-| image=Hedonismbot Submit to Arousing Demands.png
-| name=Submit to Arousing Demands
-| quote=Giving in to temptation...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=8
-| requirements_building=NNYPD Precinct
-}}
-{{Action
-| image=Hedonismbot Titillate the Senses.png
-| name=Titillate the Senses
-| quote=Eyeing the beholders...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=6
-| requirements_building=Electric Ladyland
-}}
-{{Action
-| image=Hedonismbot Call for Djambi.png
-| name=Call for Djambi
-| quote=Calling the bullpen...
-| time=12h 0m 0s
-| currency=200
-| xp=130
+| image=Mecha-Hermes Ask About New Tires.png
+| name=Ask About New Tires
+| quote=Gaining traction...
+| time=4h 0m 0s
+| currency=95
+| xp=60
 | requirements_level=9
-| requirements_building=City Tower
-}}
-{{Action
-| image=Hedonismbot Embrace Illicit Love.png
-| name=Embrace Illicit Love
-| quote=Violating protocols...
-| time=12h 0m 0s
-| currency=200
-| xp=130
-| requirements_level=7
 | requirements_building=Malfunctioning Eddie's Rocket Car Emporium
 }}
 {{Action
-| image=Hedonismbot Engage in Depravity.png
-| name=Engage in Depravity
-| quote=Indulging in vices...
-| time=16h 0m 0s
-| currency=230
-| xp=150
-| requirements_level=10
+| image=Mecha-Hermes Fill His Engines.png
+| name=Fill His Engines
+| quote=Fueling up...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=4
+| requirements_building=O'Zorgnax's Pub
+}}
+{{Action
+| image=Mecha-Hermes Scan the Menu.png
+| name=Scan the Menu
+| quote=Unless they serve Mecha-Manwiches...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=12
+| requirements_building=Cavern on the Green
+}}
+{{Action
+| image=Mecha-Hermes Try Some Curried Goat.png
+| name=Try Some Curried Goat
+| quote=Spicing things up...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=6
+| animated=yes
+}}
+{{Action
+| image=Mecha-Hermes Connect to the Network.png
+| name=Connect to the Network
+| quote=Linking securely...
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=13
 | requirements_building=Satellite Building
 }}
 {{Action
-| image=Hedonismbot Encrust Self in Diamonds.png
-| name=Encrust Self in Diamonds
-| quote=Bedazzling himself...
-| time=1d 0h 0m 0s
-| currency=300
-| xp=195
+| image=Mecha-Hermes Demonstrate His Extend-o Arm.png
+| name=Demonstrate His Extend-o Arm
+| quote=Reaching for <!-- that’s it. The in-game quote is unfinished, and no dots -->
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=10
+| requirements_building=Avenue Hotel
+}}
+{{Action
+| image=Mecha-Hermes Find a Room.png
+| name=Find a Room
+| quote=Scoping out a new place...
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=5
+| requirements_building=Robot Arms Apts.
+}}
+{{Action
+| image=Mecha-Hermes Shop for Oil.png
+| name=Shop for Oil
+| quote=Loosening the joints...
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=8
+| requirements_building=7^11
+}}
+{{Action
+| image=Mecha-Hermes Enjoy the Machinery.png
+| name=Enjoy the Machinery
+| quote=Bumping nasties and grinding gears...
+| time=8h 0m 0s
+| currency=155
+| xp=105
 | requirements_level=11
-| requirements_building=Diamonds are Forever
+| requirements_building=Electric Ladyland
+}}
+{{Action
+| image=Mecha-Hermes Look for Organ Replacement.png
+| name=Look for Organ Replacement
+| quote=Piecing together new parts...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=7
+| requirements_building=Rook Takes Pawnshop
+}}
+{{Action
+| image=Mecha-Hermes Register His Deadly Weapons.png
+| name=Register His Deadly Weapons
+| quote=Introducing arm and hammer...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=15
+| requirements_building=NNYPD Precinct
 }}
 |}
 {{Section Top|Actions}}
-{{Outfit Gallery}}
