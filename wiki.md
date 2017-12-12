@@ -1,155 +1,137 @@
 ==Actions==
 {{Table Header Action}}
 {{Action
-| image=Takei Pay for a Round.png
-| name=Pay for a Round
-| quote=Celebrating his return...
+| event=
+| image=Hattie McDoogal Do Intensive Research.png
+| name=Do Intensive Research
+| quote=Reading about whatchacallit...
 | time=1h 0m 0s
 | currency=35
 | xp=23
-| requirements_level=4
-| requirements_building=O'Zorgnax's Pub
-}}
-{{Action
-| image=Takei Enjoy Complimentary Mints.png
-| name=Enjoy Complimentary Mints
-| quote=Freshening for free...
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=7
-| requirements_building=City Tower
-}}
-{{Action
-| image=Takei Use the ATM Machine.png
-| name=Use the ATM Machine
-| quote=Drawing out quatloos...
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=10
-| requirements_building=Electric Ladyland
-}}
-{{Action
-| image=Takei Play Fry's Holophonor.png
-| name=Play Fry's Holophonor
-| quote=Playing a masterpiece...
-| time=2h 0m 0s
-| currency=65
-| xp=40
 | requirements_level=
-| requirements_character=Fry
 | animated=yes
 }}
 {{Action
-| image=Takei Get Approached by Fans.png
-| name=Get Approached by Fans
-| quote=Signing autographs...
+| event=
+| image=Hattie McDoogal Find a Cat Sitter.png
+| name=Find a Cat Sitter
+| quote=Calling the kajigger service...
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=2
+| requirements_character=Amy
+| animated=yes
+}}
+{{Action
+| event=
+| image=Hattie McDoogal Buy Some Whatchacallit.png
+| name=Buy Some Whatchacallit
+| quote=Making a precise purchase...
 | time=3h 0m 0s
 | currency=80
 | xp=54
-| requirements_level=2
+| requirements_level=3
 | requirements_building=7^11
 }}
 {{Action
-| image=Takei Search for Old Star Trek Tapes.png
-| name=Search for Old Star Trek Tapes
-| quote=Looking where no one has looked before...
+| event=
+| image=Hattie McDoogal Drink a Whatchacallit.png
+| name=Drink a Whatchacallit
+| quote=Chasing it with a kajigger...
 | time=4h 0m 0s
 | currency=95
 | xp=60
-| requirements_level=5
+| requirements_level=
+| requirements_building=O'Zorgnax's Pub
+}}
+{{Action
+| event=
+| image=Hattie McDoogal Trade In a Whatchacallit.png
+| name=Trade In a Whatchacallit
+| quote=Exchanging it for a kajigger...
+| time=5h 0m 0s
+| currency=110
+| xp=73
+| requirements_level=6
 | requirements_building=Rook Takes Pawnshop
 }}
 {{Action
-| image=Takei Take Free Brochures.png
-| name=Take Free Brochures
-| quote=Cruising for a perusing...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=9
+| event=
+| image=Hattie McDoogal Drive a Kajigger.png
+| name=Drive a Kajigger
+| quote=Motoring a whatchallit... <!-- game uses whatchallit, not whatchacallit -->
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=4
 | requirements_building=Malfunctioning Eddie's Rocket Car Emporium
 }}
 {{Action
-| image=Takei Use Twitcher.png
-| name=Use Twitcher
-| quote=Twitting out the twits...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=3
-| requirements_building=The Hip Joint
-}}
-{{Action
-| image=Takei Cheat On His Diet.png
-| name=Cheat On his Diet
-| quote=Ignoring weighty matters...
+| event=
+| image=Hattie McDoogal Try On a Diamond Kajigger.png
+| name=Try On a Diamond Kajigger
+| quote=Whatchallits are a girl’s best friend...
 | time=6h 0m 0s
 | currency=125
 | xp=85
-| requirements_level=13
-| requirements_building=Family Brothers Pizza
+| requirements_level=10
+| requirements_building=Diamonds are Forever
 }}
 {{Action
-| image=Takei Pick at the Appetizers.png
-| name=Pick at the Appetizers
-| quote=Dining on bread and circuses...
-| time=6h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=11
-| requirements_building=Cavern on the Green
-}}
-{{Action
-| image=Takei Watch Clips of Himself.png
-| name=Watch Clips of Himself
-| quote=Getting nostalgic...
-| time=6h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=6
-| requirements_building=Planet Express Building
-}}
-{{Action
-| image=Takei Fence Bare Chested.png
-| name=Fence Bare Chested
-| quote=Thrusting and parrying...
+| event=
+| image=Hattie McDoogal Play With Her Cats.png
+| name=Play With Her Cats
+| quote=Whatchacallitting the kitties...
 | time=8h 0m 0s
 | currency=155
 | xp=105
-| requirements_level=4
+| requirements_level=5
 | animated=yes
 }}
 {{Action
-| image=Takei Maintain His Figure.png
-| name=Maintain His Figure
-| quote=Toning his muscles...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=14
-| requirements_building=NNY Dumbell Club Gym
+| event=
+| image=Hattie McDoogal Take the Free Kajiggers.png
+| name=Take the Free Kajiggers
+| quote=Leaving the rest...
+| time=10h 0m 0s
+| currency=180
+| xp=119
+| requirements_level=4
+| requirements_building=Modest Business Building
 }}
 {{Action
-| image=Takei Report Paparazzi.png
-| name=Report Paparazzi
-| quote=Getting pressed...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=12
-| requirements_building=NNYPD Precinct
+| event=
+| image=Hattie McDoogal Watch the Kajigger.png
+| name=Watch the Kajigger
+| quote=Kajiggering at will...
+| time=12h 0m 0s
+| currency=200
+| xp=130
+| requirements_level=7
+| requirements_building=New New York Plaza
 }}
 {{Action
-| image=Takei Look for a New Venue.png
-| name=Look for a New Venue
-| quote=Scouting locations...
-| time=8h 0m 0s
-| currency=155
-| xp=105
+| event=
+| image=Hattie McDoogal Refuse to Shake Her Kajigger.png
+| name=Refuse to Shake Her Kajigger
+| quote=Taking a whatchallit... offense... <!-- game uses whachallit. Also, double use of elipses -->
+| time=18h 0m 0s
+| currency=250
+| xp=164
+| requirements_level=8
+| requirements_building=Electric Ladyland
+}}
+{{Action
+| event=
+| image=Hattie McDoogal Register as a Whatchacallit.png
+| name=Register as a Whatchacallit
+| quote=Filling out the whatchacallit...paperwork... <!-- in-game text has no space between the first elipses and paperwork -->
+| time=1d 0h 0m 0s
+| currency=300
+| xp=195
 | requirements_level=9
-| requirements_building=Robot Arms Apts.
+| requirements_building=Central Bureaucracy
 }}
 |}
 {{Section Top|Actions}}
