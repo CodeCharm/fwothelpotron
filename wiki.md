@@ -1,169 +1,128 @@
 ==Actions==
 {{Table Header Action}}
 {{Action
-| image=Pharaoh Bender Buy Pyramid Lotto Scratchers.png
-| name=Buy Pyramid Lotto Scratchers
+| image=Ramblin' Rodriguez Play for Tips.png
+| name=Play for Tips
 | time=1h 0m 0s
 | currency=35
 | xp=23
-| requirements_level=2
-| requirements_character=
-| requirements_building=7^11
-| animated=
-}}
-{{Action
-| image=Pharaoh Bender Communicate with Ancient Aliens.png
-| name=Communicate with Ancient Aliens
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=12
-| requirements_character=
-| requirements_building=Satellite Building
-| animated=
-}}
-{{Action
-| image=Pharaoh Bender Drink Mead.png
-| name=Drink Mead
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=4
-| requirements_character=
-| requirements_building=O'Zorgnax's Pub
-| animated=
-}}
-{{Action
-| image=Pharaoh Bender Walk Like an Egyptian.png
-| name=Walk Like an Egyptian
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=
-| requirements_character=
-| requirements_building=
 | animated=yes
 }}
 {{Action
-| image=Pharaoh Bender Repair His Chariot.png
-| name=Repair His Chariot
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=10
-| requirements_character=
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
-| animated=
-}}
-{{Action
-| image=Pharaoh Bender Look Down Upon Peons.png
-| name=Look Down Upon Peons
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=13
-| requirements_character=
-| requirements_building=New New York Plaza
-| animated=
-}}
-{{Action
-| image=Pharaoh Bender Recover the Book of the Dead.png
-| name=Recover the Book of the Dead
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=7
-| requirements_character=
-| requirements_building=Rook Takes Pawnshop
-| animated=
-}}
-{{Action
-| image=Pharaoh Bender Make the Professor Eat Mummy Jerky.png
-| name=Make the Professor Eat Mummy Jerky
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=5
-| requirements_character=
+| image=Ramblin' Rodriguez Perform for the Crew.png
+| name=Perform for the Crew
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=2
 | requirements_building=Planet Express Building
-| animated=
 }}
 {{Action
-| image=Pharaoh Bender Take a Chariot Ride.png
-| name=Take a Chariot Ride
+| image=Ramblin' Rodriguez Pour Out His Soul.png
+| name=Pour Out His Soul
+| time=3h 0m 0s
+| currency=80
+| xp=54
+| animated = yes
+}}
+{{Action
+| image=Ramblin' Rodriguez Drink His Pain Away.png
+| name=Drink His Pain Away
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_building=O'Zorgnax's Pub
+}}
+{{Action
+| image=Ramblin' Rodriguez Shop for a Beater.png
+| name=Shop for a Beater
 | time=4h 0m 0s
 | currency=95
 | xp=60
 | requirements_level=3
-| requirements_character=Fry
-| requirements_building=
-| animated=yes
+| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
 }}
 {{Action
-| image=Pharaoh Bender Apply Guyliner.png
-| name=Apply Guyliner
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=15
-| requirements_character=
-| requirements_building=Avenue Hotel
-| animated=
-}}
-{{Action
-| image=Pharaoh Bender Defy the Laws of Man.png
-| name=Defy the Laws of Man
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=16
-| requirements_character=
-| requirements_building=NNYPD Precinct
-| animated=
-}}
-{{Action
-| image=Pharaoh Bender Dine with Hathor.png
-| name=Dine with Hathor
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=9
-| requirements_character=
+| image=Ramblin' Rodriguez Be the Evening's Entertainment.png
+| name=Be the Evening's Entertainment
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=4
 | requirements_building=Cavern on the Green
-| animated=
 }}
 {{Action
-| image=Pharaoh Bender Make a Robot Sacrifice.png
-| name=Make a Robot Sacrifice
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=8
-| requirements_character=
-| requirements_building=Robot Arms Apts.
-| animated=
-}}
-{{Action
-| image=Pharaoh Bender Marvel at Modern Pyramids.png
-| name=Marvel at Modern Pyramids
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=14
-| requirements_character=
-| requirements_building=Skyscraper Center
-| animated=
-}}
-{{Action
-| image=Pharaoh Bender Recruit Concubines.png
-| name=Recruit Concubines
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=6
-| requirements_character=
+| image=Ramblin' Rodriguez Serenade the Stripperbots.png
+| name=Serenade the Stripperbots
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=7
 | requirements_building=Electric Ladyland
-| animated=
+}}
+{{Action
+| image=Ramblin' Rodriguez Keep His Neighbors Up.png
+| name=Keep His Neighbors Up
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=2
+| requirements_building=Robot Arms Apts.
+}}
+{{Action
+| image=Ramblin' Rodriguez Buy Back His Guitar.png
+| name=Buy Back His Guitar
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=3
+| requirements_building=Rook Takes Pawnshop
+}}
+{{Action
+| image=Ramblin' Rodriguez Play in His Cell.png
+| name=Play in His Cell
+| time=10h 0m 0s
+| currency=180
+| xp=119
+| requirements_level=5
+| requirements_building=NNYPD Precinct
+}}
+{{Action
+| image=Ramblin' Rodriguez Spread His Pain.png
+| name=Spread His Pain
+| time=12h 0m 0s
+| currency=200
+| xp=130
+| requirements_level=6
+| requirements_building=Modest Business Building
+}}
+{{Action
+| image=Ramblin' Rodriguez Sing the Blues.png
+| name=Sing the Blues
+| time=16h 0m 0s
+| currency=230
+| xp=150
+| requirements_level=8
+| requirements_building=Satellite Building
+}}
+{{Action
+| image=Ramblin' Rodriguez Register As a Musician.png
+| name=Register As a Musician
+| time=18h 0m 0s
+| currency=250
+| xp=164
+| requirements_level=9
+| requirements_building=Central Bureaucracy
+}}
+{{Action
+| image=Ramblin' Rodriguez Strum for Tips.png
+| name=Strum for Tips
+| time=1d 0h 0m 0s
+| currency=300
+| xp=195
+| requirements_level=10
+| requirements_building=Avenue Hotel
 }}
 |}
 {{Section Top|Actions}}
+{{Outfit Gallery}}

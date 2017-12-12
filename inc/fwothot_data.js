@@ -192,6 +192,22 @@
                 ]
             ],
         '12' : [ "Bender",                     "Ramblin' Rodriguez", 3, 0, 0, 
+            [
+                { "n":"Play for Tips",                              "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                { "n":"Perform for the Crew",                       "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2,    "b":"Planet Express Building"                     },
+                { "n":"Pour Out His Soul",                          "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1     },
+                { "n":"Drink His Pain Away",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"O'Zorgnax's Pub"                             },
+                { "n":"Shop for a Beater",                          "d":"P0T04:00:00",  "c":95,   "x":60,   "l":3,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                { "n":"Be the Evening's Entertainment",             "d":"P0T06:00:00",  "c":125,  "x":85,   "l":4,    "b":"Cavern on the Green"                         },
+                { "n":"Serenade the Stripperbots",                  "d":"P0T06:00:00",  "c":125,  "x":85,   "l":7,    "b":"Electric Ladyland"                           },
+                { "n":"Keep His Neighbors Up",                      "d":"P0T06:00:00",  "c":125,  "x":85,   "l":2,    "b":"Robot Arms Apts."                            },
+                { "n":"Buy Back His Guitar",                        "d":"P0T08:00:00",  "c":155,  "x":105,  "l":3,    "b":"Rook Takes Pawnshop"                         },
+                { "n":"Play in His Cell",                           "d":"P0T10:00:00",  "c":180,  "x":119,  "l":5,    "b":"NNYPD Precinct"                              },
+                { "n":"Spread His Pain",                            "d":"P0T12:00:00",  "c":200,  "x":130,  "l":6,    "b":"Modest Business Building"                    },
+                { "n":"Sing the Blues",                             "d":"P0T16:00:00",  "c":230,  "x":150,  "l":8,    "b":"Satellite Building"                          },
+                { "n":"Register As a Musician",                     "d":"P0T18:00:00",  "c":250,  "x":164,  "l":9,    "b":"Central Bureaucracy"                         },
+                { "n":"Strum for Tips",                             "d":"P1T00:00:00",  "c":300,  "x":195,  "l":10,   "b":"Avenue Hotel"                                }
+            ]
             ],
         '76' : [ "Bender",                     "Santa Claus",        4, 0, 0, 
             ],
