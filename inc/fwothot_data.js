@@ -104,6 +104,22 @@
                 ]
             ],
          '7' : [ "Bender",                     "Burglar",            2, 0, 0, 
+                [
+                    { "n":"Open Money Bags",                            "d":"P0T01:00:00",  "c":35,   "x":23,   "l":3     },
+                    { "n":"Break into Fry's Apartment",                 "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2,    "b":"Robot Arms Apts."                            },
+                    { "n":"Pickpocket Amy",                             "d":"P0T02:00:00",  "c":135,  "x":85,   "l":1,    "h":"Amy"                                         },
+                    { "n":"Burgle Guests",                              "d":"P0T04:00:00",  "c":95,   "x":60,   "l":6,    "b":"Avenue Hotel"                                },
+                    { "n":"Get a 3-Finger Discount",                    "d":"P0T04:00:00",  "c":95,   "x":60,   "l":5,    "b":"7^11"                                        },
+                    { "n":"Scale Building with Suction Cups",           "d":"P0T04:00:00",  "c":95,   "x":60,   "l":13,   "b":"Skyscraper Center"                           },
+                    { "n":"Sell Booty",                                 "d":"P0T04:00:00",  "c":95,   "x":60,   "l":8,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Steal the Free Mints",                       "d":"P0T04:00:00",  "c":95,   "x":60,   "l":11,   "b":"Cavern on the Green"                         },
+                    { "n":"Destroy Evidence",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":9,    "b":"NNYPD Precinct"                              },
+                    { "n":"Raid Coworkers' Cubbies",                    "d":"P0T08:00:00",  "c":155,  "x":105,  "l":7,    "b":"Planet Express Building"                     },
+                    { "n":"Raid the League of Robots",                  "d":"P0T08:00:00",  "c":155,  "x":105,  "l":12,   "b":"City Tower"                                  },
+                    { "n":"Smuggle Blood Diamonds",                     "d":"P0T08:00:00",  "c":155,  "x":105,  "l":15,   "b":"Diamonds are Forever"                        },
+                    { "n":"Steal Hearts",                               "d":"P0T08:00:00",  "c":155,  "x":105,  "l":10,   "b":"Electric Ladyland"                           },
+                    { "n":"Submit Burglary Form 22-JZX",                "d":"P0T08:00:00",  "c":155,  "x":105,  "l":14,   "b":"Central Bureaucracy"                         }
+                ]
             ],
          '8' : [ "Bender",                     "Ghost",              4, 0, 0, 
             ],
