@@ -505,6 +505,19 @@
                 ]
             ],
         '32' : [ "Free Waterfall Jr.",         null,                 3, 0, 0, 
+                [
+                    { "n":"Live Freely",                                "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Ask for Free Food",                          "d":"P0T02:00:00",  "c":65,   "x":40,   "l":4,    "b":"7^11"                                        },
+                    { "n":"Stretch Out",                                "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3     },
+                    { "n":"Smoke and Toke",                             "d":"P0T04:00:00",  "c":95,   "x":60,   "l":7     },
+                    { "n":"Fight Police Brutality",                     "d":"P0T06:00:00",  "c":125,  "x":85,   "l":10,   "b":"NNYPD Precinct"                              },
+                    { "n":"Protest for Animal Rights",                  "d":"P0T08:00:00",  "c":155,  "x":105,  "l":2,    "b":"Cavern on the Green"                         },
+                    { "n":"Spray On Some Patchouli",                    "d":"P0T10:00:00",  "c":180,  "x":119,  "l":5,    "b":"Planet Express Building"                     },
+                    { "n":"Advocate Free Love",                         "d":"P0T12:00:00",  "c":200,  "x":130,  "l":8,    "b":"Electric Ladyland"                           },
+                    { "n":"Rail Against Big Business",                  "d":"P0T16:00:00",  "c":230,  "x":150,  "l":6,    "b":"Modest Business Building"                    },
+                    { "n":"Picket for Workers' Rights",                 "d":"P0T18:00:00",  "c":250,  "x":164,  "l":9,    "b":"New New York Plaza"                          },
+                    { "n":"Refuse to Answer to the Man",                "d":"P1T00:00:00",  "c":300,  "x":195,  "l":11,   "b":"Central Bureaucracy"                         }
+                ]
             ],
         '33' : [ "Fry",                        null,                 3, 1, 0, 
             ],
