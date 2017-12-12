@@ -173,24 +173,44 @@ function drawCharTable() {
 
                 if (chr_act && chr_act.length > 0) {
                     chr_txt += '<div class="tbl_a">';
+                    var maxYield = 0;
                     $.each(chr_act, function (index, value) {
-                        var act_dur = value.d.slice(2, 10);
-                        var dur_h = act_dur.slice(0, 2);
-                        var dur_m = act_dur.slice(3, 5);
-                        var dur_s = act_dur.slice(6, 8);
-                        var dur = new Date(0, 0, 0, dur_h, dur_m, dur_s);
+                        var dur_d = value.d.match(/P(\d)T/)[1];
+                        var dur_h = value.d.match(/T(\d\d):/)[1];
+                        var dur_m = value.d.match(/T\d\d:(\d\d):/)[1];
+                        var dur_s = value.d.match(/T\d\d:\d\d:(\d\d)/)[1];
+                        var dur = new Date(0, 0, dur_d, dur_h, dur_m, dur_s);
+                        var d = dur_d;
                         var h = dur.getHours();
                         var m = dur.getMinutes();
                         var s = dur.getSeconds();
                         var dur_abbr = '';
-                        if (h) {dur_abbr = h + 'h';}
+                        if (d > 0) {dur_abbr = d + 'd';}
+                        if (h) {dur_abbr += h + 'h';}
                         if (m) {dur_abbr += m + 'm';}
-                        if (s) {dur_abbr += s + 's';}
-                        var yld = value.c / ((h * 3600 + m * 60 + s) / (60 * 60));
-                        if (value.h) {yld = yld / 2;}
-                        chr_txt += '<div class="tbl_r1"><div class="tbl_c">' + value.n + '</div><div class="tbl_c">' + dur_abbr + '</div><div class="tbl_c">&curren; ' + value.c + '</div><div class="tbl_c">' + yld.toFixed(2) + '</div><div class="tbl_c">Lvl: ' + value.l + '</div></div>';
+                        if (s) { dur_abbr += s + 's'; }
+                        var tot_s = d * 86400 + h * 3600 + m * 60 + s;
+                        var yld_hr = value.c / (tot_s / 3600); 
+                        if (value.h) { yld_hr = yld_hr / 2; }
+                        maxYield = Math.max(maxYield, yld_hr);
+                        value.yield = yld_hr;
+                        value.duration = dur_abbr;
+                        value.dur_0h = tot_s < 3600;
+                        value.dur_1h = tot_s >= 3600 && tot_s < 7200;
+                        value.dur_2h = tot_s >= 7200 && tot_s < 14400;
+                        value.dur_4h = tot_s >= 14400 && tot_s <= 28800;
+                        value.dur_8h = tot_s >= 28800;
+                    });
+                    $.each(chr_act, function (index, value) {
+                        var maxYieldClass = (value.yield >= (maxYield * 0.9)) ? ' maxYield' : '';
+                        maxYieldClass += value.dur_0h ? ' dur_0h' : '';
+                        maxYieldClass += value.dur_1h ? ' dur_1h' : '';
+                        maxYieldClass += value.dur_2h ? ' dur_2h' : '';
+                        maxYieldClass += value.dur_4h ? ' dur_4h' : '';
+                        maxYieldClass += value.dur_8h ? ' dur_8h' : '';
+                        chr_txt += '<div class="tbl_r1' + maxYieldClass + '"><div class="tbl_c">' + value.n + '</div><div class="tbl_c">' + value.duration + '</div><div class="tbl_c">&curren; ' + value.c + '</div><div class="tbl_c">' + value.yield.toFixed(2) + '</div><div class="tbl_c">Lvl: ' + value.l + '</div></div>';
                         if (value.b || value.h) {
-                            chr_txt += '<div class="tbl_r2"><div class="tbl_c">' + (value.b ? ('Required building: ' + value.b) : ('Required character: ' + value.h)) + '</div></div>';
+                            chr_txt += '<div class="tbl_r2' + maxYieldClass + '"><div class="tbl_c">' + (value.b ? ('Required building: ' + value.b) : ('Required character: ' + value.h)) + '</div></div>';
                         }
                     });
                     chr_txt += '</div>';

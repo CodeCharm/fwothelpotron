@@ -4,37 +4,54 @@
 
     game_data['chr_all'] = {
          '1' : [ "Amy",                        null,                 1, 0, 0, [
-                    { "n": "Partyboard",                    "d": "PT00:15:00",  "c": 9,     "x": 5,     "l": 1},
-                    { "n": "Spray-On Outfits",              "d": "PT00:15:00",  "c": 9,     "x": 5,     "l": 1},
-                    { "n": "Charge Her Cellphone",          "d": "PT01:00:00",  "c": 35,    "x": 23,    "l": 2,     "b": "Planet Express Building"},
-                    { "n": "Embrace Her Robosexuality",     "d": "PT01:00:00",  "c": 35,    "x": 23,    "l": 1,     "b": "Robot Arms Apts."},
-                    { "n": "Keep on Slippin'",              "d": "PT01:00:00",  "c": 35,    "x": 23,    "l": 3},
-                    { "n": "Read Mini-Golf Digest",         "d": "PT01:00:00",  "c": 35,    "x": 23,    "l": 4,     "b": "7^11"},
-                    { "n": "Paint Her Nails",               "d": "PT02:00:00",  "c": 65,    "x": 40,    "l": 5,     "b": "O'Zorgnax's Pub"},
-                    { "n": "Find a Cat Sitter",             "d": "PT02:00:00",  "c": 65,    "x": 40,    "l": 1,     "h": "Hattie"},
-                    { "n": "Pickpocket Amy",                "d": "PT02:00:00",  "c": 135,   "x": 85,    "l": 1,     "h": "Burglar Bender"},
-                    { "n": "Trim the Leg Hair",             "d": "PT02:00:00",  "c": 135,   "x": 85,    "l": 1,     "h": "Leg Mutant"},
-                    { "n": "Hang Out with Bad Boys",        "d": "PT04:00:00",  "c": 95,    "x": 60,    "l": 6,     "b": "O'Zorgnax's Pub"},
-                    { "n": "Overpay for a Car",             "d": "PT04:00:00",  "c": 95,    "x": 60,    "l": 1,     "b": "Malfunctioning Eddie's Rocket Car Emporium"},
-                    { "n": "Have Amy and Kif Smooch",       "d": "PT06:00:00",  "c": 265,   "x": 180,   "l": 1,     "h": "Kif"},
-                    { "n": "Attend Social Event ",          "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 3,     "b": "The Hip Joint"},
-                    { "n": "Curse in Cantonese",            "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 5,     "b": "Avenue Hotel"},
-                    { "n": "Drink Girly Cocktail",          "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 5,     "b": "O'Zorgnax's Pub"},
-                    { "n": "Get Ripped Off",                "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 1,     "b": "Rook Takes Pawnshop"} 
+                    { "n": "Partyboard",                                "d":"P0T00:15:00",  "c": 9,    "x":5,    "l": 1    },
+                    { "n": "Spray-On Outfits",                          "d":"P0T00:15:00",  "c": 9,    "x":5,    "l": 1    },
+                    { "n": "Charge Her Cellphone",                      "d":"P0T01:00:00",  "c": 35,   "x":23,   "l": 2,   "b": "Planet Express Building"                    },
+                    { "n": "Embrace Her Robosexuality",                 "d":"P0T01:00:00",  "c": 35,   "x":23,   "l": 1,   "b": "Robot Arms Apts."                           },
+                    { "n": "Keep on Slippin'",                          "d":"P0T01:00:00",  "c": 35,   "x":23,   "l": 3    },
+                    { "n": "Read Mini-Golf Digest",                     "d":"P0T01:00:00",  "c": 35,   "x":23,   "l": 4,   "b": "7^11"                                       },
+                    { "n": "Paint Her Nails",                           "d":"P0T02:00:00",  "c": 65,   "x":40,   "l": 5,   "b": "O'Zorgnax's Pub"                            },
+                    { "n": "Find a Cat Sitter",                         "d":"P0T02:00:00",  "c": 65,   "x":40,   "l": 1,   "h": "Hattie"                                     },
+                    { "n": "Pickpocket Amy",                            "d":"P0T02:00:00",  "c": 135,  "x":85,   "l": 1,   "h": "Burglar Bender"                             },
+                    { "n": "Trim the Leg Hair",                         "d":"P0T02:00:00",  "c": 135,  "x":85,   "l": 1,   "h": "Leg Mutant"                                 },
+                    { "n": "Hang Out with Bad Boys",                    "d":"P0T04:00:00",  "c": 95,   "x":60,   "l": 6,   "b": "O'Zorgnax's Pub"                            },
+                    { "n": "Overpay for a Car",                         "d":"P0T04:00:00",  "c": 95,   "x":60,   "l": 1,   "b": "Malfunctioning Eddie's Rocket Car Emporium" },
+                    { "n": "Have Amy and Kif Smooch",                   "d":"P0T06:00:00",  "c": 265,  "x":180,  "l": 1,   "h": "Kif"                                        },
+                    { "n": "Attend Social Event ",                      "d":"P0T08:00:00",  "c": 155,  "x":105,  "l": 3,   "b": "The Hip Joint"                              },
+                    { "n": "Curse in Cantonese",                        "d":"P0T08:00:00",  "c": 155,  "x":105,  "l": 5,   "b": "Avenue Hotel"                               },
+                    { "n": "Drink Girly Cocktail",                      "d":"P0T08:00:00",  "c": 155,  "x":105,  "l": 5,   "b": "O'Zorgnax's Pub"                            },
+                    { "n": "Get Ripped Off",                            "d":"P0T08:00:00",  "c": 155,  "x":105,  "l": 1,   "b": "Rook Takes Pawnshop"                        }
              ] ],
-         '2' : [ "Amy",                        "Nightlife",          4, 0, 0, [
-                    { "n": "Spend the Night",               "d": "PT02:00:00",  "c": 65,    "x": 40,    "l": 1,     "b": "Malfunctioning Eddie's Rocket Car Emporium", },
-                    { "n": "Walk Barefoot",                 "d": "PT04:00:00",  "c": 95,    "x": 60,    "l": 3,     "b": "7^11", },
-                    { "n": "Get Sloppy Drunk",              "d": "PT06:00:00",  "c": 125,   "x": 85,    "l": 1, },
-                    { "n": "Learn New Moves",               "d": "PT06:00:00",  "c": 125,   "x": 85,    "l": 3,     "b": "City Tower", },
-                    { "n": "Dance on the Bar",              "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 3,     "b": "O'Zorgnax's Pub", },
-                    { "n": "Keep it Classy",                "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 7,     "b": "Cavern on the Green", },
-                    { "n": "Pass Out",                      "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 6,     "b": "Electric Ladyland", },
-                    { "n": "Sit at Hotel Bar",              "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 7,     "b": "Avenue Hotel", }
-             ] ],
-         '3' : [ "Amy",                        "Amazonian",          0, 0, 1, [
-
-             ] ],
+         '2' : [ "Amy",                        "Nightlife",          4, 0, 0, 
+                [
+                    { "n": "Spend the Night",                           "d":"P0T02:00:00",  "c": 65,   "x":40,   "l": 1,   "b": "Malfunctioning Eddie's Rocket Car Emporium" },
+                    { "n": "Walk Barefoot",                             "d":"P0T04:00:00",  "c": 95,   "x":60,   "l": 3,   "b": "7^11"                                       },
+                    { "n": "Get Sloppy Drunk",                          "d":"P0T06:00:00",  "c": 125,  "x":85,   "l": 1    },
+                    { "n": "Learn New Moves",                           "d":"P0T06:00:00",  "c": 125,  "x":85,   "l": 3,   "b": "City Tower"                                 },
+                    { "n": "Dance on the Bar",                          "d":"P0T08:00:00",  "c": 155,  "x":105,  "l": 3,   "b": "O'Zorgnax's Pub"                            },
+                    { "n": "Keep it Classy",                            "d":"P0T08:00:00",  "c": 155,  "x":105,  "l": 7,   "b": "Cavern on the Green"                        },
+                    { "n": "Pass Out",                                  "d":"P0T08:00:00",  "c": 155,  "x":105,  "l": 6,   "b": "Electric Ladyland"                          },
+                    { "n": "Sit at Hotel Bar",                          "d":"P0T08:00:00",  "c": 155,  "x":105,  "l": 7,   "b": "Avenue Hotel"                               }
+                ] 
+            ],
+         '3' : [ "Amy",                        "Amazonian",          0, 0, 1, 
+                [
+                    { "n":"Make Out",                                   "d":"P0T01:00:00",  "c":95,   "x":60,   "l":"1",  "h":"Kif",                                        "b":""                                            },
+                    { "n":"Perform for Office Party",                   "d":"P0T02:00:00",  "c":65,   "x":40,   "l":"4",  "h":"",                                           "b":""                                            },
+                    { "n":"Eat Meat",                                   "d":"P0T03:00:00",  "c":80,   "x":54,   "l":"1",  "h":"",                                           "b":""                                            },
+                    { "n":"Do the Stilt Walker",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":"7",  "h":"",                                           "b":""                                            },
+                    { "n":"Eat Primitive Snacks",                       "d":"P0T05:00:00",  "c":110,  "x":73,   "l":"2",  "h":"",                                           "b":""                                            },
+                    { "n":"Stay Up to the Task",                        "d":"P0T06:00:00",  "c":125,  "x":85,   "l":"10", "h":"",                                           "b":""                                            },
+                    { "n":"Shop for Taller Stilts",                     "d":"P0T07:00:00",  "c":140,  "x":93,   "l":"5",  "h":"",                                           "b":""                                            },
+                    { "n":"Lose Her Balance",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":"3",  "h":"",                                           "b":""                                            },
+                    { "n":"Pig Out",                                    "d":"P0T09:00:00",  "c":170,  "x":112,  "l":"12", "h":"",                                           "b":""                                            },
+                    { "n":"Go Clubbing",                                "d":"P0T10:00:00",  "c":180,  "x":119,  "l":"9",  "h":"",                                           "b":""                                            },
+                    { "n":"Enjoy the View",                             "d":"P0T12:00:00",  "c":200,  "x":130,  "l":"8",  "h":"",                                           "b":""                                            },
+                    { "n":"Refused Service",                            "d":"P0T16:00:00",  "c":230,  "x":150,  "l":"7",  "h":"",                                           "b":""                                            },
+                    { "n":"Watch Her Step",                             "d":"P0T18:00:00",  "c":250,  "x":164,  "l":"6",  "h":"",                                           "b":""                                            },
+                    { "n":"Remove Her Make Up",                         "d":"P1T00:00:00",  "c":300,  "x":195,  "l":"11", "h":"",                                           "b":""                                            }
+                ]
+            ],
          '4' : [ "Ben Franklin",               null,                 1, 0, 0, [
 
              ] ],

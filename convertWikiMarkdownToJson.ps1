@@ -9,17 +9,17 @@ $text = $text -ireplace '^\| animated *= *.*$', ''
 $text = $text -ireplace '^\| name *= *(.*)$', '"n":"$1",'
 
 $text = $text -ireplace '^\| time *= *((\d+)d )?(\d+)h (\d+)m (\d+)s\s*$', '"d":"P$2T$3:$4:$5",'
-$text = $text -replace '"P(\d)T', '"P0$1T'
-$text = $text -replace '"P(\d{2})?T(\d):', '"P$1T0$2:'
-$text = $text -replace '"P(\d{2})?T(\d{2}):(\d):', '"P$1T$2:0$3:'
-$text = $text -replace '"P(\d{2})?T(\d{2}):(\d{2}):(\d)"', '"P$1T$2:$3:0$4"'
+$text = $text -ireplace '"PT', '"P0T'
+$text = $text -replace '"P(\d)T(\d):', '"P$1T0$2:'
+$text = $text -replace '"P(\d)T(\d{2}):(\d):', '"P$1T$2:0$3:'
+$text = $text -replace '"P(\d)T(\d{2}):(\d{2}):(\d)"', '"P$1T$2:$3:0$4"'
 
 $text = $text -ireplace '^\| currency *= *(\d+)\s*$', '"c":$1,'
 
 $text = $text -ireplace '^\| xp *= *(\d+)\s*$', '"x":$1,'
 
 $text = $text -ireplace '^\| requirements_level *= *(\d+)?\s*$', '"l":"$1",'
-$text = $text -ireplace '^"l":""$', '"l":"1"'
+$text = $text -ireplace '^"l":"",$', '"l":"1",'
 
 $text = $text -ireplace '^\| requirements_character *= *(.+)?\s*$', '"h":"$1",'
 
@@ -41,7 +41,7 @@ $newText = @()
 foreach ($line in $text) {
     # extra padding for longer lines
     if ($line -match '"(n|b|h)":') {
-        $padLine = $line.PadRight(40)
+        $padLine = $line.PadRight(50)
     } elseif ($line -match '"d":') {
         $padLine = $line.PadRight(20)
     } else {

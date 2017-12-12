@@ -133,6 +133,13 @@
     .tbl_m .tbl_r2 { display: flex; width: 100%; }
     .tbl_m .tbl_b .tbl_r1:not(:first-child) { border-top: 1px rgba(255,255,255,0.15) solid; }
 
+    .tbl_m .maxYield { background: black;}
+    .tbl_m .dur_0h { border-left: solid thick navy; border-right: solid thick navy;  }
+    .tbl_m .dur_1h { border-left: solid thick indigo; border-right: solid thick indigo; }
+    .tbl_m .dur_2h { border-left: solid thick maroon; border-right: solid thick maroon; }
+    .tbl_m .dur_4h { border-left: solid thick darkgreen; border-right: solid thick darkgreen; }
+    .tbl_m .dur_8h { border-left: solid thick saddlebrown; border-right: solid thick saddlebrown; }
+
     .tbl_m .tbl_a .tbl_c { padding: 7px 5px; line-height: 20px; }
     .tbl_m .tbl_a .tbl_c:first-child { padding-left: 20px; }
     .tbl_m .tbl_a .tbl_c:nth-child(1) { width: 100%; text-align: left; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex: 1 1; }
