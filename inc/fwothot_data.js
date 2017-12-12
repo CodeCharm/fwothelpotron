@@ -720,6 +720,23 @@
                 ]
             ],
         '43' : [ "Horrible Gelatinous Blob",   null,                 3, 0, 1, 
+                [
+                    { "n":"Test the Seatbelts",                         "d":"P0T01:00:00",  "c":35,   "x":23,   "l":4     },
+                    { "n":"Play on Tablet",                             "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Roll Around",                                "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1     },
+                    { "n":"Blow Off Some Steam",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":6     },
+                    { "n":"Buy the Morning Paper",                      "d":"P0T04:00:00",  "c":95,   "x":60,   "l":2     },
+                    { "n":"Rub Some Elbows",                            "d":"P0T04:00:00",  "c":95,   "x":60,   "l":9     },
+                    { "n":"Secure New Accounts",                        "d":"P0T05:00:00",  "c":110,  "x":73,   "l":3     },
+                    { "n":"Enjoy Happy Hour",                           "d":"P0T06:00:00",  "c":125,  "x":85,   "l":8     },
+                    { "n":"Leave a Slime Trail",                        "d":"P0T06:00:00",  "c":125,  "x":85,   "l":7     },
+                    { "n":"Swallow Some Coworkers",                     "d":"P0T06:00:00",  "c":125,  "x":85,   "l":5     },
+                    { "n":"Charge the Company Card",                    "d":"P0T08:00:00",  "c":155,  "x":105,  "l":11    },
+                    { "n":"Enjoy the Finer Things",                     "d":"P0T09:00:00",  "c":170,  "x":112,  "l":13    },
+                    { "n":"Fill Out Expense Reports",                   "d":"P0T10:00:00",  "c":180,  "x":119,  "l":12    },
+                    { "n":"Pick Up Dinner for the Family",              "d":"P0T12:00:00",  "c":200,  "x":130,  "l":15    },
+                    { "n":"Send Out Important Emails",                  "d":"P0T16:00:00",  "c":230,  "x":150,  "l":10    }
+                ]
             ],
         '44' : [ "Hookerbot",                  null,                 2, 0, 0, 
             ],
