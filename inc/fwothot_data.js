@@ -122,6 +122,25 @@
                 ]
             ],
          '8' : [ "Bender",                     "Ghost",              4, 0, 0, 
+                [
+                    { "n":"Haunt the Stripperbots",                     "d":"P0T01:00:00",  "c":35,   "x":23,   "l":12,   "h":"",                                           "b":"Electric Ladyland"                           },
+                    { "n":"Mess with the Clerk",                        "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2,    "h":"",                                           "b":"7^11"                                        },
+                    { "n":"Sulk at Home",                               "d":"P0T02:00:00",  "c":65,   "x":40,   "l":10,   "h":"",                                           "b":"Robot Arms Apts."                            },
+                    { "n":"Look for Friends",                           "d":"P0T03:00:00",  "c":80,   "x":54,   "l":7,    "h":"",                                           "b":"Planet Express Building"                     },
+                    { "n":"Freak Out",                                  "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "h":"",                                           "b":"Carnival Tent"                               },
+                    { "n":"Scream for Attention",                       "d":"P0T05:00:00",  "c":110,  "x":73,   "l":20,   "h":"",                                           "b":"City Tower"                                  },
+                    { "n":"Curse in the Night",                         "d":"P0T06:00:00",  "c":125,  "x":85,   "l":3,    "h":"",                                           "b":"Planet Express Building"                     },
+                    { "n":"Start the Engines",                          "d":"P0T07:00:00",  "c":140,  "x":93,   "l":14,   "h":"",                                           "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Drink Spirits",                              "d":"P0T08:00:00",  "c":155,  "x":105,  "l":5,    "h":"",                                           "b":""                                            },
+                    { "n":"Harass the Guests",                          "d":"P0T09:00:00",  "c":170,  "x":112,  "l":22,   "h":"",                                           "b":"Avenue Hotel"                                },
+                    { "n":"Scare Some Citizens",                        "d":"P0T10:00:00",  "c":180,  "x":119,  "l":9,    "h":"",                                           "b":""                                            },
+                    { "n":"Dolphin Dive",                               "d":"P0T12:00:00",  "c":200,  "x":130,  "l":8,    "h":"",                                           "b":""                                            },
+                    { "n":"Reach the Top",                              "d":"P0T00:00:00",  "c":0,    "x":0,    "l":24,   "h":"",                                           "b":"Satellite Building"                          },
+                    { "n":"Go Behind the Bar",                          "d":"P0T16:00:00",  "c":230,  "x":150,  "l":4,    "h":"",                                           "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Tamper with People's Food",                  "d":"P0T18:00:00",  "c":250,  "x":164,  "l":16,   "h":"",                                           "b":"Cavern on the Green"                         },
+                    { "n":"Scare the Crew",                             "d":"P0T20:00:00",  "c":265,  "x":176,  "l":6,    "h":"",                                           "b":"Planet Express Building"                     },
+                    { "n":"Free Some Convicts",                         "d":"P0T22:00:00",  "c":285,  "x":187,  "l":18,   "h":"",                                           "b":"NNYPD Precinct"                              }
+                ]
             ],
          '9' : [ "Bender",                     "Golden",             4, 0, 0, 
             ],
