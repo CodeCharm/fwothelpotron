@@ -308,6 +308,21 @@
                 ]
             ],
         '19' : [ "Boxy",                       null,                 3, 0, 1, 
+                [
+                    { "n":"Power Back Up",                              "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Point His Gun",                              "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2     },
+                    { "n":"Act In a Living Room",                       "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3,    "b":"Robot Arms Apts."                            },
+                    { "n":"Engage Stealth Mode",                        "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3     },
+                    { "n":"Light Up His Eyes",                          "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Steal the Scene",                            "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Pink Skyscraper"                             },
+                    { "n":"Beep In Enthusiasm",                         "d":"P0T05:00:00",  "c":110,  "x":73,   "l":6,    "b":"Electric Ladyland"                           },
+                    { "n":"Order a Shot of Beep",                       "d":"P0T06:00:00",  "c":125,  "x":85,   "l":10,   "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Buy New Batteries",                          "d":"P0T08:00:00",  "c":155,  "x":105,  "l":5,    "b":"7^11"                                        },
+                    { "n":"Browse for New Shell",                       "d":"P0T10:00:00",  "c":180,  "x":119,  "l":4,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Look for a Boxy Vehicle",                    "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Beep in the Lobby",                          "d":"P0T18:00:00",  "c":250,  "x":164,  "l":8,    "b":"City Tower"                                  },
+                    { "n":"Call Calculon",                              "d":"P1T00:00:00",  "c":300,  "x":195,  "l":9,    "b":"Satellite Building"                          }
+                ]
             ],
         '20' : [ "Butcher Bot",                null,                 2, 0, 1, 
             ],

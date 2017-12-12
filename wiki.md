@@ -1,151 +1,131 @@
 ==Actions==
 {{Table Header Action}}
 {{Action
-| image= Borax Kid Reload His Six-Shooter.png
-| name=Reload His Six-Shooter
-| quote=Popping and locking...
+| image=Boxy Power Back Up.png
+| name=Power Back Up
+| quote=Full speed behind...
 | time=1h 0m 0s
 | currency=35
 | xp=23
-| requirements_building=Planet Express Building
+| animated=yes
 }}
 {{Action
-| image= Borax Kid Fan Himself.png
-| name=Fan Himself
-| quote=Beating the heat...
+| image=Boxy Point His Gun.png
+| name=Point His Gun
+| quote=Aiming for dramatic effect...
 | time=2h 0m 0s
 | currency=65
 | xp=40
+| requirements_level=2
 | animated=yes
 }}
 {{Action
-| image= Borax Kid Make Detergent.png
-| name=Make Detergent
-| quote=Keeping it clean...
+| image=Boxy Act In a Living Room.png
+| name=Act In a Living Room
+| quote=Doing a family show...
 | time=3h 0m 0s
 | currency=80
 | xp=54
-| requirements_level=4
+| requirements_level=3
+| requirements_building=Robot Arms Apts.
+}}
+{{Action
+| image=Boxy Engage Stealth Mode.png
+| name=Engage Stealth Mode
+| quote=Running silent, running deep...
+| time=3h 0m 0s
+| currency=80
+| xp=54
+| requirements_level=3
 | animated=yes
 }}
 {{Action
-| image= Rook Takes Pawnshop.png
-| name=Pawn Items for Cash
-| quote=Pulling up a stake...
+| image=Boxy Light Up His Eyes.png
+| name=Light Up His Eyes
+| quote=Brightening the view...
 | time=4h 0m 0s
 | currency=95
 | xp=60
+| requirements_building=Planet Express Building
+}}
+{{Action
+| image=Boxy Steal the Scene.png
+| name=Steal the Scene
+| quote=Hogging the fame trough...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_building=Pink Skyscraper
+}}
+{{Action
+| image=Boxy Beep In Enthusiasm.png
+| name=Beep In Enthusiasm
+| quote=Backing that baby up...
+| time=5h 0m 0s
+| currency=110
+| xp=73
+| requirements_level=6
+| requirements_building=Electric Ladyland
+}}
+{{Action
+| image=Boxy Order a Shot of Beep.png
+| name=Order a Shot of Beep
+| quote=Staying alert...
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=10
+| requirements_building=O'Zorgnax's Pub
+}}
+{{Action
+| image=Boxy Buy New Batteries.png
+| name=Buy New Batteries
+| quote=Charging up...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=5
+| requirements_building=7^11
+}}
+{{Action
+| image=Boxy Browse for New Shell.png
+| name=Browse for New Shell
+| quote=Thinking outside the box...
+| time=10h 0m 0s
+| currency=180
+| xp=119
 | requirements_level=4
 | requirements_building=Rook Takes Pawnshop
 }}
 {{Action
-| image= Borax Kid Buy Some Moonshine.png
-| name=Buy Some Moonshine
-| quote=Drinking at dawn...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_building=7^11
-}}
-{{Action
-| image= Borax Kid Admiring the Ladybots.png
-| name=Admiring the Ladybots
-| quote=Hootin' and hollerin'...
-| time=6h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=5
-| requirements_building=Electric Ladyland
-}}
-{{Action
-| image= Borax Kid Compliment the Robot Domiciles.png
-| name=Compliment the Robot Domiciles
-| quote=Appreciating the decor...
-| time=6h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=2
-| requirements_building=Robot Arms Apts.
-}}
-{{Action
-| image= Borax Kid Shed Some Flakes.png
-| name=Shed Some Flakes
-| quote=Working up a lather...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=3
-| requirements_building=Modest Business Building
-}}
-{{Action
-| image= Borax Kid Show Some Hospitality.png
-| name=Show Some Hospitality
-| quote=Acting gentlemanly...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=2
-| animated=yes
-}}
-{{Action
-| image= Malfunctioning Eddie's Rocket Car Emporium.png
-| name=Ask About the Horsepower
-| quote=Betting on the ponies...
-| time=10h 0m 0s
-| currency=180
-| xp=119
-| requirements_level=6
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
-}}
-{{Action
-| image= Borax Kid Settle a Wager.png
-| name=Settle a Wager
-| quote=Bellying up to the bar...
-| time=10h 0m 0s
-| currency=180
-| xp=119
-| requirements_level=8
-| requirements_building=O'Zorgnax's Pub
-}}
-{{Action
-| image= Cavern on the Green.png
-| name=Eat Fancy City Food
-| quote=Jawing on some hambone...
+| image=Boxy Look for a Boxy Vehicle.png
+| name=Look for a Boxy Vehicle
+| quote=Fitting a square peg in a roundabout...
 | time=12h 0m 0s
 | currency=200
 | xp=130
 | requirements_level=7
-| requirements_building=Cavern on the Green
+| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
 }}
 {{Action
-| image= Borax Kid Ask for the Sheriff.png
-| name=Ask for the Sheriff
-| quote=Abiding his time...
-| time=14h 0m 0s
-| currency=215
-| xp=143
+| image=Boxy Beep in the Lobby.png
+| name=Beep in the Lobby
+| quote=Making some noise...
+| time=18h 0m 0s
+| currency=250
+| xp=164
 | requirements_level=8
-| requirements_building=NNYPD Precinct
-}}
-{{Action
-| image= Borax Kid Make a Deal.png
-| name=Make a Deal
-| quote=Proposin' favorable terms...
-| time=16h 0m 0s
-| currency=230
-| xp=150
-| requirements_level=9
 | requirements_building=City Tower
 }}
 {{Action
-| image= Borax Kid Get Some Shut Eye.png
-| name=Get Some Shut Eye
-| quote=Restin' his weary boron....
+| image=Boxy Call Calculon.png
+| name=Call Calculon
+| quote=Connecting with his co-star...
 | time=1d 0h 0m 0s
 | currency=300
 | xp=195
-| requirements_level=10
-| requirements_building=Avenue Hotel
+| requirements_level=9
+| requirements_building=Satellite Building
 }}
 |}
 {{Section Top|Actions}}
