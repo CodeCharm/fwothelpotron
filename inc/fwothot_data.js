@@ -378,6 +378,23 @@
         '24' : [ "Father Changstein El-Gamal", null,                 4, 0, 1, 
             ],
         '25' : [ "Chris Hardwick",             null,                 0, 0, 2, 
+                [
+                    { "n":"Book a Clean Shelf",                         "d":"P0T01:00:00",  "c":35,   "x":23,   "l":2     },
+                    { "n":"Look for Extra Jar Space",                   "d":"P0T02:00:00",  "c":65,   "x":40,   "l":6     },
+                    { "n":"Go On the Air",                              "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Decorate His Jar",                           "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3     },
+                    { "n":"Do a Stand-Up Set",                          "d":"P0T04:00:00",  "c":95,   "x":60,   "l":3     },
+                    { "n":"Fly Like a Superhero",                       "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1     },
+                    { "n":"Order the Whole Menu",                       "d":"P0T05:00:00",  "c":110,  "x":73,   "l":6     },
+                    { "n":"Binge on Chips",                             "d":"P0T06:00:00",  "c":125,  "x":85,   "l":1     },
+                    { "n":"Start a Dog Fight",                          "d":"P0T06:00:00",  "c":125,  "x":85,   "l":5     },
+                    { "n":"Host a Trivia Night",                        "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1     },
+                    { "n":"Purchase a Jar Dance",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":4,    "b":"Electric Ladyland"                           },
+                    { "n":"Start a New Hashtag",                        "d":"P0T10:00:00",  "c":180,  "x":119,  "l":7     },
+                    { "n":"Control the Microphone",                     "d":"P0T12:00:00",  "c":200,  "x":130,  "l":8     },
+                    { "n":"Fly Through the Halls",                      "d":"P0T16:00:00",  "c":230,  "x":150,  "l":9     },
+                    { "n":"Nerd Out",                                   "d":"P1T00:00:00",  "c":300,  "x":195,  "l":10,   "b":"Planet Express Building"                     }
+                ]
             ],
         '26' : [ "Crushinator",                null,                 4, 0, 1, 
             ],

@@ -28,14 +28,18 @@ $text = $text -replace '^"h":"",', ''
 $text = $text -ireplace '^\| requirements_building *= *(.+)?\s*$', '"b":"$1",'
 $text = $text -replace '^"b":"",', ''
 
+# unused wiki references and comments
 $text = $text -replace '^{{.*}}\s*$', ''
 $text = $text -replace '^\s*<!--.*-->\s*$', ''
 
+# block start marker
 $text = $text -replace '^==.*==\s*$', "["
 
+# action block markers
 $text = $text -ireplace '^{{Action\s*$', '{'
 $text = $text -replace '^}}\s*$', '},'
 
+# block end marker
 $text = $text -replace '^\|}\s*$', ']'
 
 # pad lines to get even spacing when joined
@@ -63,6 +67,10 @@ $text = $text -replace '\r\n(["}])', '$1'
 $text = $text -replace '},\s*\r\n', "},`r`n"
 $text = $text -replace '},\s*\r\n\]', "}`r`n]"
 $text = $text -replace '([\]\[])\s*', "`$1`r`n"
+
+# look for missing levels
+$text = $text -replace '("x":\d+)(\s+)}', '$1,   "l":1$2}'
+$text = $text -replace '("x":\d+,)(\s+)("h":|"b":)', '$1"l":1,$2$3'
 
 #$text = $text + ']'
 $text | Out-File actions.json

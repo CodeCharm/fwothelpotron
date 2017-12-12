@@ -1,113 +1,151 @@
 ==Actions==
 {{Table Header Action}}
 {{Action
-| image=ShakesCalculon Perform Classical Theater.png
-| name=Perform Classical Theater
-| quote=Acting to the oldies....
-| time=1h 0m 0s
-| currency=35
-| xp=23
-| requirements_level=
+| image = Chris Hardwick Book a Clean Shelf.png
+| name = Book a Clean Shelf
+| quote = Getting some me time...
+| time = 1h 0m 0s
+| currency = 35
+| xp = 23
+| requirements_level = 2
+| requirements_building = 
+}}
+{{Action
+| image = Malfunctioning Eddie's Rocket Car Emporium.png
+| name = Look for Extra Jar Space
+| quote = Adding a sidecar...
+| time = 2h 0m 0s
+| currency = 65
+| xp = 40
+| requirements_level = 6
+| requirements_building = 
+}}
+{{Action
+| image = Chris Hardwick Go On the Air.png
+| name = Go On the Air
+| quote = Broadcasting to his nerd empire...
+| time = 2h 0m 0s
+| currency = 65
+| xp = 40
 | animated=yes
 }}
 {{Action
-| image=ShakesCalculon Drink Poison.png
-| name=Drink Poison
-| quote=Pulling down the nightshade...
-| time=3h 0m 0s
-| currency=80
-| xp=54
-| requirements_level=3
-| animated=yes
+| image = Chris Hardwick Decorate His Jar.png
+| name = Decorate His Jar
+| quote = Gussying himself up...
+| time = 3h 0m 0s
+| currency = 80
+| xp = 54
+| requirements_level = 3
+| requirements_building = 
 }}
 {{Action
-| image=ShakesCalculon Show Some Emotion.png
-| name=Show Some Emotion
-| quote=Outting a damned spot...
-| time=3h 0m 0s
-| currency=80
-| xp=54
-| requirements_level=3
-| requirements_building=Robot Arms Apts.
+| image = Chris Hardwick Do a Stand-Up Set.png
+| name = Do a Stand-Up Set
+| quote = Laughing it up...
+| time = 4h 0m 0s
+| currency = 95
+| xp = 60
+| requirements_level = 3
+| requirements_building = 
 }}
 {{Action
-| image=ShakesCalculon Do a Private Performance.png
-| name=Do a Private Performance
-| quote=Lending him their ears...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_building=Planet Express Building
+| image = Chris Hardwick Fly Like a Superhero.png
+| name = Fly Like a Superhero
+| quote = Elevating cosplay to a new level...
+| time = 4h 0m 0s
+| currency = 95
+| xp = 60
+| animated = yes
 }}
 {{Action
-| image=ShakesCalculon Stopping the Show.png
-| name=Stopping the Show
-| quote=Admitting the ladies doth perform too much...
-| time=5h 0m 0s
-| currency=110
-| xp=73
-| requirements_level=6
-| requirements_building=Electric Ladyland
+| image = Cavern on the Green.png
+| name = Order the Whole Menu
+| quote = Feeding a fantasy...
+| time = 5h 0m 0s
+| currency = 110
+| xp = 73
+| requirements_level = 6
+| requirements_building = 
 }}
 {{Action
-| image=ShakesCalculon Act Under the Influence.png
-| name=Act Under the Influence
-| quote=Listening for the chimes at midnight...
-| time=6h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=10
-| requirements_building=O'Zorgnax's Pub
+| image = Chris Hardwick Binge on Chips.png
+| name = Binge on Chips
+| quote = Going straight to his chin...
+| time = 6h 0m 0s
+| currency = 125
+| xp = 85
+| requirements_building = 
 }}
 {{Action
-| image=ShakesCalculon Buy Bottled Water.png
-| name=Buy Bottled Water
-| quote=Filling a cauldron with bubbling trouble...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=5
-| requirements_building=7^11
+| image = Chris Hardwick Start a Dog Fight.png
+| name = Start a Dog Fight
+| quote = Engaging in maneuvers...
+| time = 6h 0m 0s
+| currency = 125
+| xp = 85
+| requirements_level = 5
+| requirements_building = 
 }}
 {{Action
-| image=ShakesCalculon Purchase the Best Props.png
-| name=Purchase the Best Props
-| quote=Being a borrower nor a lender...
-| time=10h 0m 0s
-| currency=180
-| xp=119
-| requirements_level=4
-| requirements_building=Rook Takes Pawnshop
+| image = O'Zorgnax's Pub.png
+| name = Host a Trivia Night
+| quote = Asking the hard questions...
+| time = 8h 0m 0s
+| currency = 155
+| xp = 105
+| requirements_building = 
 }}
 {{Action
-| image=ShakesCalculon Shopping for a Buggy.png
-| name=Shopping for a Buggy
-| quote=Trading his kingdom for a horseless carriage...
-| time=12h 0m 0s
-| currency=200
-| xp=130
-| requirements_level=7
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
+| image = Electric Ladyland.png
+| name = Purchase a Jar Dance
+| quote = Lacking a lap...
+| time = 8h 0m 0s
+| currency = 155
+| xp = 105
+| requirements_level = 4
+| requirements_building = Electric Ladyland
 }}
 {{Action
-| image=ShakesCalculon Perform Dinner Theater.png
-| name=Perform Dinner Theater
-| quote=Serving up the world as his oyster..
-| time=18h 0m 0s
-| currency=250
-| xp=164
-| requirements_level=8
-| requirements_building=Cavern on the Green
+| image = Chris Hardwick Start a New Hashtag.png
+| name = Start a New Hashtag
+| quote = Going viral...
+| time = 10h 0m 0s
+| currency = 180
+| xp = 119
+| requirements_level = 7
+| requirements_building = 
 }}
 {{Action
-| image=ShakesCalculon Make a Public Appearance.png
-| name=Make a Public Appearance
-| quote=Proving all the world’s a stage...
-| time=1d 0h 0m 0s
-| currency=300
-| xp=195
-| requirements_level=9
-| requirements_building=City Tower
+| image = Chris Hardwick Control the Microphone.png
+| name = Control the Microphone
+| quote = Making his voice heard...
+| time = 12h 0m 0s
+| currency = 200
+| xp = 130
+| requirements_level = 8
+| requirements_building = 
+}}
+{{Action
+| image = Chris Hardwick Fly Through the Halls.png
+| name = Fly Through the Halls
+| quote = Riding high...
+| time = 16h 0m 0s
+| currency = 230
+| xp = 150
+| requirements_level = 9
+| requirements_building = 
+}}
+{{Action
+| image = Chris Hardwick Nerd Out.png
+| name = Nerd Out
+| quote = Arguing endlessly...
+| time = 1d 0h 0m 0s
+| currency = 300
+| xp = 195
+| requirements_level = 10
+| requirements_building = Planet Express Building
 }}
 |}
 {{Section Top|Actions}}
+{{Outfit Gallery}}
