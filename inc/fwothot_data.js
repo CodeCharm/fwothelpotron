@@ -670,6 +670,21 @@
                 ]
             ],
         '40' : [ "Hedonismbot",                null,                 2, 0, 0, 
+                [
+                    { "n":"Bathe in Malt Liquor",                       "d":"P0T01:00:00",  "c":35,   "x":23,   "l":2,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Discuss Taboo Topics",                       "d":"P0T02:00:00",  "c":65,   "x":40,   "l":4,    "b":"Robot Arms Apts."                            },
+                    { "n":"Satisfy His Appetite",                       "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Appreciate Fine Leather",                    "d":"P0T04:00:00",  "c":95,   "x":60,   "l":5,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Oil Himself",                                "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1     },
+                    { "n":"Call for Adventurous Volunteers",            "d":"P0T08:00:00",  "c":155,  "x":105,  "l":3,    "b":"Planet Express Building"                     },
+                    { "n":"Slather Tomato Sauce on Himself",            "d":"P0T08:00:00",  "c":155,  "x":105,  "l":12,   "b":"Panucci's Pizza"                             },
+                    { "n":"Submit to Arousing Demands",                 "d":"P0T08:00:00",  "c":155,  "x":105,  "l":8,    "b":"NNYPD Precinct"                              },
+                    { "n":"Titillate the Senses",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":6,    "b":"Electric Ladyland"                           },
+                    { "n":"Call for Djambi",                            "d":"P0T12:00:00",  "c":200,  "x":130,  "l":9,    "b":"City Tower"                                  },
+                    { "n":"Embrace Illicit Love",                       "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Engage in Depravity",                        "d":"P0T16:00:00",  "c":230,  "x":150,  "l":10,   "b":"Satellite Building"                          },
+                    { "n":"Encrust Self in Diamonds",                   "d":"P1T00:00:00",  "c":300,  "x":195,  "l":11,   "b":"Diamonds are Forever"                        }
+                ]
             ],
         '41' : [ "Hermes",                     null,                 4, 0, 0, 
             ],

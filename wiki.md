@@ -1,137 +1,133 @@
 ==Actions==
 {{Table Header Action}}
 {{Action
-| event=
-| image=Hattie McDoogal Do Intensive Research.png
-| name=Do Intensive Research
-| quote=Reading about whatchacallit...
+| image=Hedonismbot Bathe in Malt Liquor.png
+| name=Bathe in Malt Liquor
+| quote=Soaking up the bubbly...
 | time=1h 0m 0s
 | currency=35
 | xp=23
-| requirements_level=
-| animated=yes
+| requirements_level=2
+| requirements_building=O'Zorgnax's Pub
 }}
 {{Action
-| event=
-| image=Hattie McDoogal Find a Cat Sitter.png
-| name=Find a Cat Sitter
-| quote=Calling the kajigger service...
+| image=Hedonismbot Discuss Taboo Topics.png
+| name=Discuss Taboo Topics
+| quote=Getting up close and too personal...
 | time=2h 0m 0s
 | currency=65
 | xp=40
-| requirements_level=2
-| requirements_character=Amy
+| requirements_level=4
+| requirements_building=Robot Arms Apts.
+}}
+{{Action
+| image=Hedonismbot Satisfy His Appetite.png
+| name=Satisfy His Appetite
+| quote=Tantalizing the taste buds...
+| time=2h 0m 0s
+| currency=65
+| xp=40
 | animated=yes
 }}
 {{Action
-| event=
-| image=Hattie McDoogal Buy Some Whatchacallit.png
-| name=Buy Some Whatchacallit
-| quote=Making a precise purchase...
-| time=3h 0m 0s
-| currency=80
-| xp=54
-| requirements_level=3
-| requirements_building=7^11
+| image=Hedonismbot Appreciate Fine Leather.png
+| name=Appreciate Fine Leather
+| quote=Cracking the whips...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=5
+| requirements_building=Rook Takes Pawnshop
 }}
 {{Action
-| event=
-| image=Hattie McDoogal Drink a Whatchacallit.png
-| name=Drink a Whatchacallit
-| quote=Chasing it with a kajigger...
+| image=Hedonismbot Oil Himself.png
+| name=Oil Himself
+| quote=Greasing the wheels...
 | time=4h 0m 0s
 | currency=95
 | xp=60
 | requirements_level=
-| requirements_building=O'Zorgnax's Pub
-}}
-{{Action
-| event=
-| image=Hattie McDoogal Trade In a Whatchacallit.png
-| name=Trade In a Whatchacallit
-| quote=Exchanging it for a kajigger...
-| time=5h 0m 0s
-| currency=110
-| xp=73
-| requirements_level=6
-| requirements_building=Rook Takes Pawnshop
-}}
-{{Action
-| event=
-| image=Hattie McDoogal Drive a Kajigger.png
-| name=Drive a Kajigger
-| quote=Motoring a whatchallit... <!-- game uses whatchallit, not whatchacallit -->
-| time=6h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=4
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
-}}
-{{Action
-| event=
-| image=Hattie McDoogal Try On a Diamond Kajigger.png
-| name=Try On a Diamond Kajigger
-| quote=Whatchallits are a girl’s best friend...
-| time=6h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=10
-| requirements_building=Diamonds are Forever
-}}
-{{Action
-| event=
-| image=Hattie McDoogal Play With Her Cats.png
-| name=Play With Her Cats
-| quote=Whatchacallitting the kitties...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=5
 | animated=yes
 }}
 {{Action
-| event=
-| image=Hattie McDoogal Take the Free Kajiggers.png
-| name=Take the Free Kajiggers
-| quote=Leaving the rest...
-| time=10h 0m 0s
-| currency=180
-| xp=119
-| requirements_level=4
-| requirements_building=Modest Business Building
+| image=Hedonismbot Call for Adventurous Volunteers.png
+| name=Call for Adventurous Volunteers
+| quote=Porking some guinea pigs...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=3
+| requirements_building=Planet Express Building
 }}
 {{Action
-| event=
-| image=Hattie McDoogal Watch the Kajigger.png
-| name=Watch the Kajigger
-| quote=Kajiggering at will...
+| image=Hedonismbot Slather Tomato Sauce on Himself.png
+| name=Slather Tomato Sauce on Himself
+| quote=Getting saucy...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=12
+| requirements_building=Panucci's Pizza
+}}
+{{Action
+| image=Hedonismbot Submit to Arousing Demands.png
+| name=Submit to Arousing Demands
+| quote=Giving in to temptation...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=8
+| requirements_building=NNYPD Precinct
+}}
+{{Action
+| image=Hedonismbot Titillate the Senses.png
+| name=Titillate the Senses
+| quote=Eyeing the beholders...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=6
+| requirements_building=Electric Ladyland
+}}
+{{Action
+| image=Hedonismbot Call for Djambi.png
+| name=Call for Djambi
+| quote=Calling the bullpen...
+| time=12h 0m 0s
+| currency=200
+| xp=130
+| requirements_level=9
+| requirements_building=City Tower
+}}
+{{Action
+| image=Hedonismbot Embrace Illicit Love.png
+| name=Embrace Illicit Love
+| quote=Violating protocols...
 | time=12h 0m 0s
 | currency=200
 | xp=130
 | requirements_level=7
-| requirements_building=New New York Plaza
+| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
 }}
 {{Action
-| event=
-| image=Hattie McDoogal Refuse to Shake Her Kajigger.png
-| name=Refuse to Shake Her Kajigger
-| quote=Taking a whatchallit... offense... <!-- game uses whachallit. Also, double use of elipses -->
-| time=18h 0m 0s
-| currency=250
-| xp=164
-| requirements_level=8
-| requirements_building=Electric Ladyland
+| image=Hedonismbot Engage in Depravity.png
+| name=Engage in Depravity
+| quote=Indulging in vices...
+| time=16h 0m 0s
+| currency=230
+| xp=150
+| requirements_level=10
+| requirements_building=Satellite Building
 }}
 {{Action
-| event=
-| image=Hattie McDoogal Register as a Whatchacallit.png
-| name=Register as a Whatchacallit
-| quote=Filling out the whatchacallit...paperwork... <!-- in-game text has no space between the first elipses and paperwork -->
+| image=Hedonismbot Encrust Self in Diamonds.png
+| name=Encrust Self in Diamonds
+| quote=Bedazzling himself...
 | time=1d 0h 0m 0s
 | currency=300
 | xp=195
-| requirements_level=9
-| requirements_building=Central Bureaucracy
+| requirements_level=11
+| requirements_building=Diamonds are Forever
 }}
 |}
 {{Section Top|Actions}}
