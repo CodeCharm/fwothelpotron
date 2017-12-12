@@ -435,6 +435,17 @@
                 ]
             ],
         '28' : [ "Dr. Cahill",                 null,                 1, 0, 1, 
+                [
+                    { "n":"Perform Self Check-Up",                      "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Act Clumsy",                                 "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Promote a Healthy Diet",                     "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1,    "b":"7^11"                                        },
+                    { "n":"Test Samples",                               "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1,    "b":"Science Lab"                                 },
+                    { "n":"Discourage Binge Drinking",                  "d":"P0T04:00:00",  "c":95,   "x":60,   "l":3,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Read Patient Files",                         "d":"P0T05:00:00",  "c":110,  "x":73,   "l":5,    "b":"Planet Express Building"                     },
+                    { "n":"Give a Diagnosis",                           "d":"P0T06:00:00",  "c":125,  "x":85,   "l":7,    "b":"City Tower"                                  },
+                    { "n":"Check for a Pulse",                          "d":"P0T07:00:00",  "c":140,  "x":93,   "l":9,    "b":"Avenue Hotel"                                },
+                    { "n":"Sanitize",                                   "d":"P0T08:00:00",  "c":155,  "x":105,  "l":11,   "b":"Modest Business Building"                    }
+                ]
             ],
         '29' : [ "Mutant Dwayne",              null,                 4, 0, 1, 
             ],

@@ -67,6 +67,7 @@ $text = $text -replace '\r\n(["}])', '$1'
 $text = $text -replace '},\s*\r\n', "},`r`n"
 $text = $text -replace '},\s*\r\n\]', "}`r`n]"
 $text = $text -replace '([\]\[])\s*', "`$1`r`n"
+$text = $text -replace '{ "n":', '    $0'
 
 # look for missing levels
 $text = $text -replace '("x":\d+)(\s+)}', '$1,   "l":1$2}'
