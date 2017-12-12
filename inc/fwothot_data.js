@@ -397,6 +397,23 @@
                 ]
             ],
         '26' : [ "Crushinator",                null,                 4, 0, 1, 
+                [
+                    { "n":"Ride Low",                                   "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Look for Love",                              "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Eat Her Feelings",                           "d":"P0T02:00:00",  "c":65,   "x":40,   "l":5,    "b":"7^11"                                        },
+                    { "n":"Play the Game of Seduction",                 "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "h":"Bender"                                      },
+                    { "n":"Look for Large Bumpers",                     "d":"P0T03:00:00",  "c":80,   "x":54,   "l":4,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Crush Rocks",                                "d":"P0T04:00:00",  "c":95,   "x":60,   "l":3     },
+                    { "n":"Crush Her Enemies",                          "d":"P0T05:00:00",  "c":110,  "x":73,   "l":3     },
+                    { "n":"Flirt with Other Robots",                    "d":"P0T06:00:00",  "c":125,  "x":85,   "l":8     },
+                    { "n":"Take Up Space",                              "d":"P0T06:00:00",  "c":125,  "x":85,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Shake Her Wide Load",                        "d":"P0T08:00:00",  "c":155,  "x":105,  "l":2     },
+                    { "n":"Visit the Penthouse",                        "d":"P0T10:00:00",  "c":180,  "x":119,  "l":4,    "b":"Skyscraper Center"                           },
+                    { "n":"Get Appraised",                              "d":"P0T10:00:00",  "c":180,  "x":119,  "l":6,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Compress a Diamond",                         "d":"P0T12:00:00",  "c":200,  "x":130,  "l":5,    "b":"Diamonds are Forever"                        },
+                    { "n":"Crack Some Lobster Shells",                  "d":"P0T16:00:00",  "c":230,  "x":150,  "l":7,    "b":"Cavern on the Green"                         },
+                    { "n":"Report Her Broken Heart",                    "d":"P1T00:00:00",  "c":300,  "x":195,  "l":9,    "b":"NNYPD Precinct"                              }
+                ]
             ],
         '27' : [ "Destructor",                 null,                 0, 0, 1, 
             ],
