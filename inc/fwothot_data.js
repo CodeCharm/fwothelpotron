@@ -36,25 +36,34 @@
             ],
          '3' : [ "Amy",                        "Amazonian",          0, 0, 1, 
                 [
-                    { "n":"Make Out",                                   "d":"P0T01:00:00",  "c":95,   "x":60,   "l":"1",  "h":"Kif",                                        "b":""                                            },
-                    { "n":"Perform for Office Party",                   "d":"P0T02:00:00",  "c":65,   "x":40,   "l":"4",  "h":"",                                           "b":""                                            },
-                    { "n":"Eat Meat",                                   "d":"P0T03:00:00",  "c":80,   "x":54,   "l":"1",  "h":"",                                           "b":""                                            },
-                    { "n":"Do the Stilt Walker",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":"7",  "h":"",                                           "b":""                                            },
-                    { "n":"Eat Primitive Snacks",                       "d":"P0T05:00:00",  "c":110,  "x":73,   "l":"2",  "h":"",                                           "b":""                                            },
-                    { "n":"Stay Up to the Task",                        "d":"P0T06:00:00",  "c":125,  "x":85,   "l":"10", "h":"",                                           "b":""                                            },
-                    { "n":"Shop for Taller Stilts",                     "d":"P0T07:00:00",  "c":140,  "x":93,   "l":"5",  "h":"",                                           "b":""                                            },
-                    { "n":"Lose Her Balance",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":"3",  "h":"",                                           "b":""                                            },
-                    { "n":"Pig Out",                                    "d":"P0T09:00:00",  "c":170,  "x":112,  "l":"12", "h":"",                                           "b":""                                            },
-                    { "n":"Go Clubbing",                                "d":"P0T10:00:00",  "c":180,  "x":119,  "l":"9",  "h":"",                                           "b":""                                            },
-                    { "n":"Enjoy the View",                             "d":"P0T12:00:00",  "c":200,  "x":130,  "l":"8",  "h":"",                                           "b":""                                            },
-                    { "n":"Refused Service",                            "d":"P0T16:00:00",  "c":230,  "x":150,  "l":"7",  "h":"",                                           "b":""                                            },
-                    { "n":"Watch Her Step",                             "d":"P0T18:00:00",  "c":250,  "x":164,  "l":"6",  "h":"",                                           "b":""                                            },
-                    { "n":"Remove Her Make Up",                         "d":"P1T00:00:00",  "c":300,  "x":195,  "l":"11", "h":"",                                           "b":""                                            }
+                    { "n":"Make Out",                                   "d":"P0T01:00:00",  "c":95,   "x":60,   "l":1,    "h":"Kif",                                        "b":""                                            },
+                    { "n":"Perform for Office Party",                   "d":"P0T02:00:00",  "c":65,   "x":40,   "l":4,    "h":"",                                           "b":""                                            },
+                    { "n":"Eat Meat",                                   "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1,    "h":"",                                           "b":""                                            },
+                    { "n":"Do the Stilt Walker",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":7,    "h":"",                                           "b":""                                            },
+                    { "n":"Eat Primitive Snacks",                       "d":"P0T05:00:00",  "c":110,  "x":73,   "l":2,    "h":"",                                           "b":""                                            },
+                    { "n":"Stay Up to the Task",                        "d":"P0T06:00:00",  "c":125,  "x":85,   "l":10,   "h":"",                                           "b":""                                            },
+                    { "n":"Shop for Taller Stilts",                     "d":"P0T07:00:00",  "c":140,  "x":93,   "l":5,    "h":"",                                           "b":""                                            },
+                    { "n":"Lose Her Balance",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":3,    "h":"",                                           "b":""                                            },
+                    { "n":"Pig Out",                                    "d":"P0T09:00:00",  "c":170,  "x":112,  "l":12,   "h":"",                                           "b":""                                            },
+                    { "n":"Go Clubbing",                                "d":"P0T10:00:00",  "c":180,  "x":119,  "l":9,    "h":"",                                           "b":""                                            },
+                    { "n":"Enjoy the View",                             "d":"P0T12:00:00",  "c":200,  "x":130,  "l":8,    "h":"",                                           "b":""                                            },
+                    { "n":"Refused Service",                            "d":"P0T16:00:00",  "c":230,  "x":150,  "l":7,    "h":"",                                           "b":""                                            },
+                    { "n":"Watch Her Step",                             "d":"P0T18:00:00",  "c":250,  "x":164,  "l":6,    "h":"",                                           "b":""                                            },
+                    { "n":"Remove Her Make Up",                         "d":"P1T00:00:00",  "c":300,  "x":195,  "l":11,   "h":"",                                           "b":""                                            }
                 ]
             ],
-         '4' : [ "Ben Franklin",               null,                 1, 0, 0, [
-
-             ] ],
+         '4': ["Ben Franklin", null, 1, 0, 0,
+                [
+                    { "n":"Fly a Kite",                                 "d":"P0T02:00:00",  "c":64,   "x":40,   "l":1     },
+                    { "n":"Admire the Ladybots",                        "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Defend Himself",                             "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1     },
+                    { "n":"Make New Discoveries",                       "d":"P0T05:00:00",  "c":110,  "x":75,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Shop for Turkeys",                           "d":"P0T06:00:00",  "c":125,  "x":85,   "l":1,    "b":"7^11"                                        },
+                    { "n":"Marvel at Technology",                       "d":"P0T07:00:00",  "c":140,  "x":93,   "l":1,    "b":"Robot Arms Apts."                            },
+                    { "n":"Drink Like an Elder Statesman",              "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Sign Important Documents",                   "d":"P0T10:00:00",  "c":180,  "x":119,  "l":1,    "b":"NNYPD Precint"                               }
+                ]
+            ],
          '5' : [ "Bender",                     null,                 2, 0, 0, [
 
              ] ],
