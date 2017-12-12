@@ -193,7 +193,6 @@ function drawCharTable() {
                         var tot_s = d * 86400 + h * 3600 + m * 60 + s;
                         var yld_hr = value.c / (tot_s / 3600); 
                         if (value.h) { yld_hr = yld_hr / 2; }
-                        maxYield = Math.max(maxYield, yld_hr);
                         value.yield = yld_hr;
                         value.duration = dur_abbr;
                         value.dur_0h = tot_s < 3600;
@@ -202,18 +201,22 @@ function drawCharTable() {
                         value.dur_4h = tot_s >= 14400 && tot_s <= 28800;
                         value.dur_8h = tot_s >= 28800;
                         value.overLevel = value.l > chr_lvl;
+                        if (!value.overLevel) {maxYield = Math.max(maxYield, yld_hr);}
                     });
                     $.each(chr_act, function (index, value) {
-                        var maxYieldClass = (value.yield >= (maxYield * 0.9)) ? ' maxYield' : '';
-                        maxYieldClass += value.dur_0h ? ' dur_0h' : '';
-                        maxYieldClass += value.dur_1h ? ' dur_1h' : '';
-                        maxYieldClass += value.dur_2h ? ' dur_2h' : '';
-                        maxYieldClass += value.dur_4h ? ' dur_4h' : '';
-                        maxYieldClass += value.dur_8h ? ' dur_8h' : '';
-                        maxYieldClass += value.overLevel ? ' overLevel' : '';
-                        chr_txt += '<div class="tbl_r1' + maxYieldClass + '"><div class="tbl_c">' + value.n + '</div><div class="tbl_c">' + value.duration + '</div><div class="tbl_c">&curren; ' + value.c + '</div><div class="tbl_c">' + value.yield.toFixed(2) + '</div><div class="tbl_c">Lvl: ' + value.l + '</div></div>';
+                        var highlightClass = '';
+                        if (!value.overLevel) {
+                            highlightClass += (value.yield >= (maxYield * 0.9)) ? ' maxYield' : '';
+                        }
+                        highlightClass += value.dur_0h ? ' dur_0h' : '';
+                        highlightClass += value.dur_1h ? ' dur_1h' : '';
+                        highlightClass += value.dur_2h ? ' dur_2h' : '';
+                        highlightClass += value.dur_4h ? ' dur_4h' : '';
+                        highlightClass += value.dur_8h ? ' dur_8h' : '';
+                        highlightClass += value.overLevel ? ' overLevel' : '';
+                        chr_txt += '<div class="tbl_r1' + highlightClass + '"><div class="tbl_c">' + value.n + '</div><div class="tbl_c">' + value.duration + '</div><div class="tbl_c">&curren; ' + value.c + '</div><div class="tbl_c">' + value.yield.toFixed(2) + '</div><div class="tbl_c">L ' + value.l + '</div></div>';
                         if (!value.overLevel && (value.b || value.h)) {
-                            chr_txt += '<div class="tbl_r2' + maxYieldClass + '"><div class="tbl_c">' + (value.b ? ('Required building: ' + value.b) : ('Required character: ' + value.h)) + '</div></div>';
+                            chr_txt += '<div class="tbl_r2' + highlightClass + '"><div class="tbl_c">' + (value.b ? ('Required building: ' + value.b) : ('Required character: ' + value.h)) + '</div></div>';
                         }
                     });
                     chr_txt += '</div>';
