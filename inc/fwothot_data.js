@@ -289,6 +289,23 @@
                 ]
             ],
         '18' : [ "The Borax Kid",              null,                 0, 0, 1, 
+                [
+                    { "n":"Reload His Six-Shooter",                     "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Fan Himself",                                "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Make Detergent",                             "d":"P0T03:00:00",  "c":80,   "x":54,   "l":4     },
+                    { "n":"Pawn Items for Cash",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":4,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Buy Some Moonshine",                         "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"7^11"                                        },
+                    { "n":"Admiring the Ladybots",                      "d":"P0T06:00:00",  "c":125,  "x":85,   "l":5,    "b":"Electric Ladyland"                           },
+                    { "n":"Compliment the Robot Domiciles",             "d":"P0T06:00:00",  "c":125,  "x":85,   "l":2,    "b":"Robot Arms Apts."                            },
+                    { "n":"Shed Some Flakes",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":3,    "b":"Modest Business Building"                    },
+                    { "n":"Show Some Hospitality",                      "d":"P0T08:00:00",  "c":155,  "x":105,  "l":2     },
+                    { "n":"Ask About the Horsepower",                   "d":"P0T10:00:00",  "c":180,  "x":119,  "l":6,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Settle a Wager",                             "d":"P0T10:00:00",  "c":180,  "x":119,  "l":8,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Eat Fancy City Food",                        "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "b":"Cavern on the Green"                         },
+                    { "n":"Ask for the Sheriff",                        "d":"P0T14:00:00",  "c":215,  "x":143,  "l":8,    "b":"NNYPD Precinct"                              },
+                    { "n":"Make a Deal",                                "d":"P0T16:00:00",  "c":230,  "x":150,  "l":9,    "b":"City Tower"                                  },
+                    { "n":"Get Some Shut Eye",                          "d":"P1T00:00:00",  "c":300,  "x":195,  "l":10,   "b":"Avenue Hotel"                                }
+                ]
             ],
         '19' : [ "Boxy",                       null,                 3, 0, 1, 
             ],

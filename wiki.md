@@ -1,202 +1,152 @@
 ==Actions==
-<!--[[/Event Actions | Event Actions]]-->
 {{Table Header Action}}
 {{Action
-| event=
-| image=Blatherbot Speak With Amy.png
-| name=Speak With Amy
-| quote=Looking for the off switch...
+| image= Borax Kid Reload His Six-Shooter.png
+| name=Reload His Six-Shooter
+| quote=Popping and locking...
 | time=1h 0m 0s
-| currency=80
-| xp=54
-| requirements_level=3
-| requirements_character=Amy
-| requirements_building=
-| animated=yes
+| currency=35
+| xp=23
+| requirements_building=Planet Express Building
 }}
 {{Action
-| event=
-| image=Blatherbot Polish Mustache.png
-| name=Polish Mustache
-| quote=Buffing the bro-mo...
+| image= Borax Kid Fan Himself.png
+| name=Fan Himself
+| quote=Beating the heat...
 | time=2h 0m 0s
 | currency=65
 | xp=40
-| requirements_level=2
-| requirements_character=
-| requirements_building=
 | animated=yes
 }}
 {{Action
-| event=
-| image=Robot Arms Apts.png
-| name=Pontificate Over Pointless Subjects 
-| quote=Yammering home a point...
+| image= Borax Kid Make Detergent.png
+| name=Make Detergent
+| quote=Keeping it clean...
 | time=3h 0m 0s
 | currency=80
 | xp=54
-| requirements_level=3
-| requirements_character=
-| requirements_building=Robot Arms Apts.
-| animated=
-}}
-{{Action
-| event=
-| image=Planet Express Building.png
-| name=Torture the Crew
-| quote=Boring into their brains...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=1
-| requirements_character=
-| requirements_building=Planet Express Building
-| animated=
-}}
-{{Action
-| event=
-| image=Blatherbot Drink Tea.png
-| name=Drink Tea
-| quote=Sipping the light fantastic...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=1
-| requirements_character=
-| requirements_building=
+| requirements_level=4
 | animated=yes
 }}
 {{Action
-| event=
-| image=Malfunctioning Eddie's Rocket Car Emporium.png
-| name=Waste the Dealer's Time
-| quote=Driving the long-winded road...
-| time=5h 0m 0s
-| currency=110
-| xp=73
-| requirements_level=6
-| requirements_character=
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium 
-| animated=
+| image= Rook Takes Pawnshop.png
+| name=Pawn Items for Cash
+| quote=Pulling up a stake...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=4
+| requirements_building=Rook Takes Pawnshop
 }}
 {{Action
-| event=
-| image=O'Zorgnax's Pub.png
-| name=Blather Over Drinks
-| quote=Dribbling the drivel...
+| image= Borax Kid Buy Some Moonshine.png
+| name=Buy Some Moonshine
+| quote=Drinking at dawn...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_building=7^11
+}}
+{{Action
+| image= Borax Kid Admiring the Ladybots.png
+| name=Admiring the Ladybots
+| quote=Hootin' and hollerin'...
 | time=6h 0m 0s
 | currency=125
 | xp=85
-| requirements_level=10
-| requirements_character=
-| requirements_building=O'Zorgnax's Pub
-| animated=
+| requirements_level=5
+| requirements_building=Electric Ladyland
 }}
 {{Action
-| event=
-| image=7^11.png
-| name=Discuss the Snack Options
-| quote=Prattling on the chips...
+| image= Borax Kid Compliment the Robot Domiciles.png
+| name=Compliment the Robot Domiciles
+| quote=Appreciating the decor...
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=2
+| requirements_building=Robot Arms Apts.
+}}
+{{Action
+| image= Borax Kid Shed Some Flakes.png
+| name=Shed Some Flakes
+| quote=Working up a lather...
 | time=8h 0m 0s
 | currency=155
 | xp=105
-| requirements_level=5
-| requirements_character=
-| requirements_building=7^11
-| animated=
+| requirements_level=3
+| requirements_building=Modest Business Building
 }}
 {{Action
-| event=
-| image=Electric Ladyland.png
-| name=Chat up a Stripperbot
-| quote=Talking her ears off...
+| image= Borax Kid Show Some Hospitality.png
+| name=Show Some Hospitality
+| quote=Acting gentlemanly...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=2
+| animated=yes
+}}
+{{Action
+| image= Malfunctioning Eddie's Rocket Car Emporium.png
+| name=Ask About the Horsepower
+| quote=Betting on the ponies...
 | time=10h 0m 0s
 | currency=180
 | xp=119
-| requirements_level=4
-| requirements_character=
-| requirements_building=Electric Ladyland
-| animated=
+| requirements_level=6
+| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
 }}
 {{Action
-| event=
-| image=Cavern on the Green.png
-| name=Take Forever to Order
-| quote=Making a meal of it...
+| image= Borax Kid Settle a Wager.png
+| name=Settle a Wager
+| quote=Bellying up to the bar...
+| time=10h 0m 0s
+| currency=180
+| xp=119
+| requirements_level=8
+| requirements_building=O'Zorgnax's Pub
+}}
+{{Action
+| image= Cavern on the Green.png
+| name=Eat Fancy City Food
+| quote=Jawing on some hambone...
 | time=12h 0m 0s
 | currency=200
 | xp=130
 | requirements_level=7
-| requirements_character=
 | requirements_building=Cavern on the Green
-| animated=
 }}
 {{Action
-| event=
-| image=Modest Business Building.png
-| name=Discuss Business Matters
-| quote=Babbling for dollars...
+| image= Borax Kid Ask for the Sheriff.png
+| name=Ask for the Sheriff
+| quote=Abiding his time...
+| time=14h 0m 0s
+| currency=215
+| xp=143
+| requirements_level=8
+| requirements_building=NNYPD Precinct
+}}
+{{Action
+| image= Borax Kid Make a Deal.png
+| name=Make a Deal
+| quote=Proposin' favorable terms...
 | time=16h 0m 0s
 | currency=230
 | xp=150
-| requirements_level=15
-| requirements_character=
-| requirements_building=Modest Business Building
-| animated=
+| requirements_level=9
+| requirements_building=City Tower
 }}
 {{Action
-| event=
-| image=NNYPD Precinct.png
-| name=Make His Case
-| quote=Holding court...
-| time=18h 0m 0s
-| currency=250
-| xp=164
-| requirements_level=8
-| requirements_character=
-| requirements_building=NNYPD Precinct
-| animated=
-}}
-{{Action
-| event=
-| image=New New York Plaza.png
-| name=Give a Boring Speech
-| quote=Lulling them into complacency...
-| time=20h 0m 0s
-| currency=265
-| xp=176
-| requirements_level=20
-| requirements_character=
-| requirements_building=New New York Plaza
-| animated=
-}}
-{{Action
-| event=
-| image=Hacking Jack's Fine Smokables.png
-| name=Enjoy a Fine Smoke
-| quote=Puffing out his chest...
-| time=22h 0m 0s
-| currency=285
-| xp=187
-| requirements_level=25
-| requirements_character=
-| requirements_building=Hacking Jack's Fine Smokables
-| animated=
-}}
-{{Action
-| event=
-| image=Avenue Hotel.png
-| name=Bother the Hotel Staff
-| quote=Checking out...
+| image= Borax Kid Get Some Shut Eye.png
+| name=Get Some Shut Eye
+| quote=Restin' his weary boron....
 | time=1d 0h 0m 0s
 | currency=300
 | xp=195
-| requirements_level=9
-| requirements_character=
+| requirements_level=10
 | requirements_building=Avenue Hotel
-| animated=
 }}
 |}
 {{Section Top|Actions}}
-
 {{Outfit Gallery}}
