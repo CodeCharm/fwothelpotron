@@ -467,6 +467,23 @@
                 ]
             ],
         '30' : [ "Fender",                     null,                 2, 0, 0, 
+                [
+                    { "n":"Entertain at the Bar",                       "d":"P0T01:00:00",  "c":35,   "x":23,   "l":5,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Light It Up",                                "d":"P0T02:00:00",  "c":65,   "x":40,   "l":3     },
+                    { "n":"Replace a Speaker",                          "d":"P0T03:00:00",  "c":80,   "x":54,   "l":8,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Rock On",                                    "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1     },
+                    { "n":"Play a Song",                                "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"City Tower"                                  },
+                    { "n":"Repeat His Question",                        "d":"P0T06:00:00",  "c":125,  "x":85,   "l":4,    "b":"7^11"                                        },
+                    { "n":"Provide Free Music",                         "d":"P0T07:00:00",  "c":140,  "x":93,   "l":9,    "b":"Electric Ladyland"                           },
+                    { "n":"Slap the Bass",                              "d":"P0T08:00:00",  "c":155,  "x":105,  "l":2     },
+                    { "n":"Disturb the Neighbors",                      "d":"P0T09:00:00",  "c":170,  "x":112,  "l":20,   "b":"Modest Business Building"                    },
+                    { "n":"Increase the Volume",                        "d":"P0T10:00:00",  "c":180,  "x":119,  "l":6,    "b":"Planet Express Building"                     },
+                    { "n":"Wake Up the Tenants",                        "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "b":"Robot Arms Apts."                            },
+                    { "n":"Mingle with VIPs",                           "d":"P0T16:00:00",  "c":230,  "x":150,  "l":18,   "b":"Avenue Hotel"                                },
+                    { "n":"Startle the Officers",                       "d":"P0T18:00:00",  "c":250,  "x":164,  "l":14,   "b":"NNYPD Precinct"                              },
+                    { "n":"Chew Loudly",                                "d":"P0T20:00:00",  "c":265,  "x":176,  "l":12,   "b":"Cavern on the Green"                         },
+                    { "n":"Ask About the Subwoofers",                   "d":"P1T00:00:00",  "c":300,  "x":195,  "l":10,   "b":"Malfunctioning Eddie's Rocket Car Emporium"  }
+                ]
             ],
         '31' : [ "Flexo",                      null,                 2, 0, 1, 
             ],
