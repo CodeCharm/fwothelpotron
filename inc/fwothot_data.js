@@ -251,6 +251,23 @@
                 ]
             ],
         '16' : [ "Billionairebot",             null,                 2, 0, 0, 
+                [
+                    { "n":"Drink His Money",                            "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1,    "h":"",                                           "b":""                                            },
+                    { "n":"Fold Paper Planes",                          "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2,    "h":"",                                           "b":""                                            },
+                    { "n":"Collect Payments",                           "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3,    "h":"",                                           "b":"Robot Arms Apts."                            },
+                    { "n":"Cheat the Crew",                             "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "h":"",                                           "b":"Planet Express Building"                     },
+                    { "n":"Shine His Ring",                             "d":"P0T04:00:00",  "c":95,   "x":60,   "l":3,    "h":"",                                           "b":""                                            },
+                    { "n":"Overtip",                                    "d":"P0T05:00:00",  "c":110,  "x":73,   "l":6,    "h":"",                                           "b":"Electric Ladyland"                           },
+                    { "n":"Flash His Obscene Paycheck",                 "d":"P0T06:00:00",  "c":125,  "x":85,   "l":1,    "h":"",                                           "b":"Diamonds are Forever"                        },
+                    { "n":"Toast Wealth",                               "d":"P0T06:00:00",  "c":125,  "x":85,   "l":10,   "h":"",                                           "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Cringe at the Offerings",                    "d":"P0T08:00:00",  "c":155,  "x":105,  "l":5,    "h":"",                                           "b":"7^11"                                        },
+                    { "n":"Buy One of Everything",                      "d":"P0T10:00:00",  "c":180,  "x":119,  "l":4,    "h":"",                                           "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Purchase a Luxury Vehicle",                  "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "h":"",                                           "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Fund Shady Politicians",                     "d":"P0T16:00:00",  "c":230,  "x":150,  "l":15,   "h":"",                                           "b":"City Tower"                                  },
+                    { "n":"Order the Most Expensive Item",              "d":"P0T18:00:00",  "c":250,  "x":164,  "l":8,    "h":"",                                           "b":"Cavern on the Green"                         },
+                    { "n":"Invest His Money",                           "d":"P0T00:00:00",  "c":0,    "x":0,    "l":20,   "h":"",                                           "b":"Modest Business Building"                    },
+                    { "n":"Pay Off Dirty Cops",                         "d":"P1T00:00:00",  "c":300,  "x":195,  "l":9,    "h":"",                                           "b":"NNYPD Precinct"                              }
+                ]
             ],
         '17' : [ "Blatherbot",                 null,                 2, 0, 0, 
             ],
