@@ -5,6 +5,7 @@ $text = $text -ireplace '^\| image *= *.*$', ''
 $text = $text -ireplace '^\| event *= *.*$', ''
 $text = $text -ireplace '^\| quote *= *.*$', ''
 $text = $text -ireplace '^\| animated *= *.*$', ''
+$text = $text -ireplace '^\| character *= *.*$', ''
 
 $text = $text -ireplace '^\| name *= *(.*)$', '"n":"$1",'
 

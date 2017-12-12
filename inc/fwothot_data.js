@@ -215,7 +215,7 @@
                 [
                     { "n":"Defend Flexo",                               "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1,    "b":"Planet Express Building"                     },
                     { "n":"Look for a Stronger Elbow",                  "d":"P0T01:00:00",  "c":35,   "x":23,   "l":3,    "b":""                                            },
-                    { "n":"Do Arm Gymnastics",                          "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    },
+                    { "n":"Do Arm Gymnastics",                          "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
                     { "n":"Illicit Stares",                             "d":"P0T02:00:00",  "c":65,   "x":40,   "l":4,    "b":""                                            },
                     { "n":"Be Concerned",                               "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1,    "b":"Electric Ladyland"                           },
                     { "n":"Bond With Other Machines",                   "d":"P0T04:00:00",  "c":95,   "x":60,   "l":5,    "b":""                                            },
@@ -233,6 +233,22 @@
         '14' : [ "Bev",                        null,                 3, 0, 0, 
             ],
         '15' : [ "Bill Nye",                   null,                 1, 0, 1, 
+                [
+                    { "n":"Knot His Bowtie",                            "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1},
+                    { "n":"Make Some Quick Observations",               "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1},
+                    { "n":"Research Snacks",                            "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2,    "b":"7^11"                                        },
+                    { "n":"Compare Performance Stats",                  "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Give a Speech About Science",                "d":"P0T03:00:00",  "c":80,   "x":54,   "l":5,    "b":"Avenue Hotel"                                },
+                    { "n":"Ask About Science Equipment",                "d":"P0T04:00:00",  "c":95,   "x":60,   "l":8,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Ride Circles Around Farnsworth",             "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "h":"The Professor"                               },
+                    { "n":"Assist the Forensics Department",            "d":"P0T05:00:00",  "c":110,  "x":73,   "l":6,    "b":"NNYPD Precinct"                              },
+                    { "n":"Drink With Peers",                           "d":"P0T05:00:00",  "c":110,  "x":73,   "l":4,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Cohabitate With Robots",                     "d":"P0T06:00:00",  "c":125,  "x":85,   "l":7,    "b":"Robot Arms Apts."                            },
+                    { "n":"Do a Live Experiment",                       "d":"P0T07:00:00",  "c":140,  "x":93,   "l":9,    "b":"City Tower"                                  },
+                    { "n":"Marvel at the Natural Ingredients",          "d":"P0T08:00:00",  "c":155,  "x":105,  "l":10,   "b":"Cavern on the Green"                         },
+                    { "n":"Fight Against Climate Change",               "d":"P0T10:00:00",  "c":180,  "x":119,  "l":11,   "b":"Modest Business Building"                    },
+                    { "n":"Replay His TV Show",                         "d":"P0T12:00:00",  "c":200,  "x":130,  "l":12,   "b":"Satellite Building"                          }
+                ]
             ],
         '16' : [ "Billionairebot",             null,                 2, 0, 0, 
             ],
