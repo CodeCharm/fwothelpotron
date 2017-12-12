@@ -173,6 +173,23 @@
                 ]
             ],
         '11' : [ "Bender",                     "Pharaoh",            0, 0, 1, 
+                [
+                    { "n":"Buy Pyramid Lotto Scratchers",               "d":"P0T01:00:00",  "c":35,   "x":23,   "l":2,    "h":"",                                           "b":"7^11"                                        },
+                    { "n":"Communicate with Ancient Aliens",            "d":"P0T02:00:00",  "c":65,   "x":40,   "l":12,   "h":"",                                           "b":"Satellite Building"                          },
+                    { "n":"Drink Mead",                                 "d":"P0T02:00:00",  "c":65,   "x":40,   "l":4,    "h":"",                                           "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Walk Like an Egyptian",                      "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "h":"",                                           "b":""                                            },
+                    { "n":"Repair His Chariot",                         "d":"P0T04:00:00",  "c":95,   "x":60,   "l":10,   "h":"",                                           "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Look Down Upon Peons",                       "d":"P0T04:00:00",  "c":95,   "x":60,   "l":13,   "h":"",                                           "b":"New New York Plaza"                          },
+                    { "n":"Recover the Book of the Dead",               "d":"P0T04:00:00",  "c":95,   "x":60,   "l":7,    "h":"",                                           "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Make the Professor Eat Mummy Jerky",         "d":"P0T04:00:00",  "c":95,   "x":60,   "l":5,    "h":"",                                           "b":"Planet Express Building"                     },
+                    { "n":"Take a Chariot Ride",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":3,    "h":"Fry",                                        "b":""                                            },
+                    { "n":"Apply Guyliner",                             "d":"P0T08:00:00",  "c":155,  "x":105,  "l":15,   "h":"",                                           "b":"Avenue Hotel"                                },
+                    { "n":"Defy the Laws of Man",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":16,   "h":"",                                           "b":"NNYPD Precinct"                              },
+                    { "n":"Dine with Hathor",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":9,    "h":"",                                           "b":"Cavern on the Green"                         },
+                    { "n":"Make a Robot Sacrifice",                     "d":"P0T08:00:00",  "c":155,  "x":105,  "l":8,    "h":"",                                           "b":"Robot Arms Apts."                            },
+                    { "n":"Marvel at Modern Pyramids",                  "d":"P0T08:00:00",  "c":155,  "x":105,  "l":14,   "h":"",                                           "b":"Skyscraper Center"                           },
+                    { "n":"Recruit Concubines",                         "d":"P0T08:00:00",  "c":155,  "x":105,  "l":6,    "h":"",                                           "b":"Electric Ladyland"                           }
+                ]
             ],
         '12' : [ "Bender",                     "Ramblin' Rodriguez", 3, 0, 0, 
             ],
