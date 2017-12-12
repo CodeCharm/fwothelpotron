@@ -4,26 +4,33 @@
 
     game_data['chr_all'] = {
          '1' : [ "Amy",                        null,                 1, 0, 0, [
-                    {"n": "Partyboard",                 "d": "PT00:15:00",  "c": 9,     "x": 5,     "l": 1},
-                    {"n": "Spray-On Outfits",           "d": "PT00:15:00",  "c": 9,     "x": 5,     "l": 1},
-                    {"n": "Charge Her Cellphone",       "d": "PT01:00:00",  "c": 35,    "x": 23,    "l": 2,     "b": "Planet Express Building"},
-                    {"n": "Embrace Her Robosexuality",  "d": "PT01:00:00",  "c": 35,    "x": 23,    "l": 1,     "b": "Robot Arms Apts."},
-                    {"n": "Keep on Slippin'",           "d": "PT01:00:00",  "c": 35,    "x": 23,    "l": 3},
-                    {"n": "Read Mini-Golf Digest",      "d": "PT01:00:00",  "c": 35,    "x": 23,    "l": 4,     "b": "7^11"},
-                    {"n": "Paint Her Nails",            "d": "PT02:00:00",  "c": 65,    "x": 40,    "l": 5,     "b": "O'Zorgnax's Pub"},
-                    {"n": "Find a Cat Sitter",          "d": "PT02:00:00",  "c": 65,    "x": 40,    "l": 1,     "h": "Hattie"},
-                    {"n": "Pickpocket Amy",             "d": "PT02:00:00",  "c": 135,   "x": 85,    "l": 1,     "h": "Burglar Bender"},
-                    {"n": "Trim the Leg Hair",          "d": "PT02:00:00",  "c": 135,   "x": 85,    "l": 1,     "h": "Leg Mutant"},
-                    {"n": "Hang Out with Bad Boys",     "d": "PT04:00:00",  "c": 95,    "x": 60,    "l": 6,     "b": "O'Zorgnax's Pub"},
-                    {"n": "Overpay for a Car",          "d": "PT04:00:00",  "c": 95,    "x": 60,    "l": 1,     "b": "Malfunctioning Eddie's Rocket Car Emporium"},
-                    {"n": "Have Amy and Kif Smooch",    "d": "PT06:00:00",  "c": 265,   "x": 180,   "l": 1,     "h": "Kif"},
-                    {"n": "Attend Social Event ",       "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 3,     "b": "The Hip Joint"},
-                    {"n": "Curse in Cantonese",         "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 5,     "b": "Avenue Hotel"},
-                    {"n": "Drink Girly Cocktail",       "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 5,     "b": "O'Zorgnax's Pub"},
-                    {"n": "Get Ripped Off",             "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 1,     "b": "Rook Takes Pawnshop"} 
+                    { "n": "Partyboard",                    "d": "PT00:15:00",  "c": 9,     "x": 5,     "l": 1},
+                    { "n": "Spray-On Outfits",              "d": "PT00:15:00",  "c": 9,     "x": 5,     "l": 1},
+                    { "n": "Charge Her Cellphone",          "d": "PT01:00:00",  "c": 35,    "x": 23,    "l": 2,     "b": "Planet Express Building"},
+                    { "n": "Embrace Her Robosexuality",     "d": "PT01:00:00",  "c": 35,    "x": 23,    "l": 1,     "b": "Robot Arms Apts."},
+                    { "n": "Keep on Slippin'",              "d": "PT01:00:00",  "c": 35,    "x": 23,    "l": 3},
+                    { "n": "Read Mini-Golf Digest",         "d": "PT01:00:00",  "c": 35,    "x": 23,    "l": 4,     "b": "7^11"},
+                    { "n": "Paint Her Nails",               "d": "PT02:00:00",  "c": 65,    "x": 40,    "l": 5,     "b": "O'Zorgnax's Pub"},
+                    { "n": "Find a Cat Sitter",             "d": "PT02:00:00",  "c": 65,    "x": 40,    "l": 1,     "h": "Hattie"},
+                    { "n": "Pickpocket Amy",                "d": "PT02:00:00",  "c": 135,   "x": 85,    "l": 1,     "h": "Burglar Bender"},
+                    { "n": "Trim the Leg Hair",             "d": "PT02:00:00",  "c": 135,   "x": 85,    "l": 1,     "h": "Leg Mutant"},
+                    { "n": "Hang Out with Bad Boys",        "d": "PT04:00:00",  "c": 95,    "x": 60,    "l": 6,     "b": "O'Zorgnax's Pub"},
+                    { "n": "Overpay for a Car",             "d": "PT04:00:00",  "c": 95,    "x": 60,    "l": 1,     "b": "Malfunctioning Eddie's Rocket Car Emporium"},
+                    { "n": "Have Amy and Kif Smooch",       "d": "PT06:00:00",  "c": 265,   "x": 180,   "l": 1,     "h": "Kif"},
+                    { "n": "Attend Social Event ",          "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 3,     "b": "The Hip Joint"},
+                    { "n": "Curse in Cantonese",            "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 5,     "b": "Avenue Hotel"},
+                    { "n": "Drink Girly Cocktail",          "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 5,     "b": "O'Zorgnax's Pub"},
+                    { "n": "Get Ripped Off",                "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 1,     "b": "Rook Takes Pawnshop"} 
              ] ],
          '2' : [ "Amy",                        "Nightlife",          4, 0, 0, [
-
+                    { "n": "Spend the Night",               "d": "PT02:00:00",  "c": 65,    "x": 40,    "l": 1,     "b": "Malfunctioning Eddie's Rocket Car Emporium", },
+                    { "n": "Walk Barefoot",                 "d": "PT04:00:00",  "c": 95,    "x": 60,    "l": 3,     "b": "7^11", },
+                    { "n": "Get Sloppy Drunk",              "d": "PT06:00:00",  "c": 125,   "x": 85,    "l": 1, },
+                    { "n": "Learn New Moves",               "d": "PT06:00:00",  "c": 125,   "x": 85,    "l": 3,     "b": "City Tower", },
+                    { "n": "Dance on the Bar",              "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 3,     "b": "O'Zorgnax's Pub", },
+                    { "n": "Keep it Classy",                "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 7,     "b": "Cavern on the Green", },
+                    { "n": "Pass Out",                      "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 6,     "b": "Electric Ladyland", },
+                    { "n": "Sit at Hotel Bar",              "d": "PT08:00:00",  "c": 155,   "x": 105,   "l": 7,     "b": "Avenue Hotel", }
              ] ],
          '3' : [ "Amy",                        "Amazonian",          0, 0, 1, [
 
