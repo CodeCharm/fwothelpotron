@@ -167,7 +167,34 @@ function drawCharTable() {
                 var isGroup = chr_prv == work_data[value][0];
 
                 chr_txt += isGroup ? '' : (index == 0) ? '<div class="tbl_b">' : '</div><div class="tbl_b">';
-                chr_txt += '<div class="tbl_r"><div class="tbl_c">' + work_data[value][0] + (work_data[value][1] ? ' - ' + work_data[value][1] : '') + '</div><div class="tbl_c"><div title="' + game_data['chr_cls'][work_data[value][2]][0] + '" class="class_icon table_class table_class_' + work_data[value][2] + '"></div></div><div class="tbl_c level_char" data-id="' + value + '"><span>' + work_data[value][3] + '</span><div class="level_control"></div></div><div class="tbl_c">' + game_data['chr_atk'][work_data[value][4]] + '</div></div>';
+                chr_txt += '<div class="tbl_r collapsed"><div class="tbl_c">' + work_data[value][0] + (work_data[value][1] ? ' - ' + work_data[value][1] : '') + '</div><div class="tbl_c"><div title="' + game_data['chr_cls'][work_data[value][2]][0] + '" class="class_icon table_class table_class_' + work_data[value][2] + '"></div></div><div class="tbl_c level_char" data-id="' + value + '"><span>' + work_data[value][3] + '</span><div class="level_control"></div></div><div class="tbl_c">' + game_data['chr_atk'][work_data[value][4]] + '</div><div class="tbl_c"></div></div>';
+
+                var chr_act = work_data[value][5];
+
+                if (chr_act && chr_act.length > 0) {
+                    chr_txt += '<div class="tbl_a">';
+                    $.each(chr_act, function (index, value) {
+                        var act_dur = value.d.slice(2, 10);
+                        var dur_h = act_dur.slice(0, 2);
+                        var dur_m = act_dur.slice(3, 5);
+                        var dur_s = act_dur.slice(6, 8);
+                        var dur = new Date(0, 0, 0, dur_h, dur_m, dur_s);
+                        var h = dur.getHours();
+                        var m = dur.getMinutes();
+                        var s = dur.getSeconds();
+                        var dur_abbr = '';
+                        if (h) {dur_abbr = h + 'h';}
+                        if (m) {dur_abbr += m + 'm';}
+                        if (s) {dur_abbr += s + 's';}
+                        var yld = value.c / ((h * 3600 + m * 60 + s) / (60 * 60));
+                        if (value.h) {yld = yld / 2;}
+                        chr_txt += '<div class="tbl_r1"><div class="tbl_c">' + value.n + '</div><div class="tbl_c">' + dur_abbr + '</div><div class="tbl_c">&curren; ' + value.c + '</div><div class="tbl_c">' + yld.toFixed(2) + '</div><div class="tbl_c">Lvl: ' + value.l + '</div></div>';
+                        if (value.b || value.h) {
+                            chr_txt += '<div class="tbl_r2"><div class="tbl_c">' + (value.b ? ('Required building: ' + value.b) : ('Required character: ' + value.h)) + '</div></div>';
+                        }
+                    });
+                    chr_txt += '</div>';
+                }
 
                 chr_prv = work_data[value][0];
             }
