@@ -1,189 +1,170 @@
 ==Actions==
-<!--[[/Event Actions | Event Actions]]-->
 {{Table Header Action}}
 {{Action
-| event=
-| image=Amazonian Amy Make Out.png
-| name=Make Out
-| quote=???
+| image=Bender Instigate a Bar Fight.png
+| name=Instigate a Bar Fight
 | time=1h 0m 0s
-| currency=95
-| xp=60
+| currency=35
+| xp=23
 | requirements_level=
-| requirements_character=Kif
-| requirements_building=
-| animated=yes
+| requirements_building=O'Zorgnax's Pub
 }}
 {{Action
-| event=
-| image=Amazonian Amy Perform for Office Party.png
-| name=Perform for Office Party
-| quote=???
+| image=Bender Recharge His Battery.png
+| name=Recharge His Battery
+| time=1h 0m 0s
+| currency=35
+| xp=23
+| requirements_level=3
+| requirements_building=Robot Arms Apts.
+}}
+{{Action
+| image=Bender Shoplift for Fun.png
+| name=Shoplift for Fun
+| time=1h 0m 0s
+| currency=35
+| xp=23
+| requirements_level=4
+| requirements_building=7^11
+}}
+{{Action
+| image=Bender Zoom In.png
+| name=Zoom In
 | time=2h 0m 0s
 | currency=65
 | xp=40
-| requirements_level=4
-| requirements_character=
-| requirements_building=
-| animated=
-}}
-{{Action
-| event=
-| image=Amazonian Amy Eat Meat.png
-| name=Eat Meat
-| quote=Beefing up and porking out...
-| time=3h 0m 0s
-| currency=80
-| xp=54
-| requirements_level=
-| requirements_character=
-| requirements_building=
 | animated=yes
 }}
 {{Action
-| event=
-| image=Amazonian Amy Do the Stilt Walker.png
-| name=Do the Stilt Walker
-| quote=???
+| image=Bender Bend Girders.png
+| name=Bend Girders
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=5
+| animated=yes
+}}
+{{Action
+| image=Bender Get It on with Robot Cars.png
+| name=Get It on with Robot Cars
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
+}}
+{{Action
+| image = Crushinator Play the Game of Seduction.png
+| name = Play the Game of Seduction
+| time = 2h 0m 0s
+| currency = 65
+| xp = 40
+| requirements_character = Crushinator
+| animated = yes
+}}
+{{Action
+| image=Bender Watch All My Circuits.png
+| name=Watch "All My Circuits"
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=5
+| requirements_building=Planet Express Building
+}}
+{{Action
+| image=Bender Go for a Spin.png
+| name=Go for a Spin
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| animated=yes
+}}
+{{Action
+| image=Bender Receive a Laptop Dance.png
+| name=Receive a Laptop Dance
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=5
+| requirements_building=Electric Ladyland
+}}
+{{Action
+| image=Bender Eat Hot Pockets.png
+| name=Eat Hot Pockets
+| time=3h 0m 0s
+| currency=8 weed
+| xp=54
+| requirements_character=Bachelor Fry
+| animated=yes
+}}
+{{Action
+| image=Bender Fall on His Back.png
+| name=Fall on His Back
 | time=4h 0m 0s
 | currency=95
 | xp=60
-| requirements_level=7
-| requirements_character=
-| requirements_building=
+| requirements_level=6
 | animated=yes
 }}
 {{Action
-| event=
-| image=Amazonian Amy Eat Primitive Snacks.png
-| name=Eat Primitive Snacks
-| quote=???
-| time=5h 0m 0s
-| currency=110
-| xp=73
-| requirements_level=2
-| requirements_character=
-| requirements_building=
-| animated=
+| image=Bender Plot a Heist.png
+| name=Plot a Heist
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=6
+| requirements_building=Avenue Hotel
 }}
 {{Action
-| event=
-| image=Amazonian Amy Stay Up to the Task.png
-| name=Stay Up to the Task
-| quote=???
-| time=6h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=10
-| requirements_character=
-| requirements_building=
-| animated=
+| image=Bender Vandalize Property.png
+| name=Vandalize Property
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=6
+| requirements_building=City Tower
 }}
 {{Action
-| event=
-| image=Amazonian Amy Shop for Taller Stilts.png
-| name=Shop for Taller Stilts
-| quote=???
-| time=7h 0m 0s
-| currency=140
-| xp=93
-| requirements_level=5
-| requirements_character=
-| requirements_building=
-| animated=
+| image=Bender Take Some Snaps.png
+| name=Take Some Snaps
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| animated=yes
 }}
 {{Action
-| event=
-| image=Amazonian Amy Lose Her Balance.png
-| name=Lose Her Balance
-| quote=???
+| image=Bender Raid Liquor Cabinets.png
+| name=Raid Liquor Cabinets
 | time=8h 0m 0s
 | currency=155
 | xp=105
-| requirements_level=3
-| requirements_character=
-| requirements_building=
-| animated=
-}}
-{{Action
-| event=
-| image=Amazonian Amy Pig Out.png
-| name=Pig Out
-| quote=???
-| time=9h 0m 0s
-| currency=170
-| xp=112
-| requirements_level=12
-| requirements_character=
-| requirements_building=
-| animated=
-}}
-{{Action
-| event=
-| image=Amazonian Amy Go Clubbing.png
-| name=Go Clubbing
-| quote=???
-| time=10h 0m 0s
-| currency=180
-| xp=119
-| requirements_level=9
-| requirements_character=
-| requirements_building=
-| animated=
-}}
-{{Action
-| event=
-| image=Amazonian Amy Enjoy the View.png
-| name=Enjoy the View
-| quote=???
-| time=12h 0m 0s
-| currency=200
-| xp=130
-| requirements_level=8
-| requirements_character=
-| requirements_building=
-| animated=
-}}
-{{Action
-| event=
-| image=Amazonian Amy Get Refused Service.png
-| name=Refused Service
-| quote=???
-| time=16h 0m 0s
-| currency=230
-| xp=150
 | requirements_level=7
-| requirements_character=
-| requirements_building=
-| animated=
+| requirements_building=Avenue Hotel
 }}
 {{Action
-| event=
-| image=Amazonian Amy Watch Her Step.png
-| name=Watch Her Step
-| quote=???
-| time=18h 0m 0s
-| currency=250
-| xp=164
-| requirements_level=6
-| requirements_character=
-| requirements_building=
-| animated=
+| image=Bender Run a Scam Dating Service.png
+| name=Run a Scam Dating Service
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_building=Modest Business Building
 }}
 {{Action
-| event=
-| image=Amazonian Amy Remove Her Make Up.png
-| name=Remove Her Make Up
-| quote=???
-| time=1d 0h 0m 0s
-| currency=300
-| xp=195
-| requirements_level=11
-| requirements_character=
-| requirements_building=
-| animated=
+| image=Bender Pawn Stolen Heirlooms.png
+| name=Pawn Stolen Heirlooms
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_building=Rook Takes Pawnshop
+}}
+{{Action
+| image=Bender Avoid Responsibility.png
+| name=Avoid Responsibility
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=7
+| requirements_building=Modest Business Building
 }}
 |}
 {{Section Top|Actions}}
-
-{{Nav Character}}
+{{Outfit Gallery}}

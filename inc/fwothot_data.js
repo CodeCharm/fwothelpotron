@@ -64,9 +64,29 @@
                     { "n":"Sign Important Documents",                   "d":"P0T10:00:00",  "c":180,  "x":119,  "l":1,    "b":"NNYPD Precint"                               }
                 ]
             ],
-         '5' : [ "Bender",                     null,                 2, 0, 0, [
-
-             ] ],
+         '5' : [ "Bender",                     null,                 2, 0, 0, 
+                [
+                    { "n":"Instigate a Bar Fight",                      "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Recharge His Battery",                       "d":"P0T01:00:00",  "c":35,   "x":23,   "l":3,    "b":"Robot Arms Apts."                            },
+                    { "n":"Shoplift for Fun",                           "d":"P0T01:00:00",  "c":35,   "x":23,   "l":4,    "b":"7^11"                                        },
+                    { "n":"Zoom In",                                    "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Bend Girders",                               "d":"P0T02:00:00",  "c":65,   "x":40,   "l":5     },
+                    { "n":"Get It on with Robot Cars",                  "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Play the Game of Seduction",                 "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "h":"Crushinator"                                 },
+                    { "n":"Watch \"All My Circuits\"",                  "d":"P0T02:00:00",  "c":65,   "x":40,   "l":5,    "b":"Planet Express Building"                     },
+                    { "n":"Go for a Spin",                              "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Receive a Laptop Dance",                     "d":"P0T02:00:00",  "c":65,   "x":40,   "l":5,    "b":"Electric Ladyland"                           },
+                    { "n":"Eat Hot Pockets",                            "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1,    "h":"Bachelor Fry"                                },
+                    { "n":"Fall on His Back",                           "d":"P0T04:00:00",  "c":95,   "x":60,   "l":6     },
+                    { "n":"Plot a Heist",                               "d":"P0T04:00:00",  "c":95,   "x":60,   "l":6,    "b":"Avenue Hotel"                                },
+                    { "n":"Vandalize Property",                         "d":"P0T04:00:00",  "c":95,   "x":60,   "l":6,    "b":"City Tower"                                  },
+                    { "n":"Take Some Snaps",                            "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1     },
+                    { "n":"Raid Liquor Cabinets",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":7,    "b":"Avenue Hotel"                                },
+                    { "n":"Run a Scam Dating Service",                  "d":"P0T08:00:00",  "c":155,  "x":105,   "l":1,   "b":"Modest Business Building"                    },
+                    { "n":"Pawn Stolen Heirlooms",                      "d":"P0T08:00:00",  "c":155,  "x":105,   "l":1,   "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Avoid Responsibility",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":7,    "b":"Modest Business Building"                    }
+                ]
+            ],
          '6' : [ "Bender",                     "Bee",                4, 0, 1, [
 
              ] ],
