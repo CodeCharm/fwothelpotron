@@ -448,6 +448,23 @@
                 ]
             ],
         '29' : [ "Mutant Dwayne",              null,                 4, 0, 1, 
+                [
+                    { "n":"Fiddle with His Guitar",                     "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Buy Aspirin",                                "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2,    "b":"7^11"                                        },
+                    { "n":"Take a Mugshot",                             "d":"P0T03:00:00",  "c":80,   "x":54,   "l":12,   "b":"NNYPD Precinct"                              },
+                    { "n":"Try on Different Hats",                      "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3     },
+                    { "n":"Corrupt His Mind",                           "d":"P0T04:00:00",  "c":95,   "x":60,   "l":9,    "b":"Electric Ladyland"                           },
+                    { "n":"Rest His Head",                              "d":"P0T04:00:00",  "c":95,   "x":60,   "l":14,   "b":"Avenue Hotel"                                },
+                    { "n":"Talk Stories About El Chupanibre",           "d":"P0T04:00:00",  "c":95,   "x":60,   "l":4,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Play a Sweet Song",                          "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "h":"Mutant Vyolet"                               },
+                    { "n":"Strum a Tune",                               "d":"P0T05:00:00",  "c":110,  "x":73,   "l":5,    "b":"Planet Express Building"                     },
+                    { "n":"Apply for a Job",                            "d":"P0T06:00:00",  "c":125,  "x":85,   "l":16,   "b":"New New York Plaza"                          },
+                    { "n":"Look for Guitar Strings",                    "d":"P0T06:00:00",  "c":125,  "x":85,   "l":7,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Order Brain Food",                           "d":"P0T06:00:00",  "c":125,  "x":85,   "l":5,    "b":"Cavern on the Green"                         },
+                    { "n":"Bump His Head",                              "d":"P0T08:00:00",  "c":155,  "x":105,  "l":8,    "b":"Robot Arms Apts."                            },
+                    { "n":"Select from the Mutant Menu",                "d":"P0T08:00:00",  "c":155,  "x":105,  "l":18,   "b":"Fishy Joe's"                                 },
+                    { "n":"Test Drive a Convertible",                   "d":"P0T08:00:00",  "c":155,  "x":105,  "l":10,   "b":"Malfunctioning Eddie's Rocket Car Emporium"  }
+                ]
             ],
         '30' : [ "Fender",                     null,                 2, 0, 0, 
             ],
