@@ -940,6 +940,22 @@
                 ]
             ],
         '57' : [ "Malfunctioning Eddie",       null,                 3, 0, 0, 
+                [
+                    { "n":"Order the Cheap Drinks",                     "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Lose an Eye",                                "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Keep It Together",                           "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3     },
+                    { "n":"Advertise at the Entrance",                  "d":"P0T04:00:00",  "c":95,   "x":60,   "l":8,    "b":"Modest Business Building"                    },
+                    { "n":"Haggle Over the Cover Price",                "d":"P0T04:00:00",  "c":95,   "x":60,   "l":11,   "b":"Electric Ladyland"                           },
+                    { "n":"Hunt for a Sale",                            "d":"P0T04:00:00",  "c":95,   "x":60,   "l":2,    "b":"7^11"                                        },
+                    { "n":"Try to Sell a New Ship",                     "d":"P0T04:00:00",  "c":95,   "x":60,   "l":4,    "b":"Planet Express Building"                     },
+                    { "n":"Find New Customers",                         "d":"P0T06:00:00",  "c":125,  "x":85,   "l":6,    "b":"Robot Arms Apts."                            },
+                    { "n":"Malfunction in Public",                      "d":"P0T06:00:00",  "c":125,  "x":85,   "l":1,    "b":"Cavern on the Green"                         },
+                    { "n":"Send Out Mailers",                           "d":"P0T06:00:00",  "c":125,  "x":85,   "l":10,   "b":"Satellite Building"                          },
+                    { "n":"Spontaneously Combust",                      "d":"P0T06:00:00",  "c":125,  "x":85,   "l":5     },
+                    { "n":"Be a Master Salesbot",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":9,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Sell Spare Parts",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":7,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Buy Something Nice",                         "d":"P0T12:00:00",  "c":200,  "x":130,  "l":15,   "b":"Diamonds are Forever"                        }
+                ]
             ],
         '58' : [ "Monique",                    null,                 4, 0, 2, 
             ],
