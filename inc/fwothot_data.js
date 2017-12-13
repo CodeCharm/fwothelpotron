@@ -1167,6 +1167,22 @@
                 ]
             ],
         '70' : [ "Smitty",                     null,                 3, 0, 1, 
+                [
+                    { "n":"Swing Laser Batons",                         "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Interrogate Suspects",                       "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2,    "b":"Planet Express Building"                     },
+                    { "n":"Let One Loose",                              "d":"P0T02:00:00",  "c":65,   "x":40,   "l":3     },
+                    { "n":"Run License Plates",                         "d":"P0T02:00:00",  "c":65,   "x":40,   "l":4,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Eat Donuts",                                 "d":"P0T02:00:00",  "c":135,  "x":85,   "l":1,    "h":"URL"                                         },
+                    { "n":"Arrest Drunks",                              "d":"P0T04:00:00",  "c":95,   "x":60,   "l":10,   "b":"Cavern on the Green"                         },
+                    { "n":"Stop for Donuts",                            "d":"P0T04:00:00",  "c":95,   "x":60,   "l":5,    "b":"7^11"                                        },
+                    { "n":"Turn Off Bodycam",                           "d":"P0T04:00:00",  "c":95,   "x":60,   "l":6,    "b":"Robot Arms Apts."                            },
+                    { "n":"Abuse Authority",                            "d":"P0T08:00:00",  "c":155,  "x":105,  "l":11,   "b":"NNYPD Precinct"                              },
+                    { "n":"Bumble Investigation",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":7,    "b":"Modest Business Building"                    },
+                    { "n":"\"Guard\" the Bar",                          "d":"P0T08:00:00",  "c":155,  "x":105,  "l":9,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Investigate Robot Hooker's Death",           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":8,    "b":"Electric Ladyland"                           },
+                    { "n":"Respond to Silent Alarm",                    "d":"P0T08:00:00",  "c":155,  "x":105,  "l":13,   "b":"Diamonds are Forever"                        },
+                    { "n":"Waste Taxpayer Money",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":12,   "b":"Central Bureaucracy"                         }
+                ]
             ],
         '71' : [ "Stephen Hawking",            null,                 1, 0, 2, 
             ],
