@@ -1,140 +1,126 @@
 ==Actions==
 {{Table Header Action}}
 {{Action
-| image=NDTyson Rail Against Science Deniers.png
-| name=Rail Against Science Deniers
+| image=Nixon Enjoy Feeding Time.png
+| name=Enjoy Feeding Time
+| quote=Opening and dining on china...
 | time=1h 0m 0s
 | currency=35
 | xp=23
-| requirements_level=
-| requirements_building=7^11
-}}
-{{Action
-| image=NDTyson Declare Ignorance a Crime.png
-| name=Declare Ignorance a Crime
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=12
-| requirements_building=NNYPD Precinct
-}}
-{{Action
-| image=NDTyson Go for a Loop.png
-| name=Go For a Loop
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=
-| requirements_building=O'Zorgnax's Pub
-}}
-{{Action
-| image=NDTyson Do Astronomy.png
-| name=Do Astronomy
-| time=3h 0m 0s
-| currency=80
-| xp=54
-| requirements_level=
-| requirements_building=Planet Express Building
-}}
-{{Action
-| image=NDTyson Hold a Star Party.png
-| name=Hold a Star Party
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=11
-| requirements_building=New New York Plaza
-}}
-{{Action
-| image=NDTyson Looking for a Starship.png
-| name=Looking for a Starship
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
-}}
-{{Action
-| image=NDTyson Pour Alcohol in His Jar.png
-| name=Pour Alcohol in His Jar
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=
-| requirements_building=O'Zorgnax's Pub
-}}
-{{Action
-| image=NDTyson Observe the Universe.png
-| name=Observe the Universe
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=
+| requirements_level=1
 | animated=yes
 }}
 {{Action
-| image=NDTyson Scoff at the Merchandise.png
-| name=Scoff at the Merchandise
+| image=Nixon Purchase Tape Recorders.png
+| name=Purchase Tape Recorders
+| quote=Going on the record...
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=4
+| requirements_building=Rook Takes Pawnshop
+}}
+{{Action
+| image=Nixon Shred Documents.png
+| name=Shred Documents
+| quote=Destroying the evidence...
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=1
+| animated=yes
+}}
+{{Action
+| image=Nixon Give Speech.png
+| name=Give Speech
+| quote=Saying this about that...
 | time=4h 0m 0s
 | currency=95
 | xp=60
-| requirements_level=14
-| requirements_building=Diamonds are Forever
+| requirements_level=1
+| animated=yes
 }}
 {{Action
-| image=NDTyson Enjoy the View.png
-| name=Enjoy the View
-| time=6h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=
+| image=Nixon Motorboat.png
+| name=Motorboat
+| quote=Turning the robot parts on...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=5
+| requirements_building=Electric Ladyland
+}}
+{{Action
+| image=Nixon Deny Being a Crook.png
+| name=Deny Being a Crook
+| quote=Making things perfectly clear...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=8
+| requirements_building=NNYPD Precinct
+}}
+{{Action
+| image=Nixon Have a Beer or Three.png
+| name=Have a Beer or Three
+| quote=Drinking with the voters...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=3
+| requirements_building=O'Zorgnax's Pub
+}}
+{{Action
+| image=Nixon Purchase Bulletproof Car.png
+| name=Purchase Bulletproof Car
+| quote=Wheeling and dealing...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=6
+| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
+}}
+{{Action
+| image=Nixon Eliminate Civil Liberties.png
+| name=Eliminate Civil Liberties
+| quote=Socking it to the everyman...
+| time=12h 0m 0s
+| currency=200
+| xp=130
+| requirements_level=9
+| requirements_building=City Tower
+}}
+{{Action
+| image=Nixon Skip the Tip.png
+| name=Skip the Tip
+| quote=Not having Nixon to kick around anymore...
+| time=12h 0m 0s
+| currency=200
+| xp=130
+| requirements_level=7
 | requirements_building=Cavern on the Green
 }}
 {{Action
-| image=NDTyson Hang Out on the Roof.png
-| name=Hang Out on the Roof
-| time=6h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=
-| requirements_building=Robot Arms Apts.
+| image=Nixon Eavesdrop on Political Rivals.png
+| name=Eavesdrop on Political Rivals
+| quote=Scandalizing the competition...
+| time=16h 0m 0s
+| currency=230
+| xp=150
+| requirements_level=10
+| requirements_building=Avenue Hotel
 }}
 {{Action
-| image=NDTyson Look for Human Food.png
-| name=Look for Human Food
-| time=6h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=15
-| requirements_building=Fishy Joe's
-}}
-{{Action
-| image=NDTyson Apply for His Astronomer's License.png
-| name=Apply for His Astronomer's License
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=13
-| requirements_building=Central Bureaucracy
-}}
-{{Action
-| image=NDTyson Explain Complicated Theorem.png
-| name=Explain Complicated Theorem
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=
-| requirements_building=Planet Express Building
-}}
-{{Action
-| image=NDTyson Shop for Old Telescopes.png
-| name=Shop for Old Telescopes
-| time=8h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=
-| requirements_building=Rook Takes Pawnshop
+| image=Nixon Flash Peace Signs.png
+| name=Flash Peace Signs
+| quote=Achieving peace with honor...
+| time=1d 0h 0m 0s
+| currency=300
+| xp=195
+| requirements_level=11
+| requirements_building=New New York Plaza
 }}
 |}
 {{Section Top|Actions}}
+
 {{Outfit Gallery}}

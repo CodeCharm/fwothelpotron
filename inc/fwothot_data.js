@@ -1009,6 +1009,20 @@
                 ]
             ],
         '60' : [ "Nixon & Agnew",              null,                 0, 0, 2, 
+                [
+                    { "n":"Enjoy Feeding Time",                         "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Purchase Tape Recorders",                    "d":"P0T02:00:00",  "c":65,   "x":40,   "l":4,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Shred Documents",                            "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Give Speech",                                "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1     },
+                    { "n":"Motorboat",                                  "d":"P0T04:00:00",  "c":95,   "x":60,   "l":5,    "b":"Electric Ladyland"                           },
+                    { "n":"Deny Being a Crook",                         "d":"P0T08:00:00",  "c":155,  "x":105,  "l":8,    "b":"NNYPD Precinct"                              },
+                    { "n":"Have a Beer or Three",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":3,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Purchase Bulletproof Car",                   "d":"P0T08:00:00",  "c":155,  "x":105,  "l":6,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Eliminate Civil Liberties",                  "d":"P0T12:00:00",  "c":200,  "x":130,  "l":9,    "b":"City Tower"                                  },
+                    { "n":"Skip the Tip",                               "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "b":"Cavern on the Green"                         },
+                    { "n":"Eavesdrop on Political Rivals",              "d":"P0T16:00:00",  "c":230,  "x":150,  "l":10,   "b":"Avenue Hotel"                                },
+                    { "n":"Flash Peace Signs",                          "d":"P1T00:00:00",  "c":300,  "x":195,  "l":11,   "b":"New New York Plaza"                          }
+                ]
             ],
         '62' : [ "Pazuzu",                     null,                 3, 0, 1, 
             ],
