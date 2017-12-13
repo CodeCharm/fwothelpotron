@@ -154,25 +154,27 @@ function filterResults() {
 function drawCharTable() {
     //console.log('[' + new Date().toISOString().substr(11, 12) + '] ' + arguments.callee.name + ' - called by ' + arguments.callee.caller.name);
 
-    $('#char_tbl_own .tbl_b').remove();
+    $('#char_tbl_own .tbl_b, #char_tbl_rst .tbl_b').remove();
 
-    var chr_lst = user_data['flt_has'] ? user_data['flt_chr'] : user_data['chr_own'],
-        chr_prv = null,
-        chr_txt = '';
+    var chr_own_lst = user_data['flt_has'] ? user_data['flt_chr'] : user_data['chr_own'],
+        chr_own_prv = null,
+        chr_own_txt = '';
 
-    if (Object.keys(chr_lst).length) {
+    if (Object.keys(chr_own_lst).length) {
         $.each( game_data['chr_ord'], function( index, value ) {
 
-            if (chr_lst.indexOf(value) != -1) {
-                var isGroup = chr_prv == work_data[value][0];
+            if (chr_own_lst.indexOf(value) != -1) {
+                var isGroup = chr_own_prv == work_data[value][0];
 
-                chr_txt += isGroup ? '' : (index == 0) ? '<div class="tbl_b">' : '</div><div class="tbl_b">';
-                chr_txt += '<div class="tbl_r collapsed"><div class="tbl_c">' + work_data[value][0] + (work_data[value][1] ? ' - ' + work_data[value][1] : '') + '</div><div class="tbl_c"><div title="' + game_data['chr_cls'][work_data[value][2]][0] + '" class="class_icon table_class table_class_' + work_data[value][2] + '"></div></div><div class="tbl_c level_char" data-id="' + value + '"><span>' + work_data[value][3] + '</span><div class="level_control"></div></div><div class="tbl_c">' + game_data['chr_atk'][work_data[value][4]] + '</div><div class="tbl_c"></div></div>';
+                chr_own_txt += isGroup ? '' : (index == 0) ? '<div class="tbl_b">' : '</div><div class="tbl_b">';
+                chr_own_txt += '<div class="tbl_r"><div class="tbl_c">' + work_data[value][0] + (work_data[value][1] ? ' - ' + work_data[value][1] : '') + '</div><div class="tbl_c"><div title="' + game_data['chr_cls'][work_data[value][2]][0] + '" class="class_icon table_class table_class_' + work_data[value][2] + '"></div></div><div class="tbl_c level_char" data-id="' + value + '"><span>' + work_data[value][3] + '</span><div class="level_control"></div></div><div class="tbl_c">' + game_data['chr_atk'][work_data[value][4]] + '</div></div>';
+
+                chr_own_prv = work_data[value][0];
 
                 var chr_act = work_data[value][5];
 
                 if (chr_act && chr_act.length > 0) {
-                    chr_txt += '<div class="tbl_a">';
+                    chr_own_txt += '<div class="tbl_a">';
                     var maxYield = 0;
                     var chr_lvl = work_data[value][3];
                     $.each(chr_act, function (index, value) {
@@ -214,24 +216,41 @@ function drawCharTable() {
                         highlightClass += value.dur_4h ? ' dur_4h' : '';
                         highlightClass += value.dur_8h ? ' dur_8h' : '';
                         highlightClass += value.overLevel ? ' overLevel' : '';
-                        chr_txt += '<div class="tbl_r1' + highlightClass + '"><div class="tbl_c">' + value.n + '</div><div class="tbl_c">' + value.duration + '</div><div class="tbl_c">&curren; ' + value.c + '</div><div class="tbl_c">' + value.yield.toFixed(2) + '</div><div class="tbl_c">L ' + value.l + '</div></div>';
+                        chr_own_txt += '<div class="tbl_r1' + highlightClass + '"><div class="tbl_c">' + value.n + '</div><div class="tbl_c">' + value.duration + '</div><div class="tbl_c">&curren; ' + value.c + '</div><div class="tbl_c">' + value.yield.toFixed(2) + '</div><div class="tbl_c">L ' + value.l + '</div></div>';
                         if (!value.overLevel && (value.b || value.h)) {
-                            chr_txt += '<div class="tbl_r2' + highlightClass + '"><div class="tbl_c">' + (value.b ? ('Required building: ' + value.b) : ('Required character: ' + value.h)) + '</div></div>';
-                        }
-                    });
-                    chr_txt += '</div>';
-                }
-
-                chr_prv = work_data[value][0];
+                            chr_own_txt += '<div class="tbl_r2' + highlightClass + '"><div class="tbl_c">' + (value.b ? ('Required building: ' + value.b) : ('Required character: ' + value.h)) + '</div></div>';
             }
         });
     } else {
-        chr_txt = '<div class="tbl_b"><div class="tbl_r"><div class="tbl_c char_empty">No characters found.</div></div>';
+        chr_own_txt = '<div class="tbl_b"><div class="tbl_r"><div class="tbl_c char_empty">No characters found.</div></div>';
     }
 
-    chr_txt += '</div>';
+    chr_own_txt += '</div>';
 
-    $(chr_txt).insertAfter($('#char_tbl_own .tbl_h'));
+    $('#char_tbl_own').append(chr_own_txt);
+
+    if (!user_data['flt_has'] && Object.keys(user_data['chr_rst']).length) {
+        var chr_rst_prv = null,
+            chr_rst_txt = '';
+
+        $.each( game_data['chr_ord'], function( index, value ) {
+
+            if (user_data['chr_rst'].indexOf(value) != -1) {
+                var isGroup = chr_rst_prv == work_data[value][0];
+
+                chr_rst_txt += isGroup ? '' : (index == 0) ? '<div class="tbl_b">' : '</div><div class="tbl_b">';
+                chr_rst_txt += '<div class="tbl_r"><div class="tbl_c">' + work_data[value][0] + (work_data[value][1] ? ' - ' + work_data[value][1] : '') + '</div><div class="tbl_c"><div title="' + game_data['chr_cls'][work_data[value][2]][0] + '" class="class_icon table_class table_class_' + work_data[value][2] + '"></div></div><div class="tbl_c"><span>-</span></div><div class="tbl_c">' + game_data['chr_atk'][work_data[value][4]] + '</div></div>';
+
+                chr_rst_prv = work_data[value][0];
+            }
+        });
+
+        chr_rst_txt += '</div>';
+
+        $('#char_tbl_rst').removeClass('hide').data('chars', Object.keys(user_data['chr_rst']).length).append(chr_rst_txt);
+    } else {
+        $('#char_tbl_rst').addClass('hide');
+    }
 }
 
 function drawCharStats() {
@@ -517,6 +536,16 @@ function appInit(init) {
         // Controls - UI - Panels
         $('.title_l').on('click', function(){
             $(this).parent('div').toggleClass('collapsed');
+        });
+        
+        // Controls - UI - Unavailable characters
+        $('#char_tbl_rst_show').on('click', function() {
+            var tbl_par = $('#char_tbl_rst');
+                tbl_iso = tbl_par.hasClass('open');
+
+            tbl_par.css('maxHeight', (tbl_iso ? 0 : 42 * tbl_par.data('chars')) + 38 + 'px').toggleClass('open', !tbl_iso);
+
+            $(this).html((tbl_iso ? 'Show' : 'Hide'));
         });
 
         // Character setup
