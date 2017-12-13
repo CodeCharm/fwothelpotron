@@ -1213,8 +1213,38 @@
                 ]
             ],
         '72' : [ "URL",                        null,                 2, 0, 1, 
+                [
+                    { "n":"Be a First Responder",                       "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1,    "b":"7^11"                                        },
+                    { "n":"Beat Perps Senseless",                       "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "b":"CitiHall"                                    },
+                    { "n":"Investigate Leads",                          "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "b":"Electric Ladyland"                           },
+                    { "n":"Eat Donuts",                                 "d":"P0T02:00:00",  "c":135,  "x":85,   "l":1,    "h":"Smitty"                                      },
+                    { "n":"Keep the Peace",                             "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Use Excessive Force",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":7,    "b":"Skyscraper Center"                           },
+                    { "n":"Enforce Penal Code",                         "d":"P0T06:00:00",  "c":125,  "x":85,   "l":1,    "b":"Cavern on the Green"                         },
+                    { "n":"Get Oiled Up",                               "d":"P0T06:00:00",  "c":125,  "x":85,   "l":1,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"File Report",                                "d":"P0T08:00:00",  "c":155,  "x":105,  "l":7,    "b":"NNYPD Precinct"                              },
+                    { "n":"Go on Hot Pursuit",                          "d":"P0T08:00:00",  "c":155,  "x":105,   "l":1    },
+                    { "n":"Visit the League of Robots",                 "d":"P0T08:00:00",  "c":155,  "x":105,  "l":7,    "b":"Satellite Building"                          }
+                ]
             ],
         '73' : [ "URL",                        "Off-duty",           3, 0, 1, 
+                [
+                    { "n":"Do a Groovy Handshake",                      "d":"P0T01:00:00",  "c":75,   "x":60,   "l":3,    "h":"Bender"                                      },
+                    { "n":"Pop and Lock",                               "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2     },
+                    { "n":"Hang Out Casually",                          "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3,    "b":"Robot Arms Apts."                            },
+                    { "n":"Spin His Hat",                               "d":"P0T04:00:00",  "c":95,   "x":60,   "l":3     },
+                    { "n":"Keep It Smooth",                             "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Order a Dance",                              "d":"P0T05:00:00",  "c":110,  "x":73,   "l":6,    "b":"Electric Ladyland"                           },
+                    { "n":"Grab a Slice",                               "d":"P0T06:00:00",  "c":125,  "x":85,   "l":1,    "b":"Family Brothers Pizza"                       },
+                    { "n":"Party Hard",                                 "d":"P0T06:00:00",  "c":125,  "x":85,   "l":10,   "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Grab a Six Pack",                            "d":"P0T08:00:00",  "c":155,  "x":105,  "l":5,    "b":"7^11"                                        },
+                    { "n":"Buy Used Junk",                              "d":"P0T10:00:00",  "c":180,  "x":119,  "l":4,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Test Drive Some Cars",                       "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Chill By the Pool",                          "d":"P0T16:00:00",  "c":230,  "x":150,  "l":15,   "b":"Avenue Hotel"                                },
+                    { "n":"Do Something Fancy",                         "d":"P0T18:00:00",  "c":250,  "x":164,  "l":8,    "b":"Cavern on the Green"                         },
+                    { "n":"Work On His Day Off",                        "d":"P1T00:00:00",  "c":300,  "x":195,  "l":9,    "b":"NNYPD Precinct"                              },
+                    { "n":"Flirt With a Guest",                         "d":"P0T00:00:00",  "c":0,    "x":0,    "l":20,   "b":"New New York Plaza"                          }
+                ]
             ],
         '74' : [ "Mutant Vyolet",              null,                 3, 0, 0, 
             ]
