@@ -1247,5 +1247,22 @@
                 ]
             ],
         '74' : [ "Mutant Vyolet",              null,                 3, 0, 0, 
+                [
+                    { "n":"Smoke a Cigar",                              "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Buy Some Smokes",                            "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "b":"7^11"                                        },
+                    { "n":"Snuffle the Ground",                         "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3     },
+                    { "n":"Order a Slime Cocktail",                     "d":"P0T04:00:00",  "c":95,   "x":60,   "l":2,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Show Her I.D.",                              "d":"P0T04:00:00",  "c":95,   "x":60,   "l":7,    "b":"NNYPD Precinct"                              },
+                    { "n":"Play a Sweet Song",                          "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "h":"Dwayne"                                      },
+                    { "n":"Disgust the Guests",                         "d":"P0T05:00:00",  "c":110,  "x":73,   "l":10,   "b":"New New York Plaza"                          },
+                    { "n":"Fix Her Pigtails",                           "d":"P0T05:00:00",  "c":110,  "x":73,   "l":4,    "b":"Planet Express Building"                     },
+                    { "n":"Look for a New Mirror",                      "d":"P0T06:00:00",  "c":125,  "x":85,   "l":5,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Look Suspicious",                            "d":"P0T06:00:00",  "c":125,  "x":85,   "l":6,    "b":"Diamonds are Forever"                        },
+                    { "n":"Take Free Soap",                             "d":"P0T06:00:00",  "c":125,  "x":85,   "l":8,    "b":"Satellite Building"                          },
+                    { "n":"Get Refused Entry",                          "d":"P0T08:00:00",  "c":155,  "x":105,  "l":9,    "b":"Cavern on the Green"                         },
+                    { "n":"Treat Herself",                              "d":"P0T08:00:00",  "c":155,  "x":105,  "l":12,   "b":"Hacking Jack's Fine Smokables"               },
+                    { "n":"Snack On the Leftovers",                     "d":"P0T10:00:00",  "c":180,  "x":119,  "l":14,   "b":"Fishy Joe's"                                 },
+                    { "n":"Search for Half-Eaten Pizza",                "d":"P0T12:00:00",  "c":200,  "x":130,  "l":16,   "b":"Panucci's Pizza"                             }
+                ]
             ]
     };
