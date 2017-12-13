@@ -921,6 +921,23 @@
                 ]
            ],
         '56' : [ "Lrrr",                       null,                 0, 0, 2, 
+                [
+                    { "n":"Target Practice",                            "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Announce Himself",                           "d":"P0T02:00:00",  "c":65,   "x":40,   "l":4,    "b":"City Tower"                                  },
+                    { "n":"Play With His Cape",                         "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2     },
+                    { "n":"Bicker",                                     "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1,    "h":"Ndnd"                                        },
+                    { "n":"Get Good Reception",                         "d":"P0T03:00:00",  "c":80,   "x":54,   "l":10,   "b":"Satellite Building"                          },
+                    { "n":"Demand Whoever's In Charge",                 "d":"P0T04:00:00",  "c":95,   "x":60,   "l":13,   "b":"New New York Plaza"                          },
+                    { "n":"Drink a Wartini",                            "d":"P0T04:00:00",  "c":95,   "x":60,   "l":3,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Shop for a Bigger Ship",                     "d":"P0T04:00:00",  "c":95,   "x":60,   "l":11,   "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Vow to Rule the Universe",                   "d":"P0T04:00:00",  "c":95,   "x":60,   "l":6,    "b":"Cavern on the Green"                         },
+                    { "n":"Watch Old TV Shows",                         "d":"P0T05:00:00",  "c":110,  "x":73,   "l":5,    "b":"Planet Express Building"                     },
+                    { "n":"Exchange Omicronian Goods",                  "d":"P0T06:00:00",  "c":125,  "x":85,   "l":7,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Fleam a Businessman",                        "d":"P0T06:00:00",  "c":125,  "x":85,   "l":8,    "b":"Modest Business Building"                    },
+                    { "n":"Revile the Human Food",                      "d":"P0T06:00:00",  "c":125,  "x":85,   "l":15,   "b":"Family Brothers Pizza"                       },
+                    { "n":"Ask About Human Horn",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":9,    "b":"Electric Ladyland"                           },
+                    { "n":"Shoot His Raygun",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":12,   "b":"NNYPD Precinct"                              }
+                ]
             ],
         '57' : [ "Malfunctioning Eddie",       null,                 3, 0, 0, 
             ],
