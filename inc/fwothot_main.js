@@ -80,7 +80,7 @@ function dataUpdate(drawTable, drawStats, init, updateChar) {
                 user_data['chr_own'].push(key);
                 
                 if (value[1] === null) {
-                    user_data['chr_unq'].push(value);
+                    user_data['chr_unq'].push(key);
                 }
             } else {
                 user_data['chr_rst'].push(key);
