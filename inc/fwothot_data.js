@@ -1135,6 +1135,22 @@
                 ]
             ],
         '68' : [ "Scruffy",                    null,                 4, 0, 1, 
+                [
+                    { "n":"Be Forgettable",                             "d":"P0T01:00:00",  "c":35,   "x":23,   "l":3,    "b":"Planet Express Building"                     },
+                    { "n":"Sweep the Town",                             "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Read Zero-G Juggs Magazine",                 "d":"P0T02:00:00",  "c":65,   "x":40,   "l":3,    "b":"Planet Express Building"                     },
+                    { "n":"Believe in the Company",                     "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Fix the Terlet",                             "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Mop for Free",                               "d":"P0T04:00:00",  "c":95,   "x":60,   "l":5,    "b":"Guadalajara Brown Drip Gourmet Coffee"       },
+                //    { "n":"Take Robots for a Spin on His Moustache",    "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Electric Ladyland"                           },  Removed, according to gamepedia
+                    { "n":"Clean the Sticky Floors",                    "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Electric Ladyland"                           },
+                    { "n":"Admire the Showroom",                        "d":"P0T08:00:00",  "c":95,   "x":60,   "l":1,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Be the Strong Silent Type",                  "d":"P0T08:00:00",  "c":95,   "x":60,   "l":1,    "b":"City Tower"                                  },
+                    { "n":"Dance with Plunger",                         "d":"P0T08:00:00",  "c":95,   "x":60,   "l":1     },
+                    { "n":"Look at New Used Hats",                      "d":"P0T08:00:00",  "c":95,   "x":60,   "l":7,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Ponder Existence",                           "d":"P0T08:00:00",  "c":95,   "x":60,   "l":7,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Squint His Eyes",                            "d":"P0T10:00:00",  "c":180,  "x":119,  "l":1,    "b":"Rook Takes Pawnshop"                         }
+                ]
             ],
         '69' : [ "Slurms McKenzie",            null,                 0, 0, 0, 
             ],
