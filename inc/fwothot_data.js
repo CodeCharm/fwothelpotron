@@ -1203,6 +1203,14 @@
                 ]
             ],
         '75' : [ "Tinny Tim",                  null,                 3, 0, 0, 
+                [
+                    { "n":"Sell Newspapers",                            "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Ask For Donations",                          "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2     },
+                    { "n":"Open the Presents",                          "d":"P0T03:00:00",  "c":95,   "x":60,   "l":3     },
+                    { "n":"Beg For Scraps",                             "d":"P0T04:00:00",  "c":125,  "x":85,   "l":4     },
+                    { "n":"Tap Dance",                                  "d":"P0T08:00:00",  "c":155,  "x":105,  "l":5     },
+                    { "n":"Stay Positive",                              "d":"P1T00:00:00",  "c":300,  "x":195,  "l":1     }
+                ]
             ],
         '72' : [ "URL",                        null,                 2, 0, 1, 
             ],
