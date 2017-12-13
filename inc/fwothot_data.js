@@ -1025,6 +1025,23 @@
                 ]
             ],
         '62' : [ "Pazuzu",                     null,                 3, 0, 1, 
+                [
+                    { "n":"Serve the Professor, 5, 1h",                 "d":"P0T00:00:00",  "c":0,  "x":0, "l":1     },
+                    { "n":"Hide Himself",                               "d":"P0T02:00:00",  "c":0,  "x":0, "l":3     },
+                    { "n":"Claw at Some Cars",                          "d":"P0T03:00:00",  "c":0,  "x":0, "l":8     },
+                    { "n":"Practice Preening",                          "d":"P0T04:00:00",  "c":0,  "x":0, "l":1     },
+                    { "n":"Spread His Wings",                           "d":"P0T04:00:00",  "c":0,  "x":0, "l":1     },
+                    { "n":"Scrounge for Food",                          "d":"P0T06:00:00",  "c":0,  "x":0, "l":4     },
+                    { "n":"Eat a Baguette",                             "d":"P0T07:00:00",  "c":0,  "x":0, "l":9     },
+                    { "n":"Show Some Affection",                        "d":"P0T08:00:00",  "c":0,  "x":0, "l":12    },
+                    { "n":"Spend Time With His Son",                    "d":"P0T00:00:00",  "c":0,  "x":0, "l":20    },
+                    { "n":"Grant a Wish",                               "d":"P0T10:00:00",  "c":0,  "x":0, "l":6     },
+                    { "n":"Scare the Robots",                           "d":"P0T12:00:00",  "c":0,  "x":0, "l":7     },
+                    { "n":"Screech in the Night",                       "d":"P0T00:00:00",  "c":0,  "x":0, "l":18    },
+                    { "n":"Speak French",                               "d":"P0T18:00:00",  "c":0,  "x":0, "l":14    },
+                    { "n":"Become Stone Silent",                        "d":"P0T20:00:00",  "c":0,  "x":0, "l":12    },
+                    { "n":"Evade the Cops",                             "d":"P1T00:00:00",  "c":0,  "x":0, "l":10    }
+                ]
             ],
         '63' : [ "Mr. Peppy",                  null,                 3, 0, 3, 
             ],
