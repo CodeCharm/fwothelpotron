@@ -1117,6 +1117,22 @@
                 ]
             ],
         '67' : [ "Robot Gypsy",                null,                 4, 0, 2, 
+                [
+                    { "n":"Look Into Her Crystal Ball",                 "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Fall Over",                                  "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2     },
+                    { "n":"Give Robots a Discount",                     "d":"P0T03:00:00",  "c":65,   "x":54,   "l":3,    "b":"Robot Arms Apts."                            },
+                    { "n":"Predict the Future",                         "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Take a Break",                               "d":"P0T04:00:00",  "c":95,   "x":60,   "l":3     },
+                    { "n":"Read a Stripperbot's Palm",                  "d":"P0T05:00:00",  "c":110,  "x":73,   "l":6,    "b":"Electric Ladyland"                           },
+                    { "n":"Foretell Grim Fates",                        "d":"P0T06:00:00",  "c":125,  "x":85,   "l":10,   "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Give Away Fortune Cookies",                  "d":"P0T08:00:00",  "c":155,  "x":105,  "l":5,    "b":"7^11"                                        },
+                    { "n":"Look for Spare Bulbs",                       "d":"P0T10:00:00",  "c":180,  "x":119,  "l":4,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Forecast Low Sales",                         "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Offer Free Consultations",                   "d":"P0T16:00:00",  "c":230,  "x":150,  "l":15,   "b":"Avenue Hotel"                                },
+                    { "n":"Guess the Chef's Special",                   "d":"P0T18:00:00",  "c":250,  "x":164,  "l":8,    "b":"Cavern on the Green"                         },
+                    { "n":"Time the Market",                            "d":"P0T20:00:00",  "c":265,  "x":176,  "l":20,   "b":"Modest Business Building"                    },
+                    { "n":"Locate Missing Persons",                     "d":"P1T00:00:00",  "c":300,  "x":195,  "l":9,    "b":"NNYPD Precinct"                              }
+                ]
             ],
         '68' : [ "Scruffy",                    null,                 4, 0, 1, 
             ],
