@@ -1063,6 +1063,21 @@
                 ]
             ],
         '64' : [ "Lionel Preacherbot",         null,                 2, 0, 0, 
+                [
+                    { "n":"Forbid Alcohol",                             "d":"P0T01:00:00",  "c":35,   "x":23,   "l":5,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Ask for a Donation",                         "d":"P0T03:00:00",  "c":80,   "x":54,   "l":8,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Be Moved by the Spirit",                     "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1     },
+                    { "n":"Look for Poor Souls",                        "d":"P0T06:00:00",  "c":125,  "x":85,   "l":4,    "b":"7^11"                                        },
+                    { "n":"Denounce the Harlots",                       "d":"P0T07:00:00",  "c":140,  "x":93,   "l":9,    "b":"Electric Ladyland"                           },
+                    { "n":"Attempt a Conversion",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":2     },
+                    { "n":"Register as a Non-Profit",                   "d":"P0T00:00:00",  "c":0,    "x":0,    "l":20,   "b":"Central Bureaucracy"                         },
+                    { "n":"Undertake Missionary Work",                  "d":"P0T12:00:00",  "c":200,  "x":130,  "l":6,    "b":"Robot Arms Apts."                            },
+                    { "n":"Overindulge",                                "d":"P0T00:00:00",  "c":0,    "x":0,    "l":16,   "b":"City Tower"                                  },
+                    { "n":"Pull Out His Knife",                         "d":"P0T00:00:00",  "c":0,    "x":0,    "l":18,   "b":"Avenue Hotel"                                },
+                    { "n":"Rehabilitate the Convicts",                  "d":"P0T00:00:00",  "c":0,    "x":0,    "l":14,   "b":"NNYPD Precinct"                              },
+                    { "n":"Tip Poorly",                                 "d":"P0T20:00:00",  "c":265,  "x":176,  "l":12,   "b":"Cavern on the Green"                         },
+                    { "n":"Spend Collection Plate Money",               "d":"P1T00:00:00",  "c":300,  "x":195,  "l":10,   "b":"Malfunctioning Eddie's Rocket Car Emporium"  }
+                ]
             ],
         '65' : [ "Roberto",                    null,                 5, 0, 1, 
             ],
