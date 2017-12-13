@@ -974,6 +974,20 @@
                 ]
             ],
         '61' : [ "Ndnd",                       null,                 4, 0, 2, 
+                [
+                    { "n":"Threaten the Crew",                          "d":"P0T01:00:00",  "c":35,   "x":25,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Mightily Sew",                               "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Peruse Earthican Trinkets",                  "d":"P0T02:00:00",  "c":65,   "x":40,   "l":7,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Order a Wargarita",                          "d":"P0T03:00:00",  "c":80,   "x":54,   "l":4,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Bicker",                                     "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1,    "h":"Lrrr"                                        },
+                    { "n":"Watch Human Mating Rituals",                 "d":"P0T04:00:00",  "c":95,   "x":60,   "l":9,    "b":"Electric Ladyland"                           },
+                    { "n":"Raise Some Grievances",                      "d":"P0T04:00:00",  "c":95,   "x":60,   "l":3,    "h":"The Professor"                               },
+                    { "n":"Trade in Her Ship",                          "d":"P0T05:00:00",  "c":110,  "x":73,   "l":8,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Criticizing the Decor",                      "d":"P0T06:00:00",  "c":125,  "x":85,   "l":10,   "b":"Cavern on the Green"                         },
+                    { "n":"Take What She Wants",                        "d":"P0T06:00:00",  "c":125,  "x":85,   "l":6,    "b":"7^11"                                        },
+                    { "n":"Complain About the Space",                   "d":"P0T08:00:00",  "c":155,  "x":105,  "l":5,    "b":"Robot Arms Apts."                            },
+                    { "n":"Size Up the Earthican Forces",               "d":"P0T08:00:00",  "c":155,  "x":105,  "l":10,   "b":"NNYPD Precinct"                              }
+                ]
             ],
         '59' : [ "Neil deGrasse Tyson",        null,                 1, 0, 0, 
             ],
