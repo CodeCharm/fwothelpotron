@@ -9,8 +9,9 @@ $text = $text -ireplace '^\| character *= *.*$', ''
 
 $text = $text -ireplace '^\| name *= *(.*)$', '"n":"$1",'
 
-$text = $text -ireplace '^\| time *= *((\d+)d )?(\d+)h (\d+)m (\d+)s\s*$', '"d":"P$2T$3:$4:$5",'
-$text = $text -ireplace '"PT', '"P0T'
+$text = $text -ireplace '^\| time *= *((\d+)d )?((\d+)h )?(\d+)m (\d+)s\s*$', '"d":"P$2T$4:$5:$6",'
+$text = $text -replace '"PT', '"P0T'
+$text = $text -replace '"P(\d)T:', '"P$1T00:'
 $text = $text -replace '"P(\d)T(\d):', '"P$1T0$2:'
 $text = $text -replace '"P(\d)T(\d{2}):(\d):', '"P$1T$2:0$3:'
 $text = $text -replace '"P(\d)T(\d{2}):(\d{2}):(\d)"', '"P$1T$2:$3:0$4"'

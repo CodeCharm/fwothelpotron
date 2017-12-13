@@ -797,8 +797,37 @@
                 ]
             ],
         '48' : [ "Kif",                        null,                 3, 0, 2, 
+                [
+                    { "n":"Write in His Diary",                         "d":"P0T00:30:00",  "c":18,   "x":11,   "l":1     },
+                    { "n":"Look at Cowboy Hats",                        "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Make Reservations",                          "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1,    "b":"Cavern on the Green"                         },
+                    { "n":"Do Zapp's Laundry",                          "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "b":"Satellite Building"                          },
+                    { "n":"Leave Flowers for Amy",                      "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Retrieve Gross Personal Item for Zapp",      "d":"P0T06:00:00",  "c":125,  "x":85,   "l":1,    "b":"7^11"                                        },
+                    { "n":"Have Amy and Kif Smooch",                    "d":"P0T06:00:00",  "c":265,  "x":180,  "l":1,    "h":"Amy"                                         },
+                    { "n":"Be a Lightweight",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Begrudgingly Watch Stripperbots",            "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "b":"Electric Ladyland"                           },
+                    { "n":"Get Bufferbot to Polish Zapp's Medals",      "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "b":"Robot Arms Apts."                            },
+                    { "n":"Avoid Skin-to-Skin Contact",                 "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "b":"Skyscraper Center"                           }
+                ]
             ],
         '49' : [ "Kif",                        "Cowboy",             3, 0, 2, 
+                [
+                    { "n":"Ride Betsy",                                 "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1,    "b":"Buggalo Ranch"                               },
+                    { "n":"Choke on Chewing Tobacco",                   "d":"P0T02:00:00",  "c":65,   "x":40,   "l":2,    "b":"7^11"                                        },
+                    { "n":"Do Lasso Tricks",                            "d":"P0T02:00:00",  "c":65,   "x":40,   "l":3     },
+                    { "n":"Ride Mechanical Bull",                       "d":"P0T02:00:00",  "c":65,   "x":40,   "l":4,    "b":"Robot Arms Apts."                            },
+                    { "n":"Get Lasso Stuck in Revolving Doors",         "d":"P0T04:00:00",  "c":95,   "x":60,   "l":17,   "b":"Skyscraper Center"                           },
+                    { "n":"Order Sarsaparilla",                         "d":"P0T04:00:00",  "c":95,   "x":60,   "l":6,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Sigh with an Accent",                        "d":"P0T04:00:00",  "c":95,   "x":60,   "l":12,   "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Try Not to Cough",                           "d":"P0T04:00:00",  "c":95,   "x":60,   "l":5,    "b":"Hacking Jack's Fine Smokables"               },
+                    { "n":"Demand BBQ Chicken Pizza",                   "d":"P0T08:00:00",  "c":155,  "x":105,  "l":7,    "b":"Family Brothers Pizza"                       },
+                    { "n":"Do the Achy Breaky Heart",                   "d":"P0T08:00:00",  "c":155,  "x":105,  "l":15,   "b":"Avenue Hotel"                                },
+                    { "n":"Lasso Some Drunks",                          "d":"P0T08:00:00",  "c":155,  "x":105,  "l":8,    "b":"Planet Express Building"                     },
+                    { "n":"Rescue Damsel in Distress",                  "d":"P0T08:00:00",  "c":155,  "x":105,  "l":11,   "b":"Electric Ladyland"                           },
+                    { "n":"Rustle Up Some Grub",                        "d":"P0T08:00:00",  "c":155,  "x":105,  "l":13,   "b":"Cavern on the Green"                         },
+                    { "n":"Show Up at High Noon",                       "d":"P0T08:00:00",  "c":155,  "x":105,  "l":9,    "b":"Satellite Building"                          }
+                ]
             ],
         '50' : [ "LaBarbara",                  null,                 4, 0, 1, 
             ],
