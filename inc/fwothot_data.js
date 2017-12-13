@@ -1153,6 +1153,18 @@
                 ]
             ],
         '69' : [ "Slurms McKenzie",            null,                 0, 0, 0, 
+                [
+                    { "n":"Party with his Groupies",                    "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Hang with his Fans",                         "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Burn Out",                                   "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1     },
+                    { "n":"Get a Second Wind",                          "d":"P0T04:00:00",  "c":95,   "x":60,   "l":2,    "b":"7^11"                                        },
+                    { "n":"Give Away Slurm",                            "d":"P0T05:00:00",  "c":110,  "x":73,   "l":1     },
+                    { "n":"Order a Party Bus",                          "d":"P0T06:00:00",  "c":125,  "x":85,   "l":4,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Refuel",                                     "d":"P0T06:00:00",  "c":125,  "x":85,   "l":10,   "b":"Panucci's Pizza"                             },
+                    { "n":"Host an After Party",                        "d":"P0T07:00:00",  "c":140,  "x":93,   "l":8,    "b":"Avenue Hotel"                                },
+                    { "n":"Report a Party Foul",                        "d":"P0T08:00:00",  "c":155,  "x":105,  "l":13,   "b":"NNYPD Precinct"                              },
+                    { "n":"Rock On",                                    "d":"P0T08:00:00",  "c":155,  "x":105,  "l":6,    "b":"Electric Ladyland"                           }
+                ]
             ],
         '70' : [ "Smitty",                     null,                 3, 0, 1, 
             ],

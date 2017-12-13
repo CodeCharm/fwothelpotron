@@ -1,174 +1,126 @@
-==Actions==
+==Actions== <!--During the event, all his actions produced Royal Slurm.-->
 {{Table Header Action}}
 {{Action
-| image=Scruffy Be Forgettable.png
-| name=Be Forgettable
-| quote=Nothing to see here...
+| image=Slurms Party with his Groupies.png
+| name=Party with his Groupies
+| quote=Boogying down with his ladies...
 | time=1h 0m 0s
 | currency=35
 | xp=23
-| requirements_level=3
-| requirements_character=
-| requirements_building=Planet Express Building
-| animated=
-}}
-{{Action
-| image=Scruffy Sweep the Town.png
-| name=Sweep the Town
-| quote=Making room for the broom...
-| time=1h 0m 0s
-| currency=35
-| xp=23
-| requirements_level=
+| requirements_level=1
 | requirements_character=
 | requirements_building=
 | animated=yes
 }}
 {{Action
-| image=Scruffy Read Zero-G Juggs Magazine.png
-| name=Read Zero-G Juggs Magazine
-| quote=Catching up on his oggling...
+| image=Planet Express Building.png
+| name=Hang with his Fans
+| quote=Abiding by his contract...
 | time=2h 0m 0s
 | currency=65
 | xp=40
-| requirements_level=3
+| requirements_level=1
 | requirements_character=
 | requirements_building=Planet Express Building
 | animated=
 }}
 {{Action
-| image=Scruffy Believe in the Company.png
-| name=Believe in the Company
-| quote=Acting like a lifer...
+| image=Slurms Burn Out.png
+| name=Burn Out
+| quote=Pushing his limits...
+| time=3h 0m 0s
+| currency=80
+| xp=54
+| requirements_level=1
+| requirements_character=
+| requirements_building=
+| animated=yes
+}}
+{{Action
+| image=7^11.png
+| name=Get a Second Wind
+| quote=Feel reenergized...
 | time=4h 0m 0s
 | currency=95
 | xp=60
-| requirements_level=
+| requirements_level=2
 | requirements_character=
-| requirements_building=Planet Express Building
+| requirements_building=7^11
 | animated=
 }}
 {{Action
-| image=Scruffy Fix the Terlet.png
-| name=Fix the Terlet
-| quote=Getting under the hood of the porcelain bus...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=
+| image=Slurms Give Away Slurm.png
+| name=Give Away Slurm
+| quote=Providing refreshments...
+| time=5h 0m 0s
+| currency=110
+| xp=73
+| requirements_level=1
 | requirements_character=
-| requirements_building=Planet Express Building
-| animated=
+| requirements_building=
+| animated=yes
 }}
 {{Action
-| image=Scruffy Mop for Free.png
-| name=Mop for Free
-| quote=Cleaning up pro bono...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=5
-| requirements_character=
-| requirements_building=Guadalajara Brown Drip Gourmet Coffee
-| animated=
-}}
-<!-- This action doesn't seem to exist anymore.
-{{Action
-| image=Scruffy Take Robots for a Spin on His Moustache.png
-| name=Take Robots for a Spin on His Moustache
-| quote=
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=
-| requirements_character=
-| requirements_building=Electric Ladyland
-| animated=
-}} -->
-{{Action
-| image=Scruffy Clean Sticky Floors.png
-| name=Clean the Sticky Floors
-| quote=Mopping up...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=
-| requirements_character=
-| requirements_building=Electric Ladyland
-| animated=
-}}
-{{Action
-| image=Scruffy Admire the Showroom.png
-| name=Admire the Showroom
-| quote=Giving a custodial inspection...
-| time=8h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=
+| image=Malfunctioning Eddie's Rocket Car Emporium.png
+| name=Order a Party Bus
+| quote=Getting the show on the road...
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=4
 | requirements_character=
 | requirements_building=Malfunctioning Eddie's Rocket Car Emporium
 | animated=
 }}
 {{Action
-| image=Scruffy Be the Strong Silent Type.png
-| name=Be the Strong Silent Type
-| quote=Cleaning up yer act...
-| time=8h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=
+| image=Panucci's Pizza.png
+| name=Refuel
+| quote=Rechargin' his battery...
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=10
 | requirements_character=
-| requirements_building=City Tower
+| requirements_building=Panucci's Pizza
 | animated=
 }}
 {{Action
-| image=Scruffy Dance with Plunger.png
-| name=Dance with Plunger
-| quote=Taking the plunge...
-| time=8h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=
+| image=Avenue Hotel.png
+| name=Host an After Party
+| quote=Greeting all the guests...
+| time=7h 0m 0s
+| currency=140
+| xp=93
+| requirements_level=8
 | requirements_character=
-| requirements_building=
-| animated=yes
-}}
-{{Action
-| image=Scruffy Look at New Used Hats.png
-| name=Look at New Used Hats
-| quote=Heading for cover...
-| time=8h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=7
-| requirements_character=
-| requirements_building=Rook Takes Pawnshop
+| requirements_building=Avenue Hotel
 | animated=
 }}
 {{Action
-| image=Scruffy Ponder Existence.png
-| name=Ponder Existence
-| quote=Thinking big...
+| image=NNYPD Precinct.png
+| name=Report a Party Foul
+| quote=Filling out paperwork...
 | time=8h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=7
+| currency=155
+| xp=105
+| requirements_level=13
 | requirements_character=
-| requirements_building=O'Zorgnax's Pub
+| requirements_building=NNYPD Precinct
 | animated=
 }}
 {{Action
-| image=Rook Takes Pawnshop.png
-| name=Squint His Eyes
-| quote=Narrowing his gaze...
-| time=10h 0m 0s
-| currency=180
-| xp=119
-| requirements_level=
+| image=Building Electric Ladyland.png
+| name=Rock On
+| quote=Being' a party worm...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=6
 | requirements_character=
-| requirements_building=Rook Takes Pawnshop
+| requirements_building=Electric Ladyland
 | animated=
 }}
 |}
 {{Section Top|Actions}}
+
 {{Outfit Gallery}}
