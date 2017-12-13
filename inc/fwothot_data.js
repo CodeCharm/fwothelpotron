@@ -1098,6 +1098,23 @@
                 ]
             ],
         '66' : [ "Robot Devil",                null,                 5, 0, 2, 
+                [
+                    { "n":"Oversee Debauchery",                         "d":"P0T01:00:00",  "c":35,   "x":23,   "l":5,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Dance with Himself",                         "d":"P0T02:00:00",  "c":65,   "x":40,   "l":6     },
+                    { "n":"Unleash His Wrath",                          "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "b":"Avenue Hotel"                                },
+                    { "n":"Admire Stolen Goods",                        "d":"P0T03:00:00",  "c":80,   "x":54,   "l":8,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Wave His Pitchfork",                         "d":"P0T04:00:00",  "c":95,   "x":60,   "l":10,   "b":"City Tower"                                  },
+                    { "n":"Enforce a Deal",                             "d":"P0T04:00:00",  "c":200,  "x":125,  "l":4,    "h":"Fry"                                         },
+                    { "n":"Recruit Some Followers",                     "d":"P0T06:00:00",  "c":125,  "x":85,   "l":4,    "b":"7^11"                                        },
+                    { "n":"Create Temptations",                         "d":"P0T07:00:00",  "c":140,  "x":93,   "l":9,    "b":"Electric Ladyland"                           },
+                    { "n":"Soul Search",                                "d":"P0T08:00:00",  "c":155,  "x":105,  "l":2     },
+                    { "n":"Spread Greed",                               "d":"P0T09:00:00",  "c":170,  "x":112,  "l":8,    "b":"Modest Business Building"                    },
+                    { "n":"Gather Some Signatures",                     "d":"P0T10:00:00",  "c":180,  "x":119,  "l":6,    "b":"Planet Express Building"                     },
+                    { "n":"Make Offers",                                "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "b":"Robot Arms Apts."                            },
+                    { "n":"Encourage Misconduct",                       "d":"P0T18:00:00",  "c":265,  "x":176,  "l":14,   "b":"NNYPD Precinct"                              },
+                    { "n":"Enable Gluttony",                            "d":"P0T20:00:00",  "c":265,  "x":176,  "l":12,   "b":"Cavern on the Green"                         },
+                    { "n":"Purchase a Red Car",                         "d":"P1T00:00:00",  "c":300,  "x":195,  "l":10,   "b":"Malfunctioning Eddie's Rocket Car Emporium"  }
+                ]
             ],
         '67' : [ "Robot Gypsy",                null,                 4, 0, 2, 
             ],
