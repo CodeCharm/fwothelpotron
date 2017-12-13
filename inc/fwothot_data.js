@@ -904,7 +904,22 @@
                 ]
             ],
         '55' : [ "Leg Mutant",                 null,                 3, 0, 0, 
-            ],
+                [
+                    { "n":"Hackey Sack",                                "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1     },
+                    { "n":"Put His Best Foot Forward",                  "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Step in Gum",                                "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Trim the Leg Hair",                          "d":"P0T02:00:00",  "c":135,  "x":85,   "l":1,    "h":"Amy"                                         },
+                    { "n":"Buy Athlete's Foot Cream",                   "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"7^11"                                        },
+                    { "n":"Do Leg Day",                                 "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"NNY Dumbell Club Gym"                        },
+                    { "n":"Drag His Foot",                              "d":"P0T04:00:00",  "c":95,   "x":60,   "l":20,   "b":"Central Bureaucracy"                         },
+                    { "n":"Show a Little Leg",                          "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Electric Ladyland"                           },
+                    { "n":"Apply for Bellhop Position",                 "d":"P0T08:00:00",  "c":155,  "x":105,  "l":17,   "b":"Avenue Hotel"                                },
+                    { "n":"Get a Pedicure",                             "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "b":"Modest Business Building"                    },
+                    { "n":"Hop with Rabbits",                           "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "b":"Animal Clinic"                               },
+                    { "n":"Provide Toe Prints",                         "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "b":"NNYPD Precinct"                              },
+                    { "n":"Shop for Toe Ring",                          "d":"P0T08:00:00",  "c":155,  "x":105,  "l":21,   "b":"Diamonds are Forever"                        }
+                ]
+           ],
         '56' : [ "Lrrr",                       null,                 0, 0, 2, 
             ],
         '57' : [ "Malfunctioning Eddie",       null,                 3, 0, 0, 

@@ -1,201 +1,153 @@
 ==Actions==
-<!--[[/Event Actions | Event Actions]]-->
 {{Table Header Action}}
 {{Action
-| event=
-| image=O'Zorgnax's Pub.png
-| name=Fix a Wardrobe Malfunction
-| quote=
+| image=Leg Mutant Hackey Sack.png
+| name=Hackey Sack
+| quote=Kicking it old school...
 | time=1h 0m 0s
 | currency=35
 | xp=23
-| requirements_level=5
+| requirements_level=
 | requirements_character=
-| requirements_building=O'Zorgnax's Pub
-| animated=
+| requirements_building=
+| animated=yes
 }}
 {{Action
-| event=
-| image=Robot Leela Do the Robot.png
-| name=Do the Robot
-| quote=
+| image=Leg Mutant Put His Best Foot Forward.png
+| name=Put His Best Foot Forward
+| quote=Stepping out...
 | time=2h 0m 0s
 | currency=65
 | xp=40
-| requirements_level=3
-| requirements_character=
-| requirements_building=
-| animated=yes
-}}
-{{Action
-| event=
-| image=Rook Takes Pawnshop.png
-| name=Shop for Spare Parts
-| quote=
-| time=3h 0m 0s
-| currency=80
-| xp=54
-| requirements_level=8
-| requirements_character=
-| requirements_building=Rook Takes Pawnshop
-| animated=
-}}
-{{Action
-| event=
-| image=Robot Leela Look for Signal.png
-| name=Look for Signal
-| quote=
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=1
-| requirements_character=
-| requirements_building=
-| animated=yes
-}}
-{{Action
-| event=
-| image=7^11.png
-| name=Buy Hex Nuts
-| quote=
-| time=6h 0m 0s
-| currency=125
-| xp=85
-| requirements_level=1
-| requirements_character=
-| requirements_building=7^11
-| animated=
-}}
-{{Action
-| event=
-| image=Electric Ladyland.png
-| name=Pretend to Enjoy Herself
-| quote=
-| time=7h 0m 0s
-| currency=140
-| xp=93
-| requirements_level=9
-| requirements_character=
-| requirements_building=Electric Ladyland
-| animated=
-}}
-{{Action
-| event=
-| image=Robot Leela Drink a Robot Cocktail.png
-| name=Drink a Robot Cocktail
-| quote=
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=2
-| requirements_character=
-| requirements_building=
-| animated=yes
-}}
-{{Action
-| event=
-| image=Planet Express Building.png
-| name=Perform Rapid Calculations
-| quote=
-| time=10h 0m 0s
-| currency=180
-| xp=119
-| requirements_level=6
+| requirements_level=
 | requirements_character=
 | requirements_building=Planet Express Building
 | animated=
 }}
 {{Action
-| event=
-| image=Robot Arms Apts.png
-| name=Ask for an Application
-| quote=
-| time=12h 0m 0s
-| currency=200
-| xp=130
-| requirements_level=7
+| image=Leg Mutant Step in Gum.png
+| name=Step in Gum
+| quote=Putting his foot in it...
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=
 | requirements_character=
-| requirements_building=Robot Arms Apts.
+| requirements_building=
+| animated=yes
+}}
+{{Action
+| image=Leg Mutant Trim the Leg Hair.png
+| name=Trim the Leg Hair
+| quote=Waxing nostalgic...
+| time=2h 0m 0s
+| currency=135
+| xp=85
+| requirements_level=
+| requirements_character=Amy
+| requirements_building=
+| animated=yes
+}}
+{{Action
+| image=Leg Mutant Buy Athlete's Foot Cream.png
+| name=Buy Athlete's Foot Cream
+| quote=Soothing the itch...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=
+| requirements_building=7^11
+}}
+{{Action
+| image=Leg Mutant Do Leg day.png
+| name=Do Leg Day
+| quote=Working those quads...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=
+| requirements_character=
+| requirements_building=NNY Dumbell Club Gym
 | animated=
 }}
 {{Action
-| event=
-| image=City Tower.png
-| name=Sound Robotic
-| quote=
-| time=14h 0m 0s
-| currency=215
-| xp=143
-| requirements_level=16
+| image=Leg Mutant Drag His Foot.png
+| name=Drag His Foot
+| quote=Discovering his Achilles Heel...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=20
+| requirements_building=Central Bureaucracy
+}}
+{{Action
+| image=Leg Mutant Show a Little Leg.png
+| name=Show a Little Leg
+| quote=Working his calves...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=
 | requirements_character=
-| requirements_building=City Tower
+| requirements_building=Electric Ladyland
 | animated=
 }}
 {{Action
-| event=
-| image=Avenue Hotel.png
-| name=Protest for Robots' Rights
-| quote=
-| time=16h 0m 0s
-| currency=230
-| xp=150
-| requirements_level=18
-| requirements_character=
+| image=Leg Mutant Apply for Bellhop Position.png
+| name=Apply for Bellhop Position
+| quote=Making accomodations... <!-- spelled with a single 'm' in the game text -->
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=17
 | requirements_building=Avenue Hotel
+}}
+{{Action
+| image=Leg Mutant Get a Pedicure.png
+| name=Get a Pedicure
+| quote=Pumicing off callouses...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=
+| requirements_character=
+| requirements_building=Modest Business Building
 | animated=
 }}
 {{Action
-| event=
-| image=NNYPD Precinct.png
-| name=Act Natural
-| quote=
-| time=18h 0m 0s
-| currency=250
-| xp=164
-| requirements_level=14
+| image=Leg Mutant Hop with Rabbits.png
+| name=Hop with Rabbits
+| quote=Doing the bunny hop...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=
+| requirements_character=
+| requirements_building=Animal Clinic
+| animated=
+}}
+{{Action
+| image=Leg Mutant Provide Toe Prints.png
+| name=Provide Toe Prints
+| quote=Turning on his heel...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=
 | requirements_character=
 | requirements_building=NNYPD Precinct
 | animated=
 }}
 {{Action
-| event=
-| image=Cavern on the Green.png
-| name=Order the Laser Supper
-| quote=
-| time=20h 0m 0s
-| currency=265
-| xp=176
-| requirements_level=12
-| requirements_character=
-| requirements_building=Cavern on the Green
-| animated=
-}}
-{{Action
-| event=
-| image=Malfunctioning Eddie's Rocket Car Emporium.png
-| name=Ask for the Robot Discount
-| quote=
-| time=1d 0h 0m 0s
-| currency=300
-| xp=195
-| requirements_level=10
-| requirements_character=
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
-| animated=
-}}
-{{Action
-| event=
-| image=Diamonds are Forever.png
-| name=Stare Blankly
-| quote=
-| time=??h 0m 0s
-| currency=?
-| xp=?
-| requirements_level=20
-| requirements_character=
+| image=Leg Mutant Shop for Toe Ring.png
+| name=Shop for Toe Ring
+| quote=Blinging out his big toe...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=21
 | requirements_building=Diamonds are Forever
-| animated=
 }}
 |}
 {{Section Top|Actions}}
-{{Nav Character}}
+{{Outfit Gallery}}
