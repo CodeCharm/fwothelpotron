@@ -830,6 +830,20 @@
                 ]
             ],
         '50' : [ "LaBarbara",                  null,                 4, 0, 1, 
+                [
+                    { "n":"Skate Around Town",                          "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Shop for a Family Vehicle",                  "d":"P0T03:00:00",  "c":80,   "x":54,   "l":8,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Eat a Manwich",                              "d":"P0T04:00:00",  "c":200,  "x":125,  "l":1,    "h":"Hermes"                                      },
+                    { "n":"Call Barbados Slim",                         "d":"P0T04:00:00",  "c":95,   "x":60,   "l":4     },
+                    { "n":"Get Silly Drunk",                            "d":"P0T05:00:00",  "c":110,  "x":73,   "l":5,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Shake Her Batty",                            "d":"P0T06:00:00",  "c":125,  "x":85,   "l":5     },
+                    { "n":"Grab Dinner for Dwight",                     "d":"P0T08:00:00",  "c":155,  "x":105,  "l":9     },
+                    { "n":"Microwave a Manwich",                        "d":"P0T10:00:00",  "c":180,  "x":119,  "l":2     },
+                    { "n":"Complain About Potholes",                    "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7     },
+                    { "n":"Enjoy Last Hour's Art",                      "d":"P0T16:00:00",  "c":230,  "x":150,  "l":6     },
+                    { "n":"Window Shop for New Ring",                   "d":"P0T18:00:00",  "c":250,  "x":164,  "l":12    },
+                    { "n":"Tone Her Limbs",                             "d":"P1T00:00:00",  "c":300,  "x":195,  "l":3,    "b":"NNY Dumbell Club Gym"                        }
+                ]
             ],
         '51' : [ "Leela",                      null,                 0, 0, 2, 
             ],

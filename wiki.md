@@ -1,153 +1,165 @@
 ==Actions==
+<!--[[/Event Actions | Event Actions]]-->
 {{Table Header Action}}
 {{Action
-| image=CBKif Ride Betsy.png
-| name=Ride Betsy
-| quote=Giddying up...
-| time=1h 0m 0s
-| currency=35
-| xp=23
-| requirements_level=1
-| requirements_building=Buggalo Ranch
+| event=
+| image=LaBarbara Skate Around Town.png
+| name=Skate Around Town
+| quote=Putting roller derby skills to good use...
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=
+| requirements_character=
+| requirements_building=
 | animated=yes
 }}
 {{Action
-| image=CBKif Choke on Chewing Tobacco.png
-| name=Choke on Chewing Tobacco
-| quote=Coughing up a wad...
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=2
-| requirements_building=7^11
-}}
-{{Action
-| image=CBKif Do Lasso Tricks.png
-| name=Do Lasso Tricks
-| quote=Taking it for a spin...
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=3
-| animated=yes
-}}
-{{Action
-| image=CBKif Ride Mechanical Bull.png
-| name=Ride Mechanical Bull
-| quote=Bucking the trend...
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=4
-| requirements_building=Robot Arms Apts.
-}}
-{{Action
-| image=CBKif Get Lasso Stuck in Revolving Doors.png
-| name=Get Lasso Stuck in Revolving Doors
-| quote=Going 'round and 'round...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=17
-| requirements_building=Skyscraper Center
-}}
-{{Action
-| image=CBKif Order Sarsaparilla.png
-| name=Order Sarsaparilla
-| quote=Hitting the hard stuff...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=6
-| requirements_building=O'Zorgnax's Pub
-}}
-{{Action
-| image=CBKif Sigh with an Accent.png
-| name=Sigh with an Accent
-| quote=Exhausting the exhale...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=12
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
-}}
-{{Action
-| image=CBKif Try Not to Cough.png
-| name=Try Not to Cough
-| quote=Holding back the hack...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=5
-| requirements_building=Hacking Jack's Fine Smokables
-}}
-{{Action
-| image=CBKif Demand BBQ Chicken Pizza.png
-| name=Demand BBQ Chicken Pizza
-| quote=Disgusting traditionalists...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=7
-| requirements_building=Family Brothers Pizza
-}}
-{{Action
-| image=CBKif Do the Achy Breaky Heart.png
-| name=Do the Achy Breaky Heart
-| quote=Dancing with the scars...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=15
-| requirements_building=Avenue Hotel
-}}
-{{Action
-| image=CBKif Lasso Some Drunks.png
-| name=Lasso Some Drunks
-| quote=Roping the dopes...
-| time=8h 0m 0s
-| currency=155
-| xp=105
+| event=
+| image=Malfunctioning_Eddie's_Rocket_Car_Emporium.png
+| name=Shop for a Family Vehicle
+| quote=???
+| time=3h 0m 0s
+| currency=80
+| xp=54
 | requirements_level=8
-| requirements_building=Planet Express Building
+| requirements_character=
+| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
+| animated=
 }}
 {{Action
-| image=CBKif Rescue Damsel in Distress.png
-| name=Rescue Damsel in Distress
-| quote=Recovering the lost data.. <!-- only two periods in-game -->
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=11
-| requirements_building=Electric Ladyland
+| event=
+| image=LaBarbara Eat a Manwich.png
+| name=Eat a Manwich
+| quote=???
+| time=4h 0m 0s
+| currency=200
+| xp=125
+| requirements_level=
+| requirements_character=Hermes
+| requirements_building=
+| animated=yes
 }}
 {{Action
-| image=CBKif Rustle Up Some Grub.png
-| name=Rustle Up Some Grub
-| quote=Chowing down with pinkies up...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=13
-| requirements_building=Cavern on the Green
+| event=
+| image=LaBarbara Call Barbados Slim.png
+| name=Call Barbados Slim
+| quote=Rekindling an old flame...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=4
+| requirements_character=
+| requirements_building=
+| animated=
 }}
 {{Action
-| image=CBKif Show Up at High Noon.png
-| name=Show Up at High Noon
-| quote=Being poetically punctual...
+| event=
+| image=O'Zorgnax's Pub.png
+| name=Get Silly Drunk
+| quote=???
+| time=5h 0m 0s
+| currency=110
+| xp=73
+| requirements_level=5
+| requirements_character=
+| requirements_building=O'Zorgnax's Pub
+| animated=
+}}
+{{Action
+| event=
+| image=LaBarbara Shake Her Batty.png
+| name=Shake Her Batty
+| quote=???
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=5
+| requirements_character=
+| requirements_building=
+| animated=
+}}
+{{Action
+| event=
+| image=LaBarbara Grab Dinner for Dwight.png
+| name=Grab Dinner for Dwight
+| quote=Feeding the family...
 | time=8h 0m 0s
 | currency=155
 | xp=105
 | requirements_level=9
-| requirements_building=Satellite Building
+| requirements_character=
+| requirements_building=
+| animated=
+}}
+{{Action
+| event=
+| image=Manwich.png
+| name=Microwave a Manwich
+| quote=???
+| time=10h 0m 0s
+| currency=180
+| xp=119
+| requirements_level=2
+| requirements_character=
+| requirements_building=
+| animated=
+}}
+{{Action
+| event=
+| image=LaBarbara Complain About Potholes.png
+| name=Complain About Potholes
+| quote=???
+| time=12h 0m 0s
+| currency=200
+| xp=130
+| requirements_level=7
+| requirements_character=
+| requirements_building=
+| animated=
+}}
+{{Action
+| event=
+| image=LaBarbara Enjoy Last Hour's Art.png
+| name=Enjoy Last Hour's Art
+| quote=???
+| time=16h 0m 0s
+| currency=230
+| xp=150
+| requirements_level=6
+| requirements_character=
+| requirements_building=
+| animated=
+}}
+{{Action
+| event=
+| image=LaBarbara Window Shop for New Ring.png
+| name=Window Shop for New Ring
+| quote=Looking to put a thing on it...
+| time=18h 0m 0s
+| currency=250
+| xp=164
+| requirements_level=12
+| requirements_character=
+| requirements_building=
+| animated=
+}}
+{{Action
+| event=
+| image=NNY Dumbell Club Gym.png
+| name=Tone Her Limbs
+| quote=???
+| time=1d 0h 0m 0s
+| currency=300
+| xp=195
+| requirements_level=3
+| requirements_character=
+| requirements_building=NNY Dumbell Club Gym
+| animated=
 }}
 |}
 {{Section Top|Actions}}
-{|style="width:50%; text-align:center; margin: auto;"
-|-
-|[[File:Kif Cowboy idle.png|100px]]<br/>Idle
-|[[File:Kif Cowboy action.png|100px]]<br/>Attack
-|[[File:Kif Cowboy yay.png|100px]]<br/>Yay!
-|}
+
+{{Outfit Gallery}}
 
 {{Nav Character}}
