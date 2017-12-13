@@ -167,12 +167,11 @@ function drawCharTable() {
                 var isGroup = chr_own_prv == work_data[value][0];
 
                 chr_own_txt += isGroup ? '' : (index == 0) ? '<div class="tbl_b">' : '</div><div class="tbl_b">';
-                chr_own_txt += '<div class="tbl_r"><div class="tbl_c">' + work_data[value][0] + (work_data[value][1] ? ' - ' + work_data[value][1] : '') + '</div><div class="tbl_c"><div title="' + game_data['chr_cls'][work_data[value][2]][0] + '" class="class_icon table_class table_class_' + work_data[value][2] + '"></div></div><div class="tbl_c level_char" data-id="' + value + '"><span>' + work_data[value][3] + '</span><div class="level_control"></div></div><div class="tbl_c">' + game_data['chr_atk'][work_data[value][4]] + '</div></div>';
+                chr_own_txt += '<div class="tbl_r"><div class="tbl_c">' + work_data[value][0] + (work_data[value][1] ? ' - ' + work_data[value][1] : '') + '</div><div class="tbl_c"><div title="' + game_data['chr_cls'][work_data[value][2]][0] + '" class="class_icon table_class table_class_' + work_data[value][2] + '"></div></div><div class="tbl_c level_char" data-id="' + value + '"><span>' + work_data[value][3] + '</span><div class="level_control"></div></div><div class="tbl_c">' + game_data['chr_atk'][work_data[value][4]] + '</div><div class="tbl_c"></div></div>';
 
                 chr_own_prv = work_data[value][0];
 
                 var chr_act = work_data[value][5];
-
                 if (chr_act && chr_act.length > 0) {
                     chr_own_txt += '<div class="tbl_a">';
                     var maxYield = 0;
@@ -188,12 +187,12 @@ function drawCharTable() {
                         var m = dur.getMinutes();
                         var s = dur.getSeconds();
                         var dur_abbr = '';
-                        if (d > 0) {dur_abbr = d + 'd';}
-                        if (h) {dur_abbr += h + 'h';}
-                        if (m) {dur_abbr += m + 'm';}
+                        if (d > 0) { dur_abbr = d + 'd'; }
+                        if (h) { dur_abbr += h + 'h'; }
+                        if (m) { dur_abbr += m + 'm'; }
                         if (s) { dur_abbr += s + 's'; }
                         var tot_s = d * 86400 + h * 3600 + m * 60 + s;
-                        var yld_hr = value.c / (tot_s / 3600); 
+                        var yld_hr = value.c / (tot_s / 3600);
                         if (value.h) { yld_hr = yld_hr / 2; }
                         value.yield = yld_hr;
                         value.duration = dur_abbr;
@@ -203,7 +202,7 @@ function drawCharTable() {
                         value.dur_4h = tot_s >= 14400 && tot_s <= 28800;
                         value.dur_8h = tot_s >= 28800;
                         value.overLevel = value.l > chr_lvl;
-                        if (!value.overLevel) {maxYield = Math.max(maxYield, yld_hr);}
+                        if (!value.overLevel) { maxYield = Math.max(maxYield, yld_hr); }
                     });
                     $.each(chr_act, function (index, value) {
                         var highlightClass = '';
@@ -219,6 +218,10 @@ function drawCharTable() {
                         chr_own_txt += '<div class="tbl_r1' + highlightClass + '"><div class="tbl_c">' + value.n + '</div><div class="tbl_c">' + value.duration + '</div><div class="tbl_c">&curren; ' + value.c + '</div><div class="tbl_c">' + value.yield.toFixed(2) + '</div><div class="tbl_c">L ' + value.l + '</div></div>';
                         if (!value.overLevel && (value.b || value.h)) {
                             chr_own_txt += '<div class="tbl_r2' + highlightClass + '"><div class="tbl_c">' + (value.b ? ('Required building: ' + value.b) : ('Required character: ' + value.h)) + '</div></div>';
+                        }
+                    });
+                    chr_own_txt += '</div>';
+                } 
             }
         });
     } else {
@@ -233,8 +236,7 @@ function drawCharTable() {
         var chr_rst_prv = null,
             chr_rst_txt = '';
 
-        $.each( game_data['chr_ord'], function( index, value ) {
-
+        $.each(game_data['chr_ord'], function (index, value) {
             if (user_data['chr_rst'].indexOf(value) != -1) {
                 var isGroup = chr_rst_prv == work_data[value][0];
 
