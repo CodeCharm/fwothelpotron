@@ -990,6 +990,23 @@
                 ]
             ],
         '59' : [ "Neil deGrasse Tyson",        null,                 1, 0, 0, 
+                [
+                    { "n":"Rail Against Science Deniers",               "d":"P0T01:00:00",  "c":35,   "x":23,   "l":1,    "b":"7^11"                                        },
+                    { "n":"Declare Ignorance a Crime",                  "d":"P0T02:00:00",  "c":65,   "x":40,   "l":12,   "b":"NNYPD Precinct"                              },
+                    { "n":"Go For a Loop",                              "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Do Astronomy",                               "d":"P0T03:00:00",  "c":80,   "x":54,   "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Hold a Star Party",                          "d":"P0T04:00:00",  "c":95,   "x":60,   "l":11,   "b":"New New York Plaza"                          },
+                    { "n":"Looking for a Starship",                     "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Pour Alcohol in His Jar",                    "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Observe the Universe",                       "d":"P0T04:00:00",  "c":95,   "x":60,   "l":1     },
+                    { "n":"Scoff at the Merchandise",                   "d":"P0T04:00:00",  "c":95,   "x":60,   "l":14,   "b":"Diamonds are Forever"                        },
+                    { "n":"Enjoy the View",                             "d":"P0T06:00:00",  "c":125,  "x":85,   "l":1,    "b":"Cavern on the Green"                         },
+                    { "n":"Hang Out on the Roof",                       "d":"P0T06:00:00",  "c":155,  "x":105,  "l":1,    "b":"Robot Arms Apts."                            },
+                    { "n":"Look for Human Food",                        "d":"P0T06:00:00",  "c":125,  "x":85,   "l":15,   "b":"Fishy Joe's"                                 },
+                    { "n":"Apply for His Astronomer's License",         "d":"P0T08:00:00",  "c":155,  "x":105,  "l":13,   "b":"Central Bureaucracy"                         },
+                    { "n":"Explain Complicated Theorem",                "d":"P0T08:00:00",  "c":155,  "x":105,  "l":1,    "b":"Planet Express Building"                     },
+                    { "n":"Shop for Old Telescopes",                    "d":"P0T08:00:00",  "c":125,  "x":85,   "l":1,    "b":"Rook Takes Pawnshop"                         }
+                ]
             ],
         '60' : [ "Nixon & Agnew",              null,                 0, 0, 2, 
             ],
