@@ -3,64 +3,12 @@
 {{Table Header Action}}
 {{Action
 | event=
-| image=LaBarbara Skate Around Town.png
-| name=Skate Around Town
-| quote=Putting roller derby skills to good use...
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=
-| requirements_character=
-| requirements_building=
-| animated=yes
-}}
-{{Action
-| event=
-| image=Malfunctioning_Eddie's_Rocket_Car_Emporium.png
-| name=Shop for a Family Vehicle
-| quote=???
-| time=3h 0m 0s
-| currency=80
-| xp=54
-| requirements_level=8
-| requirements_character=
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
-| animated=
-}}
-{{Action
-| event=
-| image=LaBarbara Eat a Manwich.png
-| name=Eat a Manwich
-| quote=???
-| time=4h 0m 0s
-| currency=200
-| xp=125
-| requirements_level=
-| requirements_character=Hermes
-| requirements_building=
-| animated=yes
-}}
-{{Action
-| event=
-| image=LaBarbara Call Barbados Slim.png
-| name=Call Barbados Slim
-| quote=Rekindling an old flame...
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=4
-| requirements_character=
-| requirements_building=
-| animated=
-}}
-{{Action
-| event=
 | image=O'Zorgnax's Pub.png
-| name=Get Silly Drunk
-| quote=???
-| time=5h 0m 0s
-| currency=110
-| xp=73
+| name=Fix a Wardrobe Malfunction
+| quote=
+| time=1h 0m 0s
+| currency=35
+| xp=23
 | requirements_level=5
 | requirements_character=
 | requirements_building=O'Zorgnax's Pub
@@ -68,98 +16,186 @@
 }}
 {{Action
 | event=
-| image=LaBarbara Shake Her Batty.png
-| name=Shake Her Batty
-| quote=???
+| image=Robot Leela Do the Robot.png
+| name=Do the Robot
+| quote=
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=3
+| requirements_character=
+| requirements_building=
+| animated=yes
+}}
+{{Action
+| event=
+| image=Rook Takes Pawnshop.png
+| name=Shop for Spare Parts
+| quote=
+| time=3h 0m 0s
+| currency=80
+| xp=54
+| requirements_level=8
+| requirements_character=
+| requirements_building=Rook Takes Pawnshop
+| animated=
+}}
+{{Action
+| event=
+| image=Robot Leela Look for Signal.png
+| name=Look for Signal
+| quote=
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=1
+| requirements_character=
+| requirements_building=
+| animated=yes
+}}
+{{Action
+| event=
+| image=7^11.png
+| name=Buy Hex Nuts
+| quote=
 | time=6h 0m 0s
 | currency=125
 | xp=85
-| requirements_level=5
+| requirements_level=1
 | requirements_character=
-| requirements_building=
+| requirements_building=7^11
 | animated=
 }}
 {{Action
 | event=
-| image=LaBarbara Grab Dinner for Dwight.png
-| name=Grab Dinner for Dwight
-| quote=Feeding the family...
+| image=Electric Ladyland.png
+| name=Pretend to Enjoy Herself
+| quote=
+| time=7h 0m 0s
+| currency=140
+| xp=93
+| requirements_level=9
+| requirements_character=
+| requirements_building=Electric Ladyland
+| animated=
+}}
+{{Action
+| event=
+| image=Robot Leela Drink a Robot Cocktail.png
+| name=Drink a Robot Cocktail
+| quote=
 | time=8h 0m 0s
 | currency=155
 | xp=105
-| requirements_level=9
-| requirements_character=
-| requirements_building=
-| animated=
-}}
-{{Action
-| event=
-| image=Manwich.png
-| name=Microwave a Manwich
-| quote=???
-| time=10h 0m 0s
-| currency=180
-| xp=119
 | requirements_level=2
 | requirements_character=
 | requirements_building=
+| animated=yes
+}}
+{{Action
+| event=
+| image=Planet Express Building.png
+| name=Perform Rapid Calculations
+| quote=
+| time=10h 0m 0s
+| currency=180
+| xp=119
+| requirements_level=6
+| requirements_character=
+| requirements_building=Planet Express Building
 | animated=
 }}
 {{Action
 | event=
-| image=LaBarbara Complain About Potholes.png
-| name=Complain About Potholes
-| quote=???
+| image=Robot Arms Apts.png
+| name=Ask for an Application
+| quote=
 | time=12h 0m 0s
 | currency=200
 | xp=130
 | requirements_level=7
 | requirements_character=
-| requirements_building=
+| requirements_building=Robot Arms Apts.
 | animated=
 }}
 {{Action
 | event=
-| image=LaBarbara Enjoy Last Hour's Art.png
-| name=Enjoy Last Hour's Art
-| quote=???
+| image=City Tower.png
+| name=Sound Robotic
+| quote=
+| time=14h 0m 0s
+| currency=215
+| xp=143
+| requirements_level=16
+| requirements_character=
+| requirements_building=City Tower
+| animated=
+}}
+{{Action
+| event=
+| image=Avenue Hotel.png
+| name=Protest for Robots' Rights
+| quote=
 | time=16h 0m 0s
 | currency=230
 | xp=150
-| requirements_level=6
+| requirements_level=18
 | requirements_character=
-| requirements_building=
+| requirements_building=Avenue Hotel
 | animated=
 }}
 {{Action
 | event=
-| image=LaBarbara Window Shop for New Ring.png
-| name=Window Shop for New Ring
-| quote=Looking to put a thing on it...
+| image=NNYPD Precinct.png
+| name=Act Natural
+| quote=
 | time=18h 0m 0s
 | currency=250
 | xp=164
-| requirements_level=12
+| requirements_level=14
 | requirements_character=
-| requirements_building=
+| requirements_building=NNYPD Precinct
 | animated=
 }}
 {{Action
 | event=
-| image=NNY Dumbell Club Gym.png
-| name=Tone Her Limbs
-| quote=???
+| image=Cavern on the Green.png
+| name=Order the Laser Supper
+| quote=
+| time=20h 0m 0s
+| currency=265
+| xp=176
+| requirements_level=12
+| requirements_character=
+| requirements_building=Cavern on the Green
+| animated=
+}}
+{{Action
+| event=
+| image=Malfunctioning Eddie's Rocket Car Emporium.png
+| name=Ask for the Robot Discount
+| quote=
 | time=1d 0h 0m 0s
 | currency=300
 | xp=195
-| requirements_level=3
+| requirements_level=10
 | requirements_character=
-| requirements_building=NNY Dumbell Club Gym
+| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
+| animated=
+}}
+{{Action
+| event=
+| image=Diamonds are Forever.png
+| name=Stare Blankly
+| quote=
+| time=??h 0m 0s
+| currency=?
+| xp=?
+| requirements_level=20
+| requirements_character=
+| requirements_building=Diamonds are Forever
 | animated=
 }}
 |}
 {{Section Top|Actions}}
-
-{{Outfit Gallery}}
-
 {{Nav Character}}
