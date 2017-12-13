@@ -1,9 +1,9 @@
 ==Actions==
-<!--[[/Event Actions | Event Actions]]-->
 {{Table Header Action}}
 {{Action
+| event=
 | image=O'Zorgnax's Pub.png
-| name=Forbid Alcohol
+| name=Take the Edge Off
 | quote=
 | time=1h 0m 0s
 | currency=35
@@ -11,10 +11,25 @@
 | requirements_level=5
 | requirements_character=
 | requirements_building=O'Zorgnax's Pub
+| animated=
 }}
 {{Action
+| event=
+| image=Roberto Practice His Stabbing.png
+| name=Practice His Stabbing
+| quote=
+| time=2h 0m 0s
+| currency=65
+| xp=40
+| requirements_level=3
+| requirements_character=
+| requirements_building=
+| animated=yes
+}}
+{{Action
+| event=
 | image=Rook Takes Pawnshop.png
-| name=Ask for a Donation
+| name=Rob the Joint
 | quote=
 | time=3h 0m 0s
 | currency=80
@@ -22,22 +37,12 @@
 | requirements_level=8
 | requirements_character=
 | requirements_building=Rook Takes Pawnshop
+| animated=
 }}
 {{Action
-| image=Preacherbot Be Moved by the Spirit.png
-| name=Be Moved by the Spirit
-| quote=
-| time=4h 0m 0s
-| currency=95
-| xp=60
-| requirements_level=1
-| requirements_character=
-| requirements_building=
-| animated=yes
-}}
-{{Action
+| event=
 | image=7^11.png
-| name=Look for Poor Souls
+| name=Hold Up the Clerk
 | quote=
 | time=6h 0m 0s
 | currency=125
@@ -48,8 +53,9 @@
 | animated=
 }}
 {{Action
+| event=
 | image=Electric Ladyland.png
-| name=Denounce the Harlots
+| name=Threaten the Talent
 | quote=
 | time=7h 0m 0s
 | currency=140
@@ -60,8 +66,9 @@
 | animated=
 }}
 {{Action
-| image=Preacherbot Attempt a Conversion.png
-| name=Attempt a Conversion
+| event=
+| image=Roberto Go Crazy.png
+| name=Go Crazy
 | quote=
 | time=8h 0m 0s
 | currency=155
@@ -72,68 +79,87 @@
 | animated=yes
 }}
 {{Action
-| image=Central Bureaucracy.png
-| name=Register as a Non-Profit
+| event=
+| image=Modest Business Building.png
+| name=Fill Up His Money Bags
 | quote=
-| time=??h 0m 0s
-| currency=??
-| xp=??
-| requirements_level=20
+| time=9h 0m 0s
+| currency=170
+| xp=112
+| requirements_level=4
 | requirements_character=
-| requirements_building=Central Bureaucracy
+| requirements_building=Modest Business Building
 | animated=
 }}
 {{Action
+| event=
+| image=Planet Express Building.png
+| name=Show Off his Knives
+| quote=
+| time=10h 0m 0s
+| currency=180
+| xp=119
+| requirements_level=6
+| requirements_character=
+| requirements_building=Planet Express Building
+| animated=
+}}
+{{Action
+| event=
 | image=Robot Arms Apts.png
-| name=Undertake Missionary Work
+| name=Take Someone's Apartment
 | quote=
 | time=12h 0m 0s
 | currency=200
 | xp=130
-| requirements_level=6
+| requirements_level=7
 | requirements_character=
 | requirements_building=Robot Arms Apts.
 | animated=
 }}
 {{Action
+| event=
 | image=City Tower.png
-| name=Overindulge
+| name=Find the Next Victim
 | quote=
-| time=??h 0m 0s
-| currency=???
-| xp=???
+| time=14h 0m 0s
+| currency=215
+| xp=143
 | requirements_level=16
 | requirements_character=
 | requirements_building=City Tower
 | animated=
 }}
 {{Action
+| event=
 | image=Avenue Hotel.png
-| name=Pull Out His Knife
+| name=Scream and Stab
 | quote=
-| time=?h 0m 0s
-| currency=???
-| xp=???
+| time=16h 0m 0s
+| currency=230
+| xp=150
 | requirements_level=18
 | requirements_character=
 | requirements_building=Avenue Hotel
 | animated=
 }}
 {{Action
+| event=
 | image=NNYPD Precinct.png
-| name=Rehabilitate the Convicts
+| name=Sneak Past the Cops
 | quote=
-| time=?h 0m 0s
-| currency=???
-| xp=???
+| time=18h 0m 0s
+| currency=250
+| xp=164
 | requirements_level=14
 | requirements_character=
 | requirements_building=NNYPD Precinct
 | animated=
 }}
 {{Action
+| event=
 | image=Cavern on the Green.png
-| name=Tip Poorly
+| name=Eat Whatever He Wants
 | quote=
 | time=20h 0m 0s
 | currency=265
@@ -144,8 +170,9 @@
 | animated=
 }}
 {{Action
+| event=
 | image=Malfunctioning Eddie's Rocket Car Emporium.png
-| name=Spend Collection Plate Money
+| name=Get a Free Car
 | quote=
 | time=1d 0h 0m 0s
 | currency=300
@@ -157,5 +184,4 @@
 }}
 |}
 {{Section Top|Actions}}
-
-{{Outfit Gallery}}
+{{Nav Character}}

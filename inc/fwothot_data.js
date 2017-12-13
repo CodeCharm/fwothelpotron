@@ -1080,6 +1080,22 @@
                 ]
             ],
         '65' : [ "Roberto",                    null,                 5, 0, 1, 
+                [
+                    { "n":"Take the Edge Off",                          "d":"P0T01:00:00",  "c":35,   "x":23,   "l":5,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Practice His Stabbing",                      "d":"P0T02:00:00",  "c":65,   "x":40,   "l":3     },
+                    { "n":"Rob the Joint",                              "d":"P0T03:00:00",  "c":80,   "x":54,   "l":8,    "b":"Rook Takes Pawnshop"                         },
+                    { "n":"Hold Up the Clerk",                          "d":"P0T06:00:00",  "c":125,  "x":85,   "l":4,    "b":"7^11"                                        },
+                    { "n":"Threaten the Talent",                        "d":"P0T07:00:00",  "c":140,  "x":93,   "l":9,    "b":"Electric Ladyland"                           },
+                    { "n":"Go Crazy",                                   "d":"P0T08:00:00",  "c":155,  "x":105,  "l":2     },
+                    { "n":"Fill Up His Money Bags",                     "d":"P0T09:00:00",  "c":170,  "x":112,  "l":4,    "b":"Modest Business Building"                    },
+                    { "n":"Show Off his Knives",                        "d":"P0T10:00:00",  "c":180,  "x":119,  "l":6,    "b":"Planet Express Building"                     },
+                    { "n":"Take Someone's Apartment",                   "d":"P0T12:00:00",  "c":200,  "x":130,  "l":7,    "b":"Robot Arms Apts."                            },
+                    { "n":"Find the Next Victim",                       "d":"P0T14:00:00",  "c":215,  "x":143,  "l":16,   "b":"City Tower"                                  },
+                    { "n":"Scream and Stab",                            "d":"P0T16:00:00",  "c":230,  "x":150,  "l":18,   "b":"Avenue Hotel"                                },
+                    { "n":"Sneak Past the Cops",                        "d":"P0T18:00:00",  "c":250,  "x":164,  "l":14,   "b":"NNYPD Precinct"                              },
+                    { "n":"Eat Whatever He Wants",                      "d":"P0T20:00:00",  "c":265,  "x":176,  "l":12,   "b":"Cavern on the Green"                         },
+                    { "n":"Get a Free Car",                             "d":"P1T00:00:00",  "c":300,  "x":195,  "l":10,   "b":"Malfunctioning Eddie's Rocket Car Emporium"  }
+                ]
             ],
         '66' : [ "Robot Devil",                null,                 5, 0, 2, 
             ],
