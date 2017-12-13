@@ -1185,6 +1185,22 @@
                 ]
             ],
         '71' : [ "Stephen Hawking",            null,                 1, 0, 2, 
+                [
+                    { "n":"Buy a Slurpee",                              "d":"P0T01:00:00",  "c":35,   "x":23,   "l":2,    "b":"7^11"                                        },
+                    { "n":"Keep an Eye on the Sky",                     "d":"P0T02:00:00",  "c":65,   "x":40,   "l":1     },
+                    { "n":"Test Out a Hypothesis",                      "d":"P0T03:00:00",  "c":80,   "x":54,   "l":3,    "b":"NNYPD Precinct"                              },
+                    { "n":"Enjoy a Brotherly Slice",                    "d":"P0T04:00:00",  "c":95,   "x":60,   "l":14,   "b":"Family Brothers Pizza"                       },
+                    { "n":"Order the Special",                          "d":"P0T04:00:00",  "c":95,   "x":60,   "l":12,   "b":"Cavern on the Green"                         },
+                    { "n":"Take a Nap",                                 "d":"P0T04:00:00",  "c":95,   "x":60,   "l":7,    "b":"Robot Arms Apts."                            },
+                    { "n":"Explore Wormholes",                          "d":"P0T04:00:00",  "c":95,   "x":60,   "l":5     },
+                    { "n":"Explain Quantum Physics",                    "d":"P0T05:00:00",  "c":110,  "x":73,   "l":4,    "b":"O'Zorgnax's Pub"                             },
+                    { "n":"Propose a New Theory",                       "d":"P0T06:00:00",  "c":125,  "x":85,   "l":8,    "b":"New New York Plaza"                          },
+                    { "n":"Get a Tune-Up",                              "d":"P0T07:00:00",  "c":140,  "x":93,   "l":9,    "b":"Malfunctioning Eddie's Rocket Car Emporium"  },
+                    { "n":"Give a Lecture",                             "d":"P0T08:00:00",  "c":155,  "x":105,  "l":10,   "b":"City Tower"                                  },
+                    { "n":"Outsmart Everyone",                          "d":"P0T08:00:00",  "c":155,  "x":105,  "l":6,    "b":"Planet Express Building"                     },
+                    { "n":"Teach Physics",                              "d":"P0T08:00:00",  "c":155,  "x":105,  "l":11,   "b":"Avenue Hotel"                                },
+                    { "n":"Study the Universe",                         "d":"P0T10:00:00",  "c":180,  "x":119,  "l":13,   "b":"Satellite Building"                          }
+                ]
             ],
         '75' : [ "Tinny Tim",                  null,                 3, 0, 0, 
             ],

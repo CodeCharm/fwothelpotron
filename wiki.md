@@ -1,152 +1,161 @@
 ==Actions==
+<!--[[/Event Actions | Event Actions]]-->
 {{Table Header Action}}
 {{Action
-| image=Smitty Swing Laser Batons.png
-| name=Swing Laser Batons
-| quote=Tripping the light fantastic...
+| character=Stephen Hawking
+| image=Stephen Hawking Buy a Slurpee.png
+| name=Buy a Slurpee
+| quote=Experiencing a brain freeze...
 | time=1h 0m 0s
 | currency=35
 | xp=23
-| requirements_level=
-| requirements_character=
-| requirements_building=
-| animated=yes
-}}
-{{Action
-| image=Smitty Interrogate Suspects.png
-| name=Interrogate Suspects
-| quote=Questioning the cast of characters...
-| time=2h 0m 0s
-| currency=65
-| xp=40
 | requirements_level=2
-| requirements_character=
-| requirements_building=Planet Express Building
-| animated=
+| requirements_building=7^11
 }}
 {{Action
-| image=Smitty Let One Loose.png
-| name=Let One Loose
-| quote=Shooting from the hip...
+| animated=yes
+| character=Stephen Hawking
+| image= Stephen_Hawking_Keep_an_Eye_on_the_Sky.png
+| name=Keep an Eye on the Sky
+| quote=Telescoping things out...
 | time=2h 0m 0s
 | currency=65
 | xp=40
+| requirements_level=1
+}}
+{{Action
+| character=Stephen Hawking
+| image=Stephen Hawking Test Out a Hypothesis.png
+| name=Test Out a Hypothesis
+| quote=Copping a plea...
+| time=3h 0m 0s
+| currency=80
+| xp=54
 | requirements_level=3
-| requirements_character=
-| requirements_building=
-| animated=yes
+| requirements_building=NNYPD Precinct
 }}
 {{Action
-| image=Smitty Run License Plates.png
-| name=Run License Plates
-| quote=Putting a lot on their plates...
-| time=2h 0m 0s
-| currency=65
-| xp=40
-| requirements_level=4
-| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
-}}
-{{Action
-| image=Smitty Eat Donuts.png
-| name=Eat Donuts
-| quote=Reinforcing a stereotype...
-| time=2h 0m 0s
-| currency=135
-| xp=85
-| requirements_level=
-| requirements_character=URL
-| animated=yes
-}}
-{{Action
-| image=Smitty Arrest Drunks.png
-| name=Arrest Drunks
-| quote=Bustin' boozehounds...
+| character=Stephen Hawking
+| image= Stephen_Hawking_Enjoy_a_Brotherly_Slice.png
+| name=Enjoy a Brotherly Slice
+| quote=Yumming down 'za...
 | time=4h 0m 0s
 | currency=95
 | xp=60
-| requirements_level=10
+| requirements_level=14
+| requirements_building=Family Brothers Pizza
+}}
+{{Action
+| character=Stephen Hawking
+| image= Stephen_Hawking_Order_the_Special.png
+| name=Order the Special
+| quote=Dining on brain food... <!-- double check if this only has two periods or three. document had two, but no editor note -->
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=12
 | requirements_building=Cavern on the Green
 }}
 {{Action
-| image=Smitty Stop for Donuts.png
-| name=Stop for Donuts
-| quote=Reinforcing a stereotype...
+| character=Stephen Hawking
+| image= Stephen Hawking Take a Nap.png
+| name=Take a Nap
+| quote=Rolling into dreamland...
+| time=4h 0m 0s
+| currency=95
+| xp=60
+| requirements_level=7
+| requirements_building=Robot Arms Apts.
+}}
+{{Action
+| animated=yes
+| character=Stephen Hawking
+| image=Stephen Hawking Explore Wormholes.png
+| name=Explore Wormholes
+| quote=Going on a space-time tear...
 | time=4h 0m 0s
 | currency=95
 | xp=60
 | requirements_level=5
-| requirements_building=7^11
 }}
 {{Action
-| image=Smitty Turn Off Bodycam.png
-| name=Turn Off Bodycam
-| quote=Going off the record...
-| time=4h 0m 0s
-| currency=95
-| xp=60
+| character=Stephen Hawking
+| image=Stephen Hawking Explain Quantum Physics.png
+| name=Explain Quantum Physics
+| quote=Dumbing it down...
+| time=5h 0m 0s
+| currency=110
+| xp=73
+| requirements_level=4
+| requirements_building=O'Zorgnax's Pub
+}}
+{{Action
+| character=Stephen Hawking
+| image=Stephen Hawking Propose a New Theory.png
+| name=Propose a New Theory
+| quote=Pitching mad science...
+| time=6h 0m 0s
+| currency=125
+| xp=85
+| requirements_level=8
+| requirements_building=New New York Plaza
+}}
+{{Action
+| character=Stephen Hawking
+| image=Stephen Hawking Get a Tune-Up.png
+| name=Get a Tune-Up
+| quote=Popping wheelies...
+| time=7h 0m 0s
+| currency=140
+| xp=93
+| requirements_level=9
+| requirements_building=Malfunctioning Eddie's Rocket Car Emporium
+}}
+{{Action
+| character=Stephen Hawking
+| image=Stephen Hawking Give a Lecture.png
+| name=Give a Lecture
+| quote=Appreciating the gravity of the situation...
+| time=8h 0m 0s
+| currency=155
+| xp=105
+| requirements_level=10
+| requirements_building=City Tower
+}}
+{{Action
+| character=Stephen Hawking
+| image=Stephen Hawking Outsmart Everyone.png
+| name=Outsmart Everyone
+| quote=Overthinking it...
+| time=8h 0m 0s
+| currency=155
+| xp=105
 | requirements_level=6
-| requirements_building=Robot Arms Apts.
+| requirements_building=Planet Express Building
 }}
 {{Action
-| image=Smitty Abuse Authority.png
-| name=Abuse Authority
-| quote=Putting power to misuse...
+| character=Stephen Hawking
+| image=Stephen Hawking Teach Physics.png
+| name=Teach Physics
+| quote=Talking quantum trash...
 | time=8h 0m 0s
 | currency=155
 | xp=105
 | requirements_level=11
-| requirements_building=NNYPD Precinct
+| requirements_building=Avenue Hotel
 }}
 {{Action
-| image=Smitty Bumble Investigation.png
-| name=Bumble Investigation
-| quote=Botching the detectives...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=7
-| requirements_building=Modest Business Building
-}}
-{{Action
-| image=Smitty Guard the Bar.png
-| name="Guard" the Bar
-| quote=Drinking on the job...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=9
-| requirements_building=O'Zorgnax's Pub
-}}
-{{Action
-| image=Smitty Investigate Robot Hooker's Death.png
-| name=Investigate Robot Hooker's Death
-| quote=Looking under the hood...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=8
-| requirements_building=Electric Ladyland
-}}
-{{Action
-| image=Smitty Respond to Silent Alarm.png
-| name=Respond to Silent Alarm
-| quote=Listening for clues...
-| time=8h 0m 0s
-| currency=155
-| xp=105
+| character=Stephen Hawking
+| image=Stephen Hawking Study the Universe.png
+| name=Study the Universe
+| quote=Scanning the heavens...
+| time=10h 0m 0s
+| currency=180
+| xp=119
 | requirements_level=13
-| requirements_building=Diamonds are Forever
-}}
-{{Action
-| image=Smitty Waste Taxpayer Money.png
-| name=Waste Taxpayer Money
-| quote=Breaking the budget...
-| time=8h 0m 0s
-| currency=155
-| xp=105
-| requirements_level=12
-| requirements_building=Central Bureaucracy
+| requirements_building=Satellite Building
 }}
 |}
 {{Section Top|Actions}}
+
 {{Outfit Gallery}}
